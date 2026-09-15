@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Great West Casualty Company](https://ssl.gwccnet.com)** | **[Intern / Legal](https://jobright.ai/jobs/info/6aa9676d6d0edc2d91b097f2?utm_campaign=1055&utm_source=git)** | South Sioux City, NE, United States | On Site | Sep 15 |
+| **[Chicago Public Schools](http://www.cps.edu)** | **[Law Clerk, School Law Fall 2026](https://jobright.ai/jobs/info/6aa960f809ae03adcacdd166?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Sep 15 |
 | **[World Wide Technology](http://www.wwt.com)** | **[Legal & Compliance Contracts Intern - 2027](https://jobright.ai/jobs/info/6a8c4c02cde3717f9e9bc313?utm_campaign=1055&utm_source=git)** | Maryland Heights, MO, United States | On Site | Sep 15 |
 | **[Syngenta](http://www.syngenta.com)** | **[Regulatory & Stewardship Intern](https://jobright.ai/jobs/info/6aa94d896d0edc2d91b08eb9?utm_campaign=1055&utm_source=git)** | Greensboro, NC, United States | On Site | Sep 15 |
 | **[CEO Lawyer Personal Injury Law Firm](https://aliawadlaw.com/)** | **[Legal Interns Summer 2027](https://jobright.ai/jobs/info/6aa948bc28e24cb3851398cd?utm_campaign=1055&utm_source=git)** | Kentucky, United States | On Site | Sep 15 |
@@ -81,12 +83,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Advisory Intern, Risk, Claims Recovery - Winter 2027 (Chicago, Dallas, Grand Rapids)](https://jobright.ai/jobs/info/6a8f0c58f841e649a719053a?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Sep 14 |
 | **[National Indemnity Company](https://www.nationalindemnity.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/6aa89caa3a9f0a4fe6f1a03f?utm_campaign=1055&utm_source=git)** | Omaha, NE, United States | On Site | Sep 14 |
 | **[BHC Alhambra Hospital, Inc.](https://www.bhcalhambra.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6aa8b2446d0edc2d91b07207?utm_campaign=1055&utm_source=git)** | King of Prussia, PA, United States | Hybrid | Sep 14 |
-| **[Novogradac](https://www.novoco.com)** | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b0e717ddad6a8a47cb51?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 14 |
-| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b3456d0edc2d91b0728f?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | On Site | Sep 14 |
-| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b2e96d0edc2d91b07269?utm_campaign=1055&utm_source=git)** | Toms River, NJ, United States | On Site | Sep 14 |
-| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b32e6d0edc2d91b0728b?utm_campaign=1055&utm_source=git)** | Naples, FL, United States | On Site | Sep 14 |
-| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa84e6f3a9f0a4fe6f18719?utm_campaign=1055&utm_source=git)** | Austin, TX, United States | On Site | Sep 14 |
+| **[Novogradac](https://www.novoco.com)** | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa84e6f3a9f0a4fe6f18719?utm_campaign=1055&utm_source=git)** | Austin, TX, United States | On Site | Sep 14 |
 | ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b3d717ddad6a8a47ccc3?utm_campaign=1055&utm_source=git)** | Cleveland, OH, United States | On Site | Sep 14 |
+| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b3456d0edc2d91b0728f?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | On Site | Sep 14 |
+| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b32e6d0edc2d91b0728b?utm_campaign=1055&utm_source=git)** | Naples, FL, United States | On Site | Sep 14 |
+| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b2e96d0edc2d91b07269?utm_campaign=1055&utm_source=git)** | Toms River, NJ, United States | On Site | Sep 14 |
+| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b0e717ddad6a8a47cb51?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 14 |
 | **[Berkshire Hathaway Homestate Companies - Workers Compensation Division](https://www.bhhc.com)** | **[Law Clerk](https://jobright.ai/jobs/info/6aa868b8930bff471a2a724a?utm_campaign=1055&utm_source=git)** | Omaha, NE, United States | On Site | Sep 14 |
 | **[Peachford Hospital](http://peachford.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6aa8a92e4cb6b0e0b828e0d7?utm_campaign=1055&utm_source=git)** | King of Prussia, PA, United States | Hybrid | Sep 14 |
 | **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Civil Practice Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6aa8a822f74328685440fd34?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Sep 14 |
@@ -108,6 +110,7 @@ For a complete list, click the following sortable link below:
 | **[Via Linda Behavioral Hospital](https://vialindabehavioral.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6aa8984d2ed333b4ea5d028f?utm_campaign=1055&utm_source=git)** | King of Prussia, PA, United States | Hybrid | Sep 14 |
 | **[Prominence Health](https://prominencemedicare.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6aa8984d930bff471a2a7ff2?utm_campaign=1055&utm_source=git)** | King of Prussia, PA, United States | Hybrid | Sep 14 |
 | **[Fuller Hospital](https://www.fullerhospital.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6aa88fc9654b2a9424cfd636?utm_campaign=1055&utm_source=git)** | King of Prussia, PA, United States | Hybrid | Sep 14 |
+| **[Greystone](https://www.greystone.com)** | **[Compliance Intern - Summer 2027](https://jobright.ai/jobs/info/6aa9618a6d0edc2d91b095fe?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Sep 14 |
 | **[STERIS](http://steris.com)** | **[Quality & Regulatory Compliance Intern - Fall 2026-Spring 2027](https://jobright.ai/jobs/info/6aa8420282e82a31997c4c75?utm_campaign=1055&utm_source=git)** | Mentor, OH, United States | On Site | Sep 14 |
 | **[Central Florida Behavioral Hospital](https://centralfloridabehavioral.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6aa8890d82e82a31997c66ef?utm_campaign=1055&utm_source=git)** | King of Prussia, PA, United States | Hybrid | Sep 14 |
 | **[Riverside Medical Clinic](https://www.riversidemedicalclinic.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6aa88729930bff471a2a7c7e?utm_campaign=1055&utm_source=git)** | King of Prussia, PA, United States | Hybrid | Sep 14 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 Intern - Law - St. Petersburg, FL CLC](https://jobright.ai/jobs/info/6a9ad08dd5ff1f3f1c39b560?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL, United States | Hybrid | Sep 14 |
 | ↳ | **[Summer 2027 Intern - Law - Miami, FL CLC](https://jobright.ai/jobs/info/6a9ad04cd5ff1f3f1c39b553?utm_campaign=1055&utm_source=git)** | Miami, FL, United States | Hybrid | Sep 14 |
 | ↳ | **[Summer 2027 Intern - Law - Mount Laurel, NJ CLC](https://jobright.ai/jobs/info/6a9ad04990a313642c656421?utm_campaign=1055&utm_source=git)** | Mount Laurel, NJ, United States | Hybrid | Sep 14 |
-| **[Raymond James](https://www.raymondjames.com/halifaxwealthmanagement)** | **[2027 Summer Internship Program - Compliance (St. Petersburg, FL)](https://jobright.ai/jobs/info/6aa80b1f2ed333b4ea5cce78?utm_campaign=1055&utm_source=git)** | Saint Petersburg, FL, United States | Hybrid | Sep 14 |
-| ↳ | **[2027 Summer Internship Program – Risk Management Intern (St. Petersburg, FL)](https://jobright.ai/jobs/info/6aa82af6930bff471a2a59b7?utm_campaign=1055&utm_source=git)** | Saint Petersburg, FL, United States | Hybrid | Sep 14 |
-| **[Maryland Legal Aid](https://www.mdlab.org)** | **[Equal Justice Works Attorney Fellow - Financial Empowerment Project](https://jobright.ai/jobs/info/6a88c2e525fc4e7ae3db2469?utm_campaign=1055&utm_source=git)** | Baltimore, MD, United States | On Site | Sep 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

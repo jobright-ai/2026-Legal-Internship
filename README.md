@@ -64,12 +64,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Advisory Intern, Risk, Claims Recovery - Winter 2027 (Chicago, Dallas, Grand Rapids)](https://jobright.ai/jobs/info/6a8f0c58f841e649a719053a?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Sep 14 |
 | **[National Indemnity Company](https://www.nationalindemnity.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/6aa89caa3a9f0a4fe6f1a03f?utm_campaign=1055&utm_source=git)** | Omaha, NE, United States | On Site | Sep 14 |
 | **[BHC Alhambra Hospital, Inc.](https://www.bhcalhambra.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6aa8b2446d0edc2d91b07207?utm_campaign=1055&utm_source=git)** | King of Prussia, PA, United States | Hybrid | Sep 14 |
-| **[Novogradac](https://www.novoco.com)** | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b3d717ddad6a8a47ccc3?utm_campaign=1055&utm_source=git)** | Cleveland, OH, United States | On Site | Sep 14 |
-| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b2e96d0edc2d91b07269?utm_campaign=1055&utm_source=git)** | Toms River, NJ, United States | On Site | Sep 14 |
-| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b32e6d0edc2d91b0728b?utm_campaign=1055&utm_source=git)** | Naples, FL, United States | On Site | Sep 14 |
-| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b3456d0edc2d91b0728f?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | On Site | Sep 14 |
+| **[Novogradac](https://www.novoco.com)** | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b32e6d0edc2d91b0728b?utm_campaign=1055&utm_source=git)** | Naples, FL, United States | On Site | Sep 14 |
+| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b3d717ddad6a8a47ccc3?utm_campaign=1055&utm_source=git)** | Cleveland, OH, United States | On Site | Sep 14 |
 | ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b0e717ddad6a8a47cb51?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 14 |
 | ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa84e6f3a9f0a4fe6f18719?utm_campaign=1055&utm_source=git)** | Austin, TX, United States | On Site | Sep 14 |
+| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b2e96d0edc2d91b07269?utm_campaign=1055&utm_source=git)** | Toms River, NJ, United States | On Site | Sep 14 |
+| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b3456d0edc2d91b0728f?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | On Site | Sep 14 |
 | **[Berkshire Hathaway Homestate Companies - Workers Compensation Division](https://www.bhhc.com)** | **[Law Clerk](https://jobright.ai/jobs/info/6aa868b8930bff471a2a724a?utm_campaign=1055&utm_source=git)** | Omaha, NE, United States | On Site | Sep 14 |
 | **[Peachford Hospital](http://peachford.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6aa8a92e4cb6b0e0b828e0d7?utm_campaign=1055&utm_source=git)** | King of Prussia, PA, United States | Hybrid | Sep 14 |
 | **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Civil Practice Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6aa8a822f74328685440fd34?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Sep 14 |

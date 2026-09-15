@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Textron Aviation](http://txtav.com)** | **[2027 Intern - Contracts - Hunt Valley, MD](https://jobright.ai/jobs/info/6a966534455eaf6a08c1729a?utm_campaign=1055&utm_source=git)** | Hunt Valley, MD, United States | On Site | Sep 15 |
+| ↳ | **[2027 Intern - Intellectual Property - Hunt Valley, MD](https://jobright.ai/jobs/info/6a966521d13b4819f39db91e?utm_campaign=1055&utm_source=git)** | Hunt Valley, MD, United States | On Site | Sep 15 |
+| **[Textron](http://textron.com)** | **[2027 Summer Intern - Contracts - Fort Worth, TX](https://jobright.ai/jobs/info/6a96643769b865490a631c99?utm_campaign=1055&utm_source=git)** | Fort Worth, TX, United States | On Site | Sep 15 |
 | **[Siemens Government Technologies](https://www.siemensgovt.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6aa8ca0710b1cd4f41604032?utm_campaign=1055&utm_source=git)** | Arlington, VA, United States | Hybrid | Sep 14 |
 | **[CHS Inc.](https://chsinc.com)** | **[PHMSA Compliance Intern Job Details / CHS, Inc.](https://jobright.ai/jobs/info/6aa8c83683a6750b1adfa2d4?utm_campaign=1055&utm_source=git)** | Laurel, MT 59044-8731, United States | On Site | Sep 14 |
 | **[Better Morning, Inc](https://www.bettermorninginc.com)** | **[Compliance and QI Interns](https://jobright.ai/jobs/info/6aa8c223eff87f571fc97ac8?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | On Site | Sep 14 |
@@ -64,12 +67,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Advisory Intern, Risk, Claims Recovery - Winter 2027 (Chicago, Dallas, Grand Rapids)](https://jobright.ai/jobs/info/6a8f0c58f841e649a719053a?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Sep 14 |
 | **[National Indemnity Company](https://www.nationalindemnity.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/6aa89caa3a9f0a4fe6f1a03f?utm_campaign=1055&utm_source=git)** | Omaha, NE, United States | On Site | Sep 14 |
 | **[BHC Alhambra Hospital, Inc.](https://www.bhcalhambra.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6aa8b2446d0edc2d91b07207?utm_campaign=1055&utm_source=git)** | King of Prussia, PA, United States | Hybrid | Sep 14 |
-| **[Novogradac](https://www.novoco.com)** | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b32e6d0edc2d91b0728b?utm_campaign=1055&utm_source=git)** | Naples, FL, United States | On Site | Sep 14 |
-| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b3d717ddad6a8a47ccc3?utm_campaign=1055&utm_source=git)** | Cleveland, OH, United States | On Site | Sep 14 |
+| **[Novogradac](https://www.novoco.com)** | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b3456d0edc2d91b0728f?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | On Site | Sep 14 |
 | ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b0e717ddad6a8a47cb51?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 14 |
+| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b32e6d0edc2d91b0728b?utm_campaign=1055&utm_source=git)** | Naples, FL, United States | On Site | Sep 14 |
 | ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa84e6f3a9f0a4fe6f18719?utm_campaign=1055&utm_source=git)** | Austin, TX, United States | On Site | Sep 14 |
+| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b3d717ddad6a8a47ccc3?utm_campaign=1055&utm_source=git)** | Cleveland, OH, United States | On Site | Sep 14 |
 | ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b2e96d0edc2d91b07269?utm_campaign=1055&utm_source=git)** | Toms River, NJ, United States | On Site | Sep 14 |
-| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b3456d0edc2d91b0728f?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | On Site | Sep 14 |
 | **[Berkshire Hathaway Homestate Companies - Workers Compensation Division](https://www.bhhc.com)** | **[Law Clerk](https://jobright.ai/jobs/info/6aa868b8930bff471a2a724a?utm_campaign=1055&utm_source=git)** | Omaha, NE, United States | On Site | Sep 14 |
 | **[Peachford Hospital](http://peachford.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6aa8a92e4cb6b0e0b828e0d7?utm_campaign=1055&utm_source=git)** | King of Prussia, PA, United States | Hybrid | Sep 14 |
 | **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Civil Practice Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6aa8a822f74328685440fd34?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Sep 14 |
@@ -84,8 +87,8 @@ For a complete list, click the following sortable link below:
 | **[St. Mary's Regional Medical Center](http://stmarysregional.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6aa899902ed333b4ea5d02c6?utm_campaign=1055&utm_source=git)** | King of Prussia, PA, United States | Hybrid | Sep 14 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship Opportunities - Summer 2027 - Public Defender Division - Statewide](https://jobright.ai/jobs/info/6aa830ef2ed333b4ea5cdd4d?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | On Site | Sep 14 |
 | ↳ | **[Internship Opportunities - Summer 2027 - Public Defender Division - Statewide](https://jobright.ai/jobs/info/6aa831b9930bff471a2a5ba1?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 14 |
-| ↳ | **[Internship Opportunities - Summer 2027 - Private Counsel Division & Specialty Units - Statewide](https://jobright.ai/jobs/info/6aa830d62ed333b4ea5cdd43?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | On Site | Sep 14 |
 | ↳ | **[Internship Opportunities - Summer 2027 - Mental Health Litigation Division - Statewide](https://jobright.ai/jobs/info/6aa830942ed333b4ea5cdd39?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | On Site | Sep 14 |
+| ↳ | **[Internship Opportunities - Summer 2027 - Private Counsel Division & Specialty Units - Statewide](https://jobright.ai/jobs/info/6aa830d62ed333b4ea5cdd43?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | On Site | Sep 14 |
 | ↳ | **[Internship - PDD Boston - Spring 2027](https://jobright.ai/jobs/info/6aa830813a9f0a4fe6f17c64?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | On Site | Sep 14 |
 | **[Fairfax Behavioral Health](https://www.fairfaxhospital.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6aa8985b82e82a31997c69fb?utm_campaign=1055&utm_source=git)** | King of Prussia, PA, United States | Hybrid | Sep 14 |
 | **[Via Linda Behavioral Hospital](https://vialindabehavioral.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6aa8984d2ed333b4ea5d028f?utm_campaign=1055&utm_source=git)** | King of Prussia, PA, United States | Hybrid | Sep 14 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Washington County](http://www.co.washington.or.us/)** | **[District Attorney - Domestic Violence Paralegal Intern](https://jobright.ai/jobs/info/6aa81cdc3a9f0a4fe6f172c9?utm_campaign=1055&utm_source=git)** | Hillsboro, OR, United States | On Site | Sep 14 |
 | **[Alliance Laundry Systems LLC](https://alliancelaundry.com/)** | **[Regulatory Compliance Intern](https://jobright.ai/jobs/info/6aa82269654b2a9424cfad97?utm_campaign=1055&utm_source=git)** | Ripon, WI, United States | On Site | Sep 14 |
 | **[ERCOT](http://www.ercot.com/)** | **[Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/6aa80efd3a9f0a4fe6f16ef4?utm_campaign=1055&utm_source=git)** | Taylor, TX, United States | Hybrid | Sep 14 |
-| **[BNY](https://www.bny.com)** | **[2027 BNY Summer Internship Program - Risk and Compliance (Pittsburgh, PA)](https://jobright.ai/jobs/info/6a8c3f5fcde3717f9e9bc03b?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA, United States | Hybrid | Sep 14 |
-| **[Farm Credit Illinois](https://www.farmcreditil.com/)** | **[Risk Intern](https://jobright.ai/jobs/info/6aa7ff56930bff471a2a48f2?utm_campaign=1055&utm_source=git)** | Mahomet, IL, United States | On Site | Sep 14 |
-| **[Robinhood](https://www.robinhood.com)** | **[Fraud Operations Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa7ec88a77a53f5a1576696?utm_campaign=1055&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

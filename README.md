@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Syngenta](http://www.syngenta.com)** | **[Regulatory & Stewardship Intern](https://jobright.ai/jobs/info/6aa94d896d0edc2d91b08eb9?utm_campaign=1055&utm_source=git)** | Greensboro, NC, United States | On Site | Sep 15 |
+| **[CEO Lawyer Personal Injury Law Firm](https://aliawadlaw.com/)** | **[Legal Interns Summer 2027](https://jobright.ai/jobs/info/6aa948bc28e24cb3851398cd?utm_campaign=1055&utm_source=git)** | Kentucky, United States | On Site | Sep 15 |
 | **[APCO](http://www.apcoworldwide.com)** | **[Crisis Management & Litigation Communications Internship - Winter/Spring '27](https://jobright.ai/jobs/info/6aa94391eff87f571fc98d16?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Sep 15 |
 | ↳ | **[Crisis Management & Litigation Communications Internship - Winter/Spring '27](https://jobright.ai/jobs/info/6aa9423210b1cd4f4160510b?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 15 |
 | **[RBC](https://www.rbc.com)** | **[2027 Winter - GRM, Global Economic Sanctions Intern (4 Months)](https://jobright.ai/jobs/info/6aa93d676d0edc2d91b08a31?utm_campaign=1055&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 15 |
@@ -78,11 +80,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Advisory Intern, Risk, Claims Recovery - Winter 2027 (Chicago, Dallas, Grand Rapids)](https://jobright.ai/jobs/info/6a8f0c58f841e649a719053a?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Sep 14 |
 | **[National Indemnity Company](https://www.nationalindemnity.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/6aa89caa3a9f0a4fe6f1a03f?utm_campaign=1055&utm_source=git)** | Omaha, NE, United States | On Site | Sep 14 |
 | **[BHC Alhambra Hospital, Inc.](https://www.bhcalhambra.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6aa8b2446d0edc2d91b07207?utm_campaign=1055&utm_source=git)** | King of Prussia, PA, United States | Hybrid | Sep 14 |
-| **[Novogradac](https://www.novoco.com)** | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b0e717ddad6a8a47cb51?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 14 |
-| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa84e6f3a9f0a4fe6f18719?utm_campaign=1055&utm_source=git)** | Austin, TX, United States | On Site | Sep 14 |
-| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b2e96d0edc2d91b07269?utm_campaign=1055&utm_source=git)** | Toms River, NJ, United States | On Site | Sep 14 |
-| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b3456d0edc2d91b0728f?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | On Site | Sep 14 |
+| **[Novogradac](https://www.novoco.com)** | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b2e96d0edc2d91b07269?utm_campaign=1055&utm_source=git)** | Toms River, NJ, United States | On Site | Sep 14 |
 | ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b32e6d0edc2d91b0728b?utm_campaign=1055&utm_source=git)** | Naples, FL, United States | On Site | Sep 14 |
+| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b3456d0edc2d91b0728f?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | On Site | Sep 14 |
+| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b0e717ddad6a8a47cb51?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 14 |
+| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa84e6f3a9f0a4fe6f18719?utm_campaign=1055&utm_source=git)** | Austin, TX, United States | On Site | Sep 14 |
 | ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b3d717ddad6a8a47ccc3?utm_campaign=1055&utm_source=git)** | Cleveland, OH, United States | On Site | Sep 14 |
 | **[Berkshire Hathaway Homestate Companies - Workers Compensation Division](https://www.bhhc.com)** | **[Law Clerk](https://jobright.ai/jobs/info/6aa868b8930bff471a2a724a?utm_campaign=1055&utm_source=git)** | Omaha, NE, United States | On Site | Sep 14 |
 | **[Peachford Hospital](http://peachford.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6aa8a92e4cb6b0e0b828e0d7?utm_campaign=1055&utm_source=git)** | King of Prussia, PA, United States | Hybrid | Sep 14 |
@@ -148,7 +150,6 @@ For a complete list, click the following sortable link below:
 | **[State Farm](https://www.statefarm.com)** | **[Summer 2027 Intern - Law - Fort Lauderdale, FL CLC](https://jobright.ai/jobs/info/6a9ad10f9c24314c35f9573c?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL, United States | Hybrid | Sep 14 |
 | **[Raymond James](https://www.raymondjames.com/halifaxwealthmanagement)** | **[2027 Summer Associate - Law Clerk (St. Petersburg, FL - Hybrid or Virtual)](https://jobright.ai/jobs/info/6aa82b5f3a9f0a4fe6f17b05?utm_campaign=1055&utm_source=git)** | Saint Petersburg, FL, United States | Remote | Sep 14 |
 | **[State Farm](https://www.statefarm.com)** | **[Summer 2027 Intern - Law - Washington, DC CLC](https://jobright.ai/jobs/info/6a9ad04efe45b8490f604785?utm_campaign=1055&utm_source=git)** | Bowie, MD, United States | Hybrid | Sep 14 |
-| ↳ | **[Summer 2027 Intern - Law - Chicago, IL CLC](https://jobright.ai/jobs/info/6a9ad04b90a313642c656422?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 14 |
 | ↳ | **[Summer 2027 Intern - Law - St. Petersburg, FL CLC](https://jobright.ai/jobs/info/6a9ad08dd5ff1f3f1c39b560?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL, United States | Hybrid | Sep 14 |
 | ↳ | **[Summer 2027 Intern - Law - Miami, FL CLC](https://jobright.ai/jobs/info/6a9ad04cd5ff1f3f1c39b553?utm_campaign=1055&utm_source=git)** | Miami, FL, United States | Hybrid | Sep 14 |
 | ↳ | **[Summer 2027 Intern - Law - Mount Laurel, NJ CLC](https://jobright.ai/jobs/info/6a9ad04990a313642c656421?utm_campaign=1055&utm_source=git)** | Mount Laurel, NJ, United States | Hybrid | Sep 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Summer Internship Program – Risk Management Intern (St. Petersburg, FL)](https://jobright.ai/jobs/info/6aa82af6930bff471a2a59b7?utm_campaign=1055&utm_source=git)** | Saint Petersburg, FL, United States | Hybrid | Sep 14 |
 | **[Maryland Legal Aid](https://www.mdlab.org)** | **[Equal Justice Works Attorney Fellow - Financial Empowerment Project](https://jobright.ai/jobs/info/6a88c2e525fc4e7ae3db2469?utm_campaign=1055&utm_source=git)** | Baltimore, MD, United States | On Site | Sep 14 |
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2027 Legal Summer Internship Program](https://jobright.ai/jobs/info/6aa80b22930bff471a2a4d74?utm_campaign=1055&utm_source=git)** | Pontiac, MI, United States | On Site | Sep 14 |
-| **[Federal Reserve Board](https://www.federalreserve.gov/)** | **[Year-Round Graduate Intern, Supervision, RFBO - Division of Supervision & Regulation](https://jobright.ai/jobs/info/6aa82b3e2ed333b4ea5cdb9a?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | On Site | Sep 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

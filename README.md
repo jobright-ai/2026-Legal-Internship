@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a54de0031f2d15a8d813b4c?utm_campaign=1055&utm_source=git)** | Almo Corporation - Philadelphia, PA 19154 | On Site | Sep 16 |
+| **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Fall 2026](https://jobright.ai/jobs/info/6a91ad35c12c90443efc756c?utm_campaign=1055&utm_source=git)** | Doral, Florida, United States | Hybrid | Sep 16 |
 | **[Textron](http://textron.com)** | **[2027 Trade Compliance Intern](https://jobright.ai/jobs/info/6a97eba2c8ed473c5c761926?utm_campaign=1055&utm_source=git)** | Augusta, GA, United States | On Site | Sep 16 |
 | ↳ | **[2027 Intern - Intellectual Property - Hunt Valley, MD](https://jobright.ai/jobs/info/6a97ebafaf954907d6570df3?utm_campaign=1055&utm_source=git)** | Hunt Valley, MD, United States | On Site | Sep 16 |
 | ↳ | **[2027 Intern - Contracts - Hunt Valley, MD](https://jobright.ai/jobs/info/6a97eae4c8ed473c5c76190a?utm_campaign=1055&utm_source=git)** | Hunt Valley, MD, United States | On Site | Sep 16 |
@@ -73,12 +75,11 @@ For a complete list, click the following sortable link below:
 | **[City of Indianapolis](https://www.indy.gov/)** | **[Intern-Chief of Staff - DPW-Financial Services](https://jobright.ai/jobs/info/6aaa14df10b1cd4f41609c65?utm_campaign=1055&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 15 |
 | **[SunOpta](https://www.sunopta.com/)** | **[Regulatory and Labeling Intern](https://jobright.ai/jobs/info/6aa9d9fc6d0edc2d91b0bff8?utm_campaign=1055&utm_source=git)** | Eden Prairie, MN, United States | On Site | Sep 15 |
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6aa9b0c96d0edc2d91b0aa00?utm_campaign=1055&utm_source=git)** | Atlanta, Georgia, United States | On Site | Sep 15 |
+| **[POET](http://www.poet.com)** | **[Legal Intern - Summer 2027](https://jobright.ai/jobs/info/6aa9e6a710b1cd4f41608ba0?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD, United States | On Site | Sep 15 |
 | **[Howden Re](https://howdenre.com)** | **[Reinsurance Contracts Intern](https://jobright.ai/jobs/info/6aa9cf6209ae03adcacdf6eb?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Sep 15 |
 | **[ArchCity Defenders](https://www.archcitydefenders.org)** | **[Summer 2027 Criminal & Municipal Legal Internship](https://jobright.ai/jobs/info/6aa9e8c36d0edc2d91b0c69e?utm_campaign=1055&utm_source=git)** | St. Louis, MO, United States | On Site | Sep 15 |
-| **[POET](http://www.poet.com)** | **[Legal Intern - Summer 2027](https://jobright.ai/jobs/info/6aa9e42c6d0edc2d91b0c4c2?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD, United States | On Site | Sep 15 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Risk & Compliance Services Summer Intern – Business Risk Services](https://jobright.ai/jobs/info/6aa9bce1eff87f571fc9b1ab?utm_campaign=1055&utm_source=git)** | Baton Rouge, LA, United States | Hybrid | Sep 15 |
 | **[Live Oak Bank](https://www.liveoakbank.com)** | **[Summer 2027 Intern: Enterprise Risk Management & Compliance](https://jobright.ai/jobs/info/6aaa277ea2db131437b60bf2?utm_campaign=1055&utm_source=git)** | Wilmington, NC, United States | On Site | Sep 15 |
-| **[Arkansas Electric Cooperative Corporation](https://aecc.com/)** | **[Intern-Corporate Compliance](https://jobright.ai/jobs/info/6aaa56647b90b62e263e21b8?utm_campaign=1055&utm_source=git)** | Little Rock, AR, United States | On Site | Sep 15 |
 | **[Textron Aviation](http://txtav.com)** | **[2027 Trade Compliance Intern](https://jobright.ai/jobs/info/6a97437e246d697dcee048da?utm_campaign=1055&utm_source=git)** | Augusta, GA, United States | On Site | Sep 15 |
 | **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2027 Trade Compliance Intern](https://jobright.ai/jobs/info/6a974235d13b4819f39e03ad?utm_campaign=1055&utm_source=git)** | Augusta, GA, United States | On Site | Sep 15 |
 | **[ICF](https://www.icf.com)** | **[2027 Summer Intern, Contracts Administration (Reston, VA)](https://jobright.ai/jobs/info/6aa9d25628e24cb38513c81b?utm_campaign=1055&utm_source=git)** | Reston, VA, United States | Hybrid | Sep 15 |
@@ -144,11 +145,11 @@ For a complete list, click the following sortable link below:
 | **[National Indemnity Company](https://www.nationalindemnity.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/6aa89caa3a9f0a4fe6f1a03f?utm_campaign=1055&utm_source=git)** | Omaha, NE, United States | On Site | Sep 14 |
 | **[BHC Alhambra Hospital, Inc.](https://www.bhcalhambra.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6aa8b2446d0edc2d91b07207?utm_campaign=1055&utm_source=git)** | King of Prussia, PA, United States | Hybrid | Sep 14 |
 | **[Novogradac](https://www.novoco.com)** | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b2e96d0edc2d91b07269?utm_campaign=1055&utm_source=git)** | Toms River, NJ, United States | On Site | Sep 14 |
-| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b0e717ddad6a8a47cb51?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 14 |
-| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa84e6f3a9f0a4fe6f18719?utm_campaign=1055&utm_source=git)** | Austin, TX, United States | On Site | Sep 14 |
-| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b3456d0edc2d91b0728f?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | On Site | Sep 14 |
 | ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b3d717ddad6a8a47ccc3?utm_campaign=1055&utm_source=git)** | Cleveland, OH, United States | On Site | Sep 14 |
+| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa84e6f3a9f0a4fe6f18719?utm_campaign=1055&utm_source=git)** | Austin, TX, United States | On Site | Sep 14 |
+| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b0e717ddad6a8a47cb51?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 14 |
 | ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b32e6d0edc2d91b0728b?utm_campaign=1055&utm_source=git)** | Naples, FL, United States | On Site | Sep 14 |
+| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b3456d0edc2d91b0728f?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | On Site | Sep 14 |
 | **[Berkshire Hathaway Homestate Companies - Workers Compensation Division](https://www.bhhc.com)** | **[Law Clerk](https://jobright.ai/jobs/info/6aa868b8930bff471a2a724a?utm_campaign=1055&utm_source=git)** | Omaha, NE, United States | On Site | Sep 14 |
 | **[Peachford Hospital](http://peachford.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6aa8a92e4cb6b0e0b828e0d7?utm_campaign=1055&utm_source=git)** | King of Prussia, PA, United States | Hybrid | Sep 14 |
 | **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Civil Practice Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6aa8a822f74328685440fd34?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Sep 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Palmdale Regional Medical Center](https://www.palmdaleregional.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6aa8a4c2f5332f8b86243abb?utm_campaign=1055&utm_source=git)** | King of Prussia, PA, United States | Hybrid | Sep 14 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Economic Damages & Valuation Internship - Summer 2027](https://jobright.ai/jobs/info/6aa8a0e04cb6b0e0b828d8fc?utm_campaign=1055&utm_source=git)** | Alpharetta, GA, United States | Hybrid | Sep 14 |
 | **[SIERRA VISTA HOSPITAL](https://sierravistahospital.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6aa89f5582e82a31997c6b3c?utm_campaign=1055&utm_source=git)** | King of Prussia, PA, United States | Hybrid | Sep 14 |
-| **[Pembroke Hospital](https://pembrokehospital.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6aa89d242ed333b4ea5d033e?utm_campaign=1055&utm_source=git)** | King of Prussia, PA, United States | Hybrid | Sep 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dinsmore & Shohl LLP](http://www.dinsmore.com)** | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998efbfce78e77b4fdd8150?utm_campaign=1055&utm_source=git)** | Cleveland, OH, United States | On Site | Sep 16 |
+| ↳ | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998ee6dce78e77b4fdd7fa7?utm_campaign=1055&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 16 |
+| ↳ | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998f9cae0bddb6acac7eaf6?utm_campaign=1055&utm_source=git)** | San Diego, CA, United States | On Site | Sep 16 |
 | **[Colorado Legal Services](http://www.coloradolegalservices.org/)** | **[Spring Law Student Internship – Denver Housing Unit](https://jobright.ai/jobs/info/6aaac8ae76707040fb082375?utm_campaign=1055&utm_source=git)** | Denver, CO, United States | On Site | Sep 16 |
 | **[Shook, Hardy & Bacon L.L.P.](http://www.shb.com)** | **[IP Legal Administrative Assistant Intern](https://jobright.ai/jobs/info/6aaab7854be87a72913a0c98?utm_campaign=1055&utm_source=git)** | Kansas City, MO, United States | On Site | Sep 16 |
 | **[IBM](http://www.ibm.com)** | **[2027 Risk Management & Controls Intern – Americas](https://jobright.ai/jobs/info/6a9917a1dd171c7285793b74?utm_campaign=1055&utm_source=git)** | Armonk, NY, United States | Hybrid | Sep 16 |
@@ -64,12 +67,12 @@ For a complete list, click the following sortable link below:
 | **[Wabash Valley Power Alliance](https://www.wvpa.com/)** | **[Technology & Compliance Internship - Summer 2027](https://jobright.ai/jobs/info/6aaab9384be87a72913a0e44?utm_campaign=1055&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 16 |
 | **[STAR Financial Bank](https://www.starfinancial.com)** | **[FRAUD INTERN - SUMMER 2027  - FORT WAYNE](https://jobright.ai/jobs/info/6aaab73340807b73bd39169e?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN, United States | On Site | Sep 16 |
 | **[WorkSafeBC](https://www.worksafebc.com/en)** | **[Review Officer Intern](https://jobright.ai/jobs/info/6aaab4114be87a72913a0aa1?utm_campaign=1055&utm_source=git)** | Richmond, British Columbia, Canada | On Site | Sep 16 |
-| **[Novogradac](https://www.novoco.com)** | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b3d717ddad6a8a47ccc3?utm_campaign=1055&utm_source=git)** | Cleveland, OH, United States | On Site | Sep 16 |
+| **[Novogradac](https://www.novoco.com)** | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa84e6f3a9f0a4fe6f18719?utm_campaign=1055&utm_source=git)** | Austin, TX, United States | On Site | Sep 16 |
+| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b0e717ddad6a8a47cb51?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 16 |
+| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b32e6d0edc2d91b0728b?utm_campaign=1055&utm_source=git)** | Naples, FL, United States | On Site | Sep 16 |
+| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b3d717ddad6a8a47ccc3?utm_campaign=1055&utm_source=git)** | Cleveland, OH, United States | On Site | Sep 16 |
 | ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b3456d0edc2d91b0728f?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | On Site | Sep 16 |
 | ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b2e96d0edc2d91b07269?utm_campaign=1055&utm_source=git)** | Toms River, NJ, United States | On Site | Sep 16 |
-| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b0e717ddad6a8a47cb51?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 16 |
-| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa84e6f3a9f0a4fe6f18719?utm_campaign=1055&utm_source=git)** | Austin, TX, United States | On Site | Sep 16 |
-| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b32e6d0edc2d91b0728b?utm_campaign=1055&utm_source=git)** | Naples, FL, United States | On Site | Sep 16 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Spring 2027 Litigation Intern](https://jobright.ai/jobs/info/6a91a9dc9864261ccd29e156?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 16 |
 | **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a54de0031f2d15a8d813b4c?utm_campaign=1055&utm_source=git)** | Almo Corporation - Philadelphia, PA 19154 | On Site | Sep 16 |
 | **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Fall 2026](https://jobright.ai/jobs/info/6a91ad35c12c90443efc756c?utm_campaign=1055&utm_source=git)** | Doral, Florida, United States | Hybrid | Sep 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Modern Insurance Group](https://www.amig.com/)** | **[Intern - Financial Compliance Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6aa905c310b1cd4f416046a4?utm_campaign=1055&utm_source=git)** | Amelia, OH, United States | Hybrid | Sep 15 |
 | **[Textron Aviation](http://txtav.com)** | **[2027 Intern - Contracts - Hunt Valley, MD](https://jobright.ai/jobs/info/6a966534455eaf6a08c1729a?utm_campaign=1055&utm_source=git)** | Hunt Valley, MD, United States | On Site | Sep 15 |
 | ↳ | **[2027 Intern - Intellectual Property - Hunt Valley, MD](https://jobright.ai/jobs/info/6a966521d13b4819f39db91e?utm_campaign=1055&utm_source=git)** | Hunt Valley, MD, United States | On Site | Sep 15 |
-| **[Textron](http://textron.com)** | **[2027 Summer Intern - Contracts - Fort Worth, TX](https://jobright.ai/jobs/info/6a96643769b865490a631c99?utm_campaign=1055&utm_source=git)** | Fort Worth, TX, United States | On Site | Sep 15 |
-| **[Atradius](https://group.atradius.com)** | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/6aaa077a10b1cd4f416098af?utm_campaign=1055&utm_source=git)** | Baltimore, MD, United States | Hybrid | Sep 14 |
-| **[Siemens Government Technologies](https://www.siemensgovt.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6aa8ca0710b1cd4f41604032?utm_campaign=1055&utm_source=git)** | Arlington, VA, United States | Hybrid | Sep 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

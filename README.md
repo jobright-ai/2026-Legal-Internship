@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Compliance Program Intern](https://jobright.ai/jobs/info/6aabe90e636cddf7396f1331?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 17 |
+| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Compliance Program Intern](https://jobright.ai/jobs/info/6aabe6963d96632d741a81ee?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 17 |
+| **[Earthjustice](http://earthjustice.org/)** | **[Spring 2027 Legal Internship – Washington, DC Regional Office](https://jobright.ai/jobs/info/6a85f11e74e02153f145978a?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Remote | Sep 17 |
+| ↳ | **[Spring 2027 Legal Internship – Midwest Regional Office](https://jobright.ai/jobs/info/6a8629c62f4f0014cae28ade?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Remote | Sep 17 |
+| ↳ | **[Spring 2027 Legal Internship – Office of General Counsel](https://jobright.ai/jobs/info/6a85f120e459fa3baa864e99?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Remote | Sep 17 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Economic Damages & Valuation Internship - Summer 2027](https://jobright.ai/jobs/info/6aa8a0e04cb6b0e0b828d8fc?utm_campaign=1055&utm_source=git)** | Alpharetta, GA, United States | Hybrid | Sep 17 |
 | **[Clarios](https://www.clarios.com/)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6a72541c02d93145bf894294?utm_campaign=1055&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Sep 17 |
 | **[Valeo](http://www.valeo.com/en/)** | **[Customs Intern](https://jobright.ai/jobs/info/6aaaf99f40807b73bd3930dc?utm_campaign=1055&utm_source=git)** | Troy, MI, United States | On Site | Sep 17 |
@@ -76,8 +81,9 @@ For a complete list, click the following sortable link below:
 | **[The Inland Real Estate Group of Companies, Inc.](http://www.inlandgroup.com/)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/6aab0f568e1bf0f764af83c7?utm_campaign=1055&utm_source=git)** | Downers Grove, IL, United States | On Site | Sep 16 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Assistant Examiner Intern](https://jobright.ai/jobs/info/6aab00678e1bf0f764af7ceb?utm_campaign=1055&utm_source=git)** | Richmond, VA, United States | On Site | Sep 16 |
 | **[Shure](http://www.shure.com)** | **[Global Trade Compliance Intern](https://jobright.ai/jobs/info/6a989df9c8ed473c5c76521b?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 16 |
-| **[BCI](https://www.bci.ca/)** | **[Legal Affairs Co-op/Internship (Winter 2027)](https://jobright.ai/jobs/info/6aab9aea76707040fb0858ee?utm_campaign=1055&utm_source=git)** | Victoria, BC, Canada | Hybrid | Sep 16 |
-| ↳ | **[Compliance Co-op/Internship (Winter 2027 and/or Summer 2027)](https://jobright.ai/jobs/info/6aab9ae2455e4265cc3478ce?utm_campaign=1055&utm_source=git)** | Victoria, BC, Canada | Hybrid | Sep 16 |
+| **[Johnson & Johnson](https://www.jnj.com)** | **[Global Reg Affairs Intern](https://jobright.ai/jobs/info/6aabefda3e3ce93970c7ac21?utm_campaign=1055&utm_source=git)** | Raritan, NJ, United States | On Site | Sep 16 |
+| **[BCI](https://www.bci.ca/)** | **[Compliance Co-op/Internship (Winter 2027 and/or Summer 2027)](https://jobright.ai/jobs/info/6aab9ae2455e4265cc3478ce?utm_campaign=1055&utm_source=git)** | Victoria, BC, Canada | Hybrid | Sep 16 |
+| ↳ | **[Legal Affairs Co-op/Internship (Winter 2027)](https://jobright.ai/jobs/info/6aab9aea76707040fb0858ee?utm_campaign=1055&utm_source=git)** | Victoria, BC, Canada | Hybrid | Sep 16 |
 | **[Shure](http://www.shure.com)** | **[Global Trade Compliance Intern](https://jobright.ai/jobs/info/6a9a0e0a040e5c3d0759a8bf?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 16 |
 | **[Carson Group](https://www.carsongroup.com/)** | **[Risk Management Intern/Recent Grad](https://jobright.ai/jobs/info/6aaaf98ec85610f4a4842bcc?utm_campaign=1055&utm_source=git)** | Omaha, Nebraska, United States | On Site | Sep 16 |
 | **[Frazier & Deeter](https://www.frazierdeeter.com/)** | **[Campus 2027 Summer Advisory Intern](https://jobright.ai/jobs/info/6aab1648f6bd9d2d17c1b5ee?utm_campaign=1055&utm_source=git)** | Las Vegas, NV, United States | On Site | Sep 16 |
@@ -114,11 +120,11 @@ For a complete list, click the following sortable link below:
 | **[Wabash Valley Power Alliance](https://www.wvpa.com/)** | **[Technology & Compliance Internship - Summer 2027](https://jobright.ai/jobs/info/6aaab9384be87a72913a0e44?utm_campaign=1055&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 16 |
 | **[STAR Financial Bank](https://www.starfinancial.com)** | **[FRAUD INTERN - SUMMER 2027  - FORT WAYNE](https://jobright.ai/jobs/info/6aaab73340807b73bd39169e?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN, United States | On Site | Sep 16 |
 | **[WorkSafeBC](https://www.worksafebc.com/en)** | **[Review Officer Intern](https://jobright.ai/jobs/info/6aaab4114be87a72913a0aa1?utm_campaign=1055&utm_source=git)** | Richmond, British Columbia, Canada | On Site | Sep 16 |
-| **[Novogradac](https://www.novoco.com)** | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b3d717ddad6a8a47ccc3?utm_campaign=1055&utm_source=git)** | Cleveland, OH, United States | On Site | Sep 16 |
+| **[Novogradac](https://www.novoco.com)** | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa84e6f3a9f0a4fe6f18719?utm_campaign=1055&utm_source=git)** | Austin, TX, United States | On Site | Sep 16 |
+| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b3d717ddad6a8a47ccc3?utm_campaign=1055&utm_source=git)** | Cleveland, OH, United States | On Site | Sep 16 |
 | ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b0e717ddad6a8a47cb51?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 16 |
-| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b3456d0edc2d91b0728f?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | On Site | Sep 16 |
 | ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b2e96d0edc2d91b07269?utm_campaign=1055&utm_source=git)** | Toms River, NJ, United States | On Site | Sep 16 |
-| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa84e6f3a9f0a4fe6f18719?utm_campaign=1055&utm_source=git)** | Austin, TX, United States | On Site | Sep 16 |
+| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b3456d0edc2d91b0728f?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | On Site | Sep 16 |
 | ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b32e6d0edc2d91b0728b?utm_campaign=1055&utm_source=git)** | Naples, FL, United States | On Site | Sep 16 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Spring 2027 Litigation Intern](https://jobright.ai/jobs/info/6a91a9dc9864261ccd29e156?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 16 |
 | **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a54de0031f2d15a8d813b4c?utm_campaign=1055&utm_source=git)** | Almo Corporation - Philadelphia, PA 19154 | On Site | Sep 16 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Live Oak Bank](https://www.liveoakbank.com)** | **[Summer 2027 Intern: Enterprise Risk Management & Compliance](https://jobright.ai/jobs/info/6aaa277ea2db131437b60bf2?utm_campaign=1055&utm_source=git)** | Wilmington, NC, United States | On Site | Sep 15 |
 | **[Chevron](http://www.chevron.com)** | **[2026 - 2027 Corporate Affairs Intern](https://jobright.ai/jobs/info/6aaa9db18e1bf0f764af5631?utm_campaign=1055&utm_source=git)** | Houston, TX, United States | On Site | Sep 15 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[Paralegal Technology Intern- 4-month Internship/Co-op (Winter 2027)](https://jobright.ai/jobs/info/6aaac5d9f6bd9d2d17c195ee?utm_campaign=1055&utm_source=git)** | Laval, QC, Canada | On Site | Sep 15 |
-| **[AllianceBernstein](http://www.alliancebernstein.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6aab373340807b73bd3946ca?utm_campaign=1055&utm_source=git)** | Nashville, TN, United States | On Site | Sep 15 |
-| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/6aab373a40807b73bd3946cd?utm_campaign=1055&utm_source=git)** | Nashville, TN, United States | On Site | Sep 15 |
-| **[Textron Aviation](http://txtav.com)** | **[2027 Trade Compliance Intern](https://jobright.ai/jobs/info/6a97437e246d697dcee048da?utm_campaign=1055&utm_source=git)** | Augusta, GA, United States | On Site | Sep 15 |
-| **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2027 Trade Compliance Intern](https://jobright.ai/jobs/info/6a974235d13b4819f39e03ad?utm_campaign=1055&utm_source=git)** | Augusta, GA, United States | On Site | Sep 15 |
-| **[ICF](https://www.icf.com)** | **[2027 Summer Intern, Contracts Administration (Reston, VA)](https://jobright.ai/jobs/info/6aa9d25628e24cb38513c81b?utm_campaign=1055&utm_source=git)** | Reston, VA, United States | Hybrid | Sep 15 |
-| **[ArchCity Defenders](https://www.archcitydefenders.org)** | **[Spring 2027 Housing & Civil Advocacy Legal Internship](https://jobright.ai/jobs/info/6aa9caaf10b1cd4f41607ef6?utm_campaign=1055&utm_source=git)** | St. Louis, MO, United States | On Site | Sep 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

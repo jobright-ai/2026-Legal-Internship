@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Loop Capital](http://www.loopcapital.com)** | **[Legal & Compliance 2027 Summer Intern](https://jobright.ai/jobs/info/6a8784494afae74a08349091?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Sep 17 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Spring 2027 - MHLD](https://jobright.ai/jobs/info/6aac722e3e3ce93970c7d970?utm_campaign=1055&utm_source=git)** | Salem, MA, United States | Hybrid | Sep 17 |
 | **[TransitMatters](https://transitmatters.org)** | **[Cavers Summer 2027 Intern- Rhode Island](https://jobright.ai/jobs/info/6a99fcba551435518ebf2729?utm_campaign=1055&utm_source=git)** | Providence, RI, United States | On Site | Sep 17 |
 | ↳ | **[Cavers Summer 2027 Intern - Massachusetts](https://jobright.ai/jobs/info/6a99fcdb551435518ebf2747?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | On Site | Sep 17 |
@@ -72,9 +73,9 @@ For a complete list, click the following sortable link below:
 | **[Earthjustice](http://earthjustice.org/)** | **[Spring 2027 Legal Internship – Office of General Counsel](https://jobright.ai/jobs/info/6a85f120e459fa3baa864e99?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Remote | Sep 17 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Regulatory Affairs Associate, Co-op/New Grad](https://jobright.ai/jobs/info/6aac8d402e757fcb5c8b5e51?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Sep 17 |
 | **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Law Reform Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a877cbd4afae74a08348d73?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Sep 17 |
+| **[Greenberg Traurig, LLP](https://www.gtlaw.com/)** | **[IP Law Intern](https://jobright.ai/jobs/info/6aac6cae3e3ce93970c7d782?utm_campaign=1055&utm_source=git)** | Minneapolis, MN, United States | On Site | Sep 17 |
 | **[VoteRiders](https://www.voteriders.org/)** | **[VoteRiders Legal Intern](https://jobright.ai/jobs/info/6a99f318040e5c3d07599d66?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 17 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Legal and Compliance, FIS University Program](https://jobright.ai/jobs/info/6aac65763d96632d741aad5c?utm_campaign=1055&utm_source=git)** | Jacksonville, FL, United States | On Site | Sep 17 |
-| **[Greenberg Traurig, LLP](https://www.gtlaw.com/)** | **[IP Law Intern](https://jobright.ai/jobs/info/6aac6d043d96632d741aaf61?utm_campaign=1055&utm_source=git)** | Minneapolis, MN, United States | On Site | Sep 17 |
 | **[NPR](http://www.npr.org)** | **[Office of the General Counsel Externship [For-Credit] – Spring/Summer 2027](https://jobright.ai/jobs/info/6a99eb7f551435518ebf210a?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Remote | Sep 17 |
 | ↳ | **[Office of the General Counsel Copyright [For-Credit] Externship - Summer 2027](https://jobright.ai/jobs/info/6a99eb078a8b765bc55f6517?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Remote | Sep 17 |
 | **[Dominion Energy](http://www.dominionenergy.com)** | **[Intern - Engineer - ERO Compliance](https://jobright.ai/jobs/info/6aac50be3dbb1f8967cea131?utm_campaign=1055&utm_source=git)** | Cayce, SC, United States | On Site | Sep 17 |
@@ -129,10 +130,9 @@ For a complete list, click the following sortable link below:
 | **[Shure](http://www.shure.com)** | **[Global Trade Compliance Intern](https://jobright.ai/jobs/info/6a989df9c8ed473c5c76521b?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 16 |
 | **[Spokane County](http://www.spokanecounty.org//)** | **[Legal Intern (Rule 9); SUPPLEMENTAL](https://jobright.ai/jobs/info/6aac3edc3d96632d741aa034?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 16 |
 | **[Johnson & Johnson](https://www.jnj.com)** | **[Global Reg Affairs Intern](https://jobright.ai/jobs/info/6aabefda3e3ce93970c7ac21?utm_campaign=1055&utm_source=git)** | Raritan, NJ, United States | On Site | Sep 16 |
-| **[Greenberg Traurig, LLP](https://www.gtlaw.com/)** | **[IP Law Intern](https://jobright.ai/jobs/info/6aac6cae3e3ce93970c7d782?utm_campaign=1055&utm_source=git)** | Minneapolis, MN, United States | On Site | Sep 16 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Spring 2027 - MHLD](https://jobright.ai/jobs/info/6aac5564636cddf7396f3a00?utm_campaign=1055&utm_source=git)** | Brockton, MA, United States | Hybrid | Sep 16 |
-| **[BCI](https://www.bci.ca/)** | **[Legal Affairs Co-op/Internship (Winter 2027)](https://jobright.ai/jobs/info/6aab9aea76707040fb0858ee?utm_campaign=1055&utm_source=git)** | Victoria, BC, Canada | Hybrid | Sep 16 |
-| ↳ | **[Compliance Co-op/Internship (Winter 2027 and/or Summer 2027)](https://jobright.ai/jobs/info/6aab9ae2455e4265cc3478ce?utm_campaign=1055&utm_source=git)** | Victoria, BC, Canada | Hybrid | Sep 16 |
+| **[BCI](https://www.bci.ca/)** | **[Compliance Co-op/Internship (Winter 2027 and/or Summer 2027)](https://jobright.ai/jobs/info/6aab9ae2455e4265cc3478ce?utm_campaign=1055&utm_source=git)** | Victoria, BC, Canada | Hybrid | Sep 16 |
+| ↳ | **[Legal Affairs Co-op/Internship (Winter 2027)](https://jobright.ai/jobs/info/6aab9aea76707040fb0858ee?utm_campaign=1055&utm_source=git)** | Victoria, BC, Canada | Hybrid | Sep 16 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate - Legal Intern Summer 2027](https://jobright.ai/jobs/info/6aac3bae2e757fcb5c8b4830?utm_campaign=1055&utm_source=git)** | Parsippany, NJ, United States | On Site | Sep 16 |
 | **[Shure](http://www.shure.com)** | **[Global Trade Compliance Intern](https://jobright.ai/jobs/info/6a9a0e0a040e5c3d0759a8bf?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 16 |
 | **[Carson Group](https://www.carsongroup.com/)** | **[Risk Management Intern/Recent Grad](https://jobright.ai/jobs/info/6aaaf98ec85610f4a4842bcc?utm_campaign=1055&utm_source=git)** | Omaha, Nebraska, United States | On Site | Sep 16 |

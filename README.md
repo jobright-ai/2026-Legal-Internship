@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Law Reform Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a877cbd4afae74a08348d73?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Sep 17 |
+| **[VoteRiders](https://www.voteriders.org/)** | **[VoteRiders Legal Intern](https://jobright.ai/jobs/info/6a99f318040e5c3d07599d66?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 17 |
+| **[FIS](http://www.fisglobal.com)** | **[Intern, Legal and Compliance, FIS University Program](https://jobright.ai/jobs/info/6aac65763d96632d741aad5c?utm_campaign=1055&utm_source=git)** | Jacksonville, FL, United States | On Site | Sep 17 |
+| **[Greenberg Traurig, LLP](https://www.gtlaw.com/)** | **[IP Law Intern](https://jobright.ai/jobs/info/6aac6d043d96632d741aaf61?utm_campaign=1055&utm_source=git)** | Minneapolis, MN, United States | On Site | Sep 17 |
+| **[NPR](http://www.npr.org)** | **[Office of the General Counsel Externship [For-Credit] – Spring/Summer 2027](https://jobright.ai/jobs/info/6a99eb7f551435518ebf210a?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Remote | Sep 17 |
+| ↳ | **[Office of the General Counsel Copyright [For-Credit] Externship - Summer 2027](https://jobright.ai/jobs/info/6a99eb078a8b765bc55f6517?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Remote | Sep 17 |
 | **[Dominion Energy](http://www.dominionenergy.com)** | **[Intern - Engineer - ERO Compliance](https://jobright.ai/jobs/info/6aac50be3dbb1f8967cea131?utm_campaign=1055&utm_source=git)** | Cayce, SC, United States | On Site | Sep 17 |
 | **[Bridgewater Bank](https://www.bridgewaterbankmn.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6aac39a73e3ce93970c7c707?utm_campaign=1055&utm_source=git)** | St Louis Park, MN, United States | On Site | Sep 17 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Senior Legal Intern (Juris Doctor Students)](https://jobright.ai/jobs/info/6aac0d422e757fcb5c8b3695?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 17 |
@@ -94,6 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Fraud Strategy Student (4 months) - Winter 2027](https://jobright.ai/jobs/info/6a8f091f382b237ac80c3e0d?utm_campaign=1055&utm_source=git)** | Welland, ON, Canada | On Site | Sep 17 |
 | **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, Risk, Claims Recovery - Winter 2027 (Chicago, Dallas, Grand Rapids)](https://jobright.ai/jobs/info/6a8f0c58f841e649a719053a?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Sep 17 |
 | ↳ | **[Advisory Intern, Risk, Claims Recovery - Summer 2027 (Chicago, Dallas, Grand Rapids)](https://jobright.ai/jobs/info/6a8f0ccca10ee661e24d62e8?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Sep 17 |
+| **[Dominion Energy](http://www.dominionenergy.com)** | **[Intern - Engineer - ERO Compliance (CAYCE, SC, US, 29033)](https://jobright.ai/jobs/info/6aac72a7636cddf7396f4289?utm_campaign=1055&utm_source=git)** | Cayce, SC 29033, United States | On Site | Sep 16 |
 | **[Wellington Management](http://wellington.com)** | **[Legal, Compliance, and Risk Co Op](https://jobright.ai/jobs/info/6aab280c8e1bf0f764af8bb9?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 16 |
 | ↳ | **[U.S. Compliance Co Op](https://jobright.ai/jobs/info/6aab280976707040fb0846e2?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 16 |
 | **[TD](https://www.td.com)** | **[Governance & Control Analyst Intern/Co-op (Winter 2027)](https://jobright.ai/jobs/info/6aab51624be87a72913a40ce?utm_campaign=1055&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 16 |
@@ -108,10 +115,10 @@ For a complete list, click the following sortable link below:
 | **[Shure](http://www.shure.com)** | **[Global Trade Compliance Intern](https://jobright.ai/jobs/info/6a989df9c8ed473c5c76521b?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 16 |
 | **[Spokane County](http://www.spokanecounty.org//)** | **[Legal Intern (Rule 9); SUPPLEMENTAL](https://jobright.ai/jobs/info/6aac3edc3d96632d741aa034?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 16 |
 | **[Johnson & Johnson](https://www.jnj.com)** | **[Global Reg Affairs Intern](https://jobright.ai/jobs/info/6aabefda3e3ce93970c7ac21?utm_campaign=1055&utm_source=git)** | Raritan, NJ, United States | On Site | Sep 16 |
-| **[FIS](http://www.fisglobal.com)** | **[Intern, Legal and Compliance, FIS University Program](https://jobright.ai/jobs/info/6aac65763d96632d741aad5c?utm_campaign=1055&utm_source=git)** | Jacksonville, FL, United States | On Site | Sep 16 |
+| **[Greenberg Traurig, LLP](https://www.gtlaw.com/)** | **[IP Law Intern](https://jobright.ai/jobs/info/6aac6cae3e3ce93970c7d782?utm_campaign=1055&utm_source=git)** | Minneapolis, MN, United States | On Site | Sep 16 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Spring 2027 - MHLD](https://jobright.ai/jobs/info/6aac5564636cddf7396f3a00?utm_campaign=1055&utm_source=git)** | Brockton, MA, United States | Hybrid | Sep 16 |
-| **[BCI](https://www.bci.ca/)** | **[Compliance Co-op/Internship (Winter 2027 and/or Summer 2027)](https://jobright.ai/jobs/info/6aab9ae2455e4265cc3478ce?utm_campaign=1055&utm_source=git)** | Victoria, BC, Canada | Hybrid | Sep 16 |
-| ↳ | **[Legal Affairs Co-op/Internship (Winter 2027)](https://jobright.ai/jobs/info/6aab9aea76707040fb0858ee?utm_campaign=1055&utm_source=git)** | Victoria, BC, Canada | Hybrid | Sep 16 |
+| **[BCI](https://www.bci.ca/)** | **[Legal Affairs Co-op/Internship (Winter 2027)](https://jobright.ai/jobs/info/6aab9aea76707040fb0858ee?utm_campaign=1055&utm_source=git)** | Victoria, BC, Canada | Hybrid | Sep 16 |
+| ↳ | **[Compliance Co-op/Internship (Winter 2027 and/or Summer 2027)](https://jobright.ai/jobs/info/6aab9ae2455e4265cc3478ce?utm_campaign=1055&utm_source=git)** | Victoria, BC, Canada | Hybrid | Sep 16 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate - Legal Intern Summer 2027](https://jobright.ai/jobs/info/6aac3bae2e757fcb5c8b4830?utm_campaign=1055&utm_source=git)** | Parsippany, NJ, United States | On Site | Sep 16 |
 | **[Shure](http://www.shure.com)** | **[Global Trade Compliance Intern](https://jobright.ai/jobs/info/6a9a0e0a040e5c3d0759a8bf?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 16 |
 | **[Carson Group](https://www.carsongroup.com/)** | **[Risk Management Intern/Recent Grad](https://jobright.ai/jobs/info/6aaaf98ec85610f4a4842bcc?utm_campaign=1055&utm_source=git)** | Omaha, Nebraska, United States | On Site | Sep 16 |
@@ -149,12 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Wabash Valley Power Alliance](https://www.wvpa.com/)** | **[Technology & Compliance Internship - Summer 2027](https://jobright.ai/jobs/info/6aaab9384be87a72913a0e44?utm_campaign=1055&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 16 |
 | **[STAR Financial Bank](https://www.starfinancial.com)** | **[FRAUD INTERN - SUMMER 2027  - FORT WAYNE](https://jobright.ai/jobs/info/6aaab73340807b73bd39169e?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN, United States | On Site | Sep 16 |
 | **[WorkSafeBC](https://www.worksafebc.com/en)** | **[Review Officer Intern](https://jobright.ai/jobs/info/6aaab4114be87a72913a0aa1?utm_campaign=1055&utm_source=git)** | Richmond, British Columbia, Canada | On Site | Sep 16 |
-| **[Novogradac](https://www.novoco.com)** | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b32e6d0edc2d91b0728b?utm_campaign=1055&utm_source=git)** | Naples, FL, United States | On Site | Sep 16 |
-| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b3d717ddad6a8a47ccc3?utm_campaign=1055&utm_source=git)** | Cleveland, OH, United States | On Site | Sep 16 |
-| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa84e6f3a9f0a4fe6f18719?utm_campaign=1055&utm_source=git)** | Austin, TX, United States | On Site | Sep 16 |
-| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b0e717ddad6a8a47cb51?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 16 |
-| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b3456d0edc2d91b0728f?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | On Site | Sep 16 |
-| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b2e96d0edc2d91b07269?utm_campaign=1055&utm_source=git)** | Toms River, NJ, United States | On Site | Sep 16 |
-| **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Spring 2027 Litigation Intern](https://jobright.ai/jobs/info/6a91a9dc9864261ccd29e156?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 16 |
-| **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a54de0031f2d15a8d813b4c?utm_campaign=1055&utm_source=git)** | Almo Corporation - Philadelphia, PA 19154 | On Site | Sep 16 |
+| **[Novogradac](https://www.novoco.com)** | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b0e717ddad6a8a47cb51?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

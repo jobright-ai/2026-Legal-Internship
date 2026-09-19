@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Huntington National Bank](http://www.huntington.com)** | **[Summer 2027 Law Clerk Internship](https://jobright.ai/jobs/info/6a91b1fcd18f756748279654?utm_campaign=1055&utm_source=git)** | Columbus, OH, United States | On Site | Sep 19 |
 | **[Harbor Group Management Company](http://harborgroupint.com)** | **[Summer 2027 Legal Intern-New York, NY](https://jobright.ai/jobs/info/6a76235ca26ccc369f833e5a?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Sep 19 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a91b11dc12c90443efc7677?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Sep 19 |
 | **[Nationwide](https://www.nationwide.com)** | **[Summer 2027 Enterprise Risk Management Internship](https://jobright.ai/jobs/info/6a91a3e5a27a2d3c9848903a?utm_campaign=1055&utm_source=git)** | Columbus, OH, United States | On Site | Sep 19 |
 | **[UHY-US](https://uhy-us.com/)** | **[2027 Risk Advisory Summer Internship - Maryland](https://jobright.ai/jobs/info/6a910b7a7c32860d14cfbfa1?utm_campaign=1055&utm_source=git)** | Columbia, MD, United States | On Site | Sep 19 |
 | **[Legal Aid of Western Missouri](https://www.lawmo.org)** | **[Summer Legal Intern 2027](https://jobright.ai/jobs/info/6aae41713d96632d741b0be4?utm_campaign=1055&utm_source=git)** | Kansas City, MO, United States | On Site | Sep 19 |
-| **[Encompass Health](http://www.encompasshealth.com/)** | **[Compliance Student Intern -Summer 2027](https://jobright.ai/jobs/info/6aad5ac70ebc8fb2313e8f02?utm_campaign=1055&utm_source=git)** | Birmingham, AL, United States | On Site | Sep 18 |
+| **[Encompass Health](http://www.encompasshealth.com/)** | **[Compliance Student Intern -Summer 2027](https://jobright.ai/jobs/info/6aad630b0ebc8fb2313e920f?utm_campaign=1055&utm_source=git)** | Birmingham, AL, United States | On Site | Sep 18 |
 | **[ACLU of Northern California](https://www.aclunc.org)** | **[Summer 2027 Criminal Law & Immigration Project Internship](https://jobright.ai/jobs/info/6aada7f93d96632d741af349?utm_campaign=1055&utm_source=git)** | San Francisco, CA, United States | Hybrid | Sep 18 |
 | **[State Farm](https://www.statefarm.com)** | **[Summer 2027 Intern - Law - Houston, TX CLC](https://jobright.ai/jobs/info/6aada4603d96632d741af19f?utm_campaign=1055&utm_source=git)** | Houston, TX, United States | Hybrid | Sep 18 |
 | **[ACLU of Northern California](https://www.aclunc.org)** | **[Spring 2027 Criminal Law & Immigration Project Extern](https://jobright.ai/jobs/info/6a9b56dbfe45b8490f60809e?utm_campaign=1055&utm_source=git)** | San Francisco, CA, United States | Remote | Sep 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Compliance Program Intern](https://jobright.ai/jobs/info/6aabe6963d96632d741a81ee?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 17 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Economic Damages & Valuation Internship - Summer 2027](https://jobright.ai/jobs/info/6aa8a0e04cb6b0e0b828d8fc?utm_campaign=1055&utm_source=git)** | Alpharetta, GA, United States | Hybrid | Sep 17 |
 | **[Clarios](https://www.clarios.com/)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6a72541c02d93145bf894294?utm_campaign=1055&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Sep 17 |
-| **[Valeo](http://www.valeo.com/en/)** | **[Customs Intern](https://jobright.ai/jobs/info/6aaaf99f40807b73bd3930dc?utm_campaign=1055&utm_source=git)** | Troy, MI, United States | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

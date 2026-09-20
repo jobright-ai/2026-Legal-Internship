@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Safran Defense & Space, Inc.](https://www.safran-dsi.com/)** | **[Contract Administration Internship Job Details / Safran DSI](https://jobright.ai/jobs/info/6aafa0552e757fcb5c8bcd1d?utm_campaign=1055&utm_source=git)** | Bedford, NH, United States | On Site | Sep 20 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6a932356d18f75674827d9ed?utm_campaign=1055&utm_source=git)** | San Diego, CA, United States | On Site | Sep 19 |
 | **[Huntington National Bank](http://www.huntington.com)** | **[Summer 2027 Law Clerk Internship](https://jobright.ai/jobs/info/6a91b1fcd18f756748279654?utm_campaign=1055&utm_source=git)** | Columbus, OH, United States | On Site | Sep 19 |
 | **[Harbor Group Management Company](http://harborgroupint.com)** | **[Summer 2027 Legal Intern-New York, NY](https://jobright.ai/jobs/info/6a76235ca26ccc369f833e5a?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Sep 19 |
@@ -125,9 +126,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Summer Intern Rising 2L  (Intern) - United States](https://jobright.ai/jobs/info/6aad9fb7de327d3e210d38cb?utm_campaign=1055&utm_source=git)** | Research Triangle Park, NC, United States | Hybrid | Sep 17 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Regulatory Affairs Associate, Co-op/New Grad](https://jobright.ai/jobs/info/6aaddee9de327d3e210d49f2?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Sep 17 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Contracts Intern](https://jobright.ai/jobs/info/6aad6f0a6956574eac8b5a9c?utm_campaign=1055&utm_source=git)** | McLean, VA, United States | On Site | Sep 17 |
-| **[Arapahoe County](https://www.arapahoegov.com)** | **[Spring (2027) 3L Student Practice Act Internship](https://jobright.ai/jobs/info/6aad6eed6956574eac8b5a60?utm_campaign=1055&utm_source=git)** | Centennial, CO, United States | On Site | Sep 17 |
+| **[Arapahoe County](https://www.arapahoegov.com)** | **[DA Intern Non Legal - County Court](https://jobright.ai/jobs/info/6aad6f123d96632d741addcf?utm_campaign=1055&utm_source=git)** | Centennial, CO, United States | On Site | Sep 17 |
+| ↳ | **[Spring (2027) 3L Student Practice Act Internship](https://jobright.ai/jobs/info/6aad6eed6956574eac8b5a60?utm_campaign=1055&utm_source=git)** | Centennial, CO, United States | On Site | Sep 17 |
 | ↳ | **[Summer (2027) 3L Student Practice Act Internship](https://jobright.ai/jobs/info/6aada6f63d96632d741af2dc?utm_campaign=1055&utm_source=git)** | Centennial, CO, United States | On Site | Sep 17 |
-| ↳ | **[DA Intern Non Legal - County Court](https://jobright.ai/jobs/info/6aad6f123d96632d741addcf?utm_campaign=1055&utm_source=git)** | Centennial, CO, United States | On Site | Sep 17 |
 | **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Law Reform Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a877cbd4afae74a08348d73?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Sep 17 |
 | **[VoteRiders](https://www.voteriders.org/)** | **[VoteRiders Legal Intern](https://jobright.ai/jobs/info/6a99f318040e5c3d07599d66?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 17 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Legal and Compliance, FIS University Program](https://jobright.ai/jobs/info/6aac65763d96632d741aad5c?utm_campaign=1055&utm_source=git)** | Jacksonville, FL, United States | On Site | Sep 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Grant Thornton Ireland](https://www.grantthornton.ie)** | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a8fe305d96ad228f125ef3c?utm_campaign=1055&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 17 |
 | **[Wellabe](https://www.wellabe.com)** | **[Legal Summer 2027 Internship- Hybrid -Des Moines, Iowa](https://jobright.ai/jobs/info/6aabff2c2e757fcb5c8b31f9?utm_campaign=1055&utm_source=git)** | Des Moines, IA, United States | Hybrid | Sep 17 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Compliance Program Intern](https://jobright.ai/jobs/info/6aabe90e636cddf7396f1331?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 17 |
-| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Compliance Program Intern](https://jobright.ai/jobs/info/6aabe6963d96632d741a81ee?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

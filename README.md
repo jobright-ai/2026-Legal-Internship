@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Porsche Cars North America](http://www.porscheusa.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/6ab132c432552369083e0a5d?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 21 |
+| **[Union Pacific Railroad](http://www.up.com)** | **[Year Round Intern - Safety](https://jobright.ai/jobs/info/6a954186360363009919abe8?utm_campaign=1055&utm_source=git)** | Omaha, NE, United States | On Site | Sep 21 |
 | **[PIMCO](http://www.pimco.com)** | **[2027 Summer Intern - Legal &amp; Compliance Analyst](https://jobright.ai/jobs/info/6ab12516d2a93d5a97eb9073?utm_campaign=1055&utm_source=git)** | Newport Beach, CA, United States | On Site | Sep 21 |
 | **[Benesch](https://www.benesch.com)** | **[Civil Internship](https://jobright.ai/jobs/info/6ab0ab39dd960b415641968c?utm_campaign=1055&utm_source=git)** | Denver, CO, United States | On Site | Sep 21 |
 | **[Weyerhaeuser](https://www.weyerhaeuser.com/)** | **[Income Tax Compliance Internship](https://jobright.ai/jobs/info/6ab0ec7e643d802fae8faed8?utm_campaign=1055&utm_source=git)** | Seattle, WA, United States | Hybrid | Sep 21 |
@@ -134,15 +136,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Cavers Summer 2027 Intern- New Hampshire](https://jobright.ai/jobs/info/6a99faad551435518ebf26e0?utm_campaign=1055&utm_source=git)** | Concord, NH, United States | On Site | Sep 17 |
 | ↳ | **[Cavers Summer 2027 Intern- Maine](https://jobright.ai/jobs/info/6a99faac040e5c3d0759a110?utm_campaign=1055&utm_source=git)** | Portland, ME, United States | On Site | Sep 17 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Regulatory Policy Intern- Fall/Summer Internship- CO](https://jobright.ai/jobs/info/6a9e543da7ba386c5d671c1a?utm_campaign=1055&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 17 |
-| **[Technical College System of Georgia](https://www.tcsg.edu/)** | **[Health Policy Legal Extern](https://jobright.ai/jobs/info/6aad818a2e757fcb5c8b8c2a?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | Hybrid | Sep 17 |
+| **[Technical College System of Georgia](https://www.tcsg.edu/)** | **[Health Policy Legal Extern](https://jobright.ai/jobs/info/6aad8135de327d3e210d2ccd?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | Hybrid | Sep 17 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Cyber Compliance Intern - Summer 2027](https://jobright.ai/jobs/info/6aad93e53d96632d741aec1c?utm_campaign=1055&utm_source=git)** | McLean, VA, United States | On Site | Sep 17 |
 | **[Cisco](http://www.cisco.com)** | **[Legal Summer Intern Rising 2L  (Intern) - United States](https://jobright.ai/jobs/info/6aad9fb7de327d3e210d38cb?utm_campaign=1055&utm_source=git)** | Research Triangle Park, NC, United States | Hybrid | Sep 17 |
 | ↳ | **[Legal Rising 3L  (Intern) - United States](https://jobright.ai/jobs/info/6aad9fb63dbb1f8967ceea57?utm_campaign=1055&utm_source=git)** | Research Triangle Park, NC, United States | Hybrid | Sep 17 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Regulatory Affairs Associate, Co-op/New Grad](https://jobright.ai/jobs/info/6aaddee9de327d3e210d49f2?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Sep 17 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Contracts Intern](https://jobright.ai/jobs/info/6aad6f0a6956574eac8b5a9c?utm_campaign=1055&utm_source=git)** | McLean, VA, United States | On Site | Sep 17 |
-| **[Arapahoe County](https://www.arapahoegov.com)** | **[DA Intern Non Legal - County Court](https://jobright.ai/jobs/info/6aad6f123d96632d741addcf?utm_campaign=1055&utm_source=git)** | Centennial, CO, United States | On Site | Sep 17 |
+| **[Arapahoe County](https://www.arapahoegov.com)** | **[Summer (2027) 3L Student Practice Act Internship](https://jobright.ai/jobs/info/6aada6f63d96632d741af2dc?utm_campaign=1055&utm_source=git)** | Centennial, CO, United States | On Site | Sep 17 |
 | ↳ | **[Spring (2027) 3L Student Practice Act Internship](https://jobright.ai/jobs/info/6aad6eed6956574eac8b5a60?utm_campaign=1055&utm_source=git)** | Centennial, CO, United States | On Site | Sep 17 |
-| ↳ | **[Summer (2027) 3L Student Practice Act Internship](https://jobright.ai/jobs/info/6aada6f63d96632d741af2dc?utm_campaign=1055&utm_source=git)** | Centennial, CO, United States | On Site | Sep 17 |
+| ↳ | **[DA Intern Non Legal - County Court](https://jobright.ai/jobs/info/6aad6f123d96632d741addcf?utm_campaign=1055&utm_source=git)** | Centennial, CO, United States | On Site | Sep 17 |
 | **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Law Reform Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a877cbd4afae74a08348d73?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Sep 17 |
 | **[VoteRiders](https://www.voteriders.org/)** | **[VoteRiders Legal Intern](https://jobright.ai/jobs/info/6a99f318040e5c3d07599d66?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 17 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Legal and Compliance, FIS University Program](https://jobright.ai/jobs/info/6aac65763d96632d741aad5c?utm_campaign=1055&utm_source=git)** | Jacksonville, FL, United States | On Site | Sep 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Corporate Law Intern](https://jobright.ai/jobs/info/6aac22d63d96632d741a95df?utm_campaign=1055&utm_source=git)** | Woodbridge, NJ, United States | On Site | Sep 17 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Summer Intern - Legal Department](https://jobright.ai/jobs/info/6aac2c1e3d96632d741a9940?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 17 |
 | **[Nationwide](https://www.nationwide.com)** | **[Summer 2027 Office of Compliance & Ethics Internship](https://jobright.ai/jobs/info/6aac09b53d96632d741a8c64?utm_campaign=1055&utm_source=git)** | Columbus, OH, United States | Hybrid | Sep 17 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2027 Summer Intern -  Legal & Compliance Group - Sophomore Intern](https://jobright.ai/jobs/info/6a965406cabc9f6703e1d02f?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Sep 17 |
-| **[Wikimedia Foundation](http://wikimediafoundation.org)** | **[Legal Fellow (Spring 2027)](https://jobright.ai/jobs/info/6a8f2d37d7c91d0cf446dfcf?utm_campaign=1055&utm_source=git)** | AZ, United States | Remote | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

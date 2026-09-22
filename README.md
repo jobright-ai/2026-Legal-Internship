@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wellington Management](http://wellington.com)** | **[Legal, Compliance, and Risk Co Op](https://jobright.ai/jobs/info/6aab074140807b73bd393748?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 21 |
+| ↳ | **[Legal, Compliance, and Risk Co Op](https://jobright.ai/jobs/info/6aab280c8e1bf0f764af8bb9?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 21 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern- Summer 2027](https://jobright.ai/jobs/info/6ab1dcb7d2a93d5a97ebd127?utm_campaign=1055&utm_source=git)** | San Diego, CA, United States | On Site | Sep 21 |
 | **[Seattle Sounders FC](http://www.soundersfc.com)** | **[Legal Externship (Spring 2027)](https://jobright.ai/jobs/info/6ab1ce95d2a93d5a97ebce2d?utm_campaign=1055&utm_source=git)** | Renton, WA, United States | Hybrid | Sep 21 |
 | **[Berkeley Industrial Engineering & Operations Research](https://ieor.berkeley.edu)** | **[2027 Risk Management Summer Internship Program – New York at Jefferies, LLC](https://jobright.ai/jobs/info/6ab1cb5023005eee3545c9a8?utm_campaign=1055&utm_source=git)** | Tohatchi, NM, United States | On Site | Sep 21 |
@@ -90,13 +92,12 @@ For a complete list, click the following sortable link below:
 | **[World Wide Technology](http://www.wwt.com)** | **[Legal & Compliance Contracts Intern - 2027](https://jobright.ai/jobs/info/6ab14fda23005eee3545976c?utm_campaign=1055&utm_source=git)** | Maryland Heights, MO, United States | On Site | Sep 21 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/6ab143d332552369083e0f73?utm_campaign=1055&utm_source=git)** | Topeka, KS, United States | On Site | Sep 21 |
 | **[Hill's Pet Nutrition](https://www.hillspet.com)** | **[Regulatory Affairs Summer Intern](https://jobright.ai/jobs/info/6ab1498232552369083e1118?utm_campaign=1055&utm_source=git)** | Topeka, KS, United States | On Site | Sep 21 |
-| **[Wellington Management](http://wellington.com)** | **[Legal, Compliance, and Risk Co Op](https://jobright.ai/jobs/info/6aab074140807b73bd393748?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 21 |
-| ↳ | **[Legal, Compliance, and Risk Co Op](https://jobright.ai/jobs/info/6aab280c8e1bf0f764af8bb9?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 21 |
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/6ab132c432552369083e0a5d?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 21 |
 | **[Union Pacific Railroad](http://www.up.com)** | **[Year Round Intern - Safety](https://jobright.ai/jobs/info/6a954186360363009919abe8?utm_campaign=1055&utm_source=git)** | Omaha, NE, United States | On Site | Sep 21 |
 | **[PIMCO](http://www.pimco.com)** | **[2027 Summer Intern - Legal &amp; Compliance Analyst](https://jobright.ai/jobs/info/6ab12516d2a93d5a97eb9073?utm_campaign=1055&utm_source=git)** | Newport Beach, CA, United States | On Site | Sep 21 |
 | **[Benesch](https://www.benesch.com)** | **[Civil Internship](https://jobright.ai/jobs/info/6ab0ab39dd960b415641968c?utm_campaign=1055&utm_source=git)** | Denver, CO, United States | On Site | Sep 21 |
 | **[Weyerhaeuser](https://www.weyerhaeuser.com/)** | **[Income Tax Compliance Internship](https://jobright.ai/jobs/info/6ab0ec7e643d802fae8faed8?utm_campaign=1055&utm_source=git)** | Seattle, WA, United States | Hybrid | Sep 21 |
+| ↳ | **[Income Tax Compliance Internship](https://jobright.ai/jobs/info/6ab0d92bde327d3e210d8f4a?utm_campaign=1055&utm_source=git)** | Seattle, WA, United States | Hybrid | Sep 21 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[2027 Charles Schwab Corporate Risk Management Internship - Model Risk](https://jobright.ai/jobs/info/6ab1271fd43eb922ca0bd371?utm_campaign=1055&utm_source=git)** | Southlake, TX, United States | On Site | Sep 21 |
 | **[Dominion Energy](http://www.dominionenergy.com)** | **[Intern - Corporate Security (Insider Threat) (RICHMOND, VA, US, 23219)](https://jobright.ai/jobs/info/6ab1c00432552369083e4244?utm_campaign=1055&utm_source=git)** | Richmond, VA, United States | On Site | Sep 20 |
 | **[MFS Investment Management](https://www.mfs.com)** | **[Spring 2027 Compliance Learning Co-Op (Janaury-June)](https://jobright.ai/jobs/info/6ab0b3fa3dbb1f8967cf3636?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[STAR Financial Bank](https://www.starfinancial.com)** | **[FRAUD INTERN - SUMMER 2027  - FORT WAYNE](https://jobright.ai/jobs/info/6aaab73340807b73bd39169e?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN, United States | On Site | Sep 18 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[PIP Paralegal Intern](https://jobright.ai/jobs/info/6aad53933dbb1f8967cecdc9?utm_campaign=1055&utm_source=git)** | Woodbridge, NJ, United States | On Site | Sep 18 |
 | **[Grant Thornton Isle of Man](http://www.grantthornton.co.im)** | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a90cbea8ffa38557e6cef42?utm_campaign=1055&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Sep 18 |
-| **[ACLU of Virginia](https://acluva.org)** | **[2027 Summer Legal Intern](https://jobright.ai/jobs/info/6a907ec38ffa38557e6cd355?utm_campaign=1055&utm_source=git)** | Richmond, VA, United States | Hybrid | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

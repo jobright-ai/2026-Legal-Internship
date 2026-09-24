@@ -82,11 +82,11 @@ For a complete list, click the following sortable link below:
 | **[OneZero Solutions](https://www.onezerollc.com)** | **[Corporate Intern](https://jobright.ai/jobs/info/6ab431e07bd0813713316366?utm_campaign=1055&utm_source=git)** | Alexandria, VA, United States | On Site | Sep 23 |
 | **[Raymond James](https://www.raymondjames.com/stratos/)** | **[2027 Summer Associate Program - Compliance (St. Petersburg, FL)](https://jobright.ai/jobs/info/6ab4051a64816213f2d96a88?utm_campaign=1055&utm_source=git)** | Saint Petersburg, FL, United States | Hybrid | Sep 23 |
 | **[Foundation for Individual Rights and Expression](https://www.thefire.org/)** | **[2027 Arthur D. Hellman Fellowship](https://jobright.ai/jobs/info/6ab42a33d2f5fbd604be1ec8?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | On Site | Sep 23 |
-| **[Novogradac](https://www.novoco.com)** | **[Senior Paralegal](https://jobright.ai/jobs/info/6aaab9fe4be87a72913a0eaa?utm_campaign=1055&utm_source=git)** | Dover, OH, United States | On Site | Sep 23 |
+| **[Novogradac](https://www.novoco.com)** | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b3456d0edc2d91b0728f?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | On Site | Sep 23 |
 | ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b32e6d0edc2d91b0728b?utm_campaign=1055&utm_source=git)** | Naples, FL, United States | On Site | Sep 23 |
 | ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b0e717ddad6a8a47cb51?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 23 |
+| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aaab9fe4be87a72913a0eaa?utm_campaign=1055&utm_source=git)** | Dover, OH, United States | On Site | Sep 23 |
 | ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa84e6f3a9f0a4fe6f18719?utm_campaign=1055&utm_source=git)** | Austin, TX, United States | On Site | Sep 23 |
-| ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b3456d0edc2d91b0728f?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | On Site | Sep 23 |
 | ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b3d717ddad6a8a47ccc3?utm_campaign=1055&utm_source=git)** | Cleveland, OH, United States | On Site | Sep 23 |
 | ↳ | **[Senior Paralegal](https://jobright.ai/jobs/info/6aa8b2e96d0edc2d91b07269?utm_campaign=1055&utm_source=git)** | Toms River, NJ, United States | On Site | Sep 23 |
 | **[Amsted Automotive](https://amstedauto.com)** | **[Intellectual Property Intern](https://jobright.ai/jobs/info/6ab418f57bd0813713315bc3?utm_campaign=1055&utm_source=git)** | Saginaw, MI, United States | On Site | Sep 23 |
@@ -95,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[Allen Lund Company](http://www.allenlund.com/)** | **[Junior Analyst Compliance Intern](https://jobright.ai/jobs/info/6ab419d1ef911c35dffa358d?utm_campaign=1055&utm_source=git)** | La Cañada Flintridge, CA, United States | On Site | Sep 23 |
 | **[DiCello Levitt LLP](https://dicellolevitt.com)** | **[2027 Summer Associate](https://jobright.ai/jobs/info/6ab4036ad2f5fbd604be0e1b?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Sep 23 |
 | ↳ | **[2027 Summer Associate](https://jobright.ai/jobs/info/6ab4036964816213f2d9693b?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Sep 23 |
-| ↳ | **[2027 Summer Associate](https://jobright.ai/jobs/info/6ab40368ef911c35dffa2ae1?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | On Site | Sep 23 |
 | ↳ | **[2027 Summer Associate](https://jobright.ai/jobs/info/6ab40368d2f5fbd604be0e19?utm_campaign=1055&utm_source=git)** | Mentor, OH, United States | On Site | Sep 23 |
+| ↳ | **[2027 Summer Associate](https://jobright.ai/jobs/info/6ab40368ef911c35dffa2ae1?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | On Site | Sep 23 |
 | ↳ | **[2027 Summer Associate](https://jobright.ai/jobs/info/6ab403677bd081371331512f?utm_campaign=1055&utm_source=git)** | Birmingham, AL, United States | On Site | Sep 23 |
 | **[Tetra Pak](http://www.tetrapak.com)** | **[Legal Affairs Intern](https://jobright.ai/jobs/info/6a99a7fa90a313642c651e33?utm_campaign=1055&utm_source=git)** | Denton, TX, United States | On Site | Sep 23 |
 | **[AIG](https://www.aig.com)** | **[2027 Early Careers: Summer Intern, Claims – Juris Doctor – United States, Jersey City & New York City](https://jobright.ai/jobs/info/6a971544f5337b2cf731fe4c?utm_campaign=1055&utm_source=git)** | Jersey City, NJ, United States | Hybrid | Sep 23 |
@@ -119,8 +119,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship, Supervision and Risk Management (SRM)- Summer 2027- Denver](https://jobright.ai/jobs/info/6a96e324e4e60e4b8da5a819?utm_campaign=1055&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 23 |
 | ↳ | **[Internship, Supervision and Risk Management (SRM)- Summer 2027- Kansas City](https://jobright.ai/jobs/info/6a96e2ffd13b4819f39dd828?utm_campaign=1055&utm_source=git)** | Kansas City, MO, United States | Hybrid | Sep 23 |
 | **[Lockton](https://global.lockton.com)** | **[Risk Solutions Intern - June 2027](https://jobright.ai/jobs/info/6ab39a3b835ccf4a28118044?utm_campaign=1055&utm_source=git)** | St. Louis, MO, United States | On Site | Sep 23 |
-| ↳ | **[Risk Solutions Intern - June 2027](https://jobright.ai/jobs/info/6a97e0adc8ed473c5c761731?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Sep 23 |
 | ↳ | **[Risk Solutions Intern - June 2027](https://jobright.ai/jobs/info/6a97e189af954907d6570c60?utm_campaign=1055&utm_source=git)** | Saint Louis, MO, United States | On Site | Sep 23 |
+| ↳ | **[Risk Solutions Intern - June 2027](https://jobright.ai/jobs/info/6a97e1c8d356304a02688550?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Sep 23 |
 | **[University of California Office of the President](https://www.ucop.edu)** | **[CHRISTOPHER M. PATTI LEGAL FELLOWSHIP](https://jobright.ai/jobs/info/6a7a68c967a1ad0bc53d344b?utm_campaign=1055&utm_source=git)** | Oakland, CA, United States | On Site | Sep 23 |
 | **[Public Law Center](https://www.publiclawcenter.org/)** | **[2027 Summer Law Clerk at Public Law Center](https://jobright.ai/jobs/info/6ab2d9dc326574570a0037bf?utm_campaign=1055&utm_source=git)** | Santa Ana, CA, United States | Hybrid | Sep 23 |
 | **[LCS](https://www.lcsnet.com/)** | **[Risk Management Intern](https://jobright.ai/jobs/info/6ab347ff1508734c1530e4f6?utm_campaign=1055&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 22 |

@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a7f8024e2030208f276ed31?utm_campaign=1055&utm_source=git)** | Strongsville, OH, United States | On Site | Sep 27 |
 | **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Intern II (Privacy Compliance) Job Details / Erie Insurance](https://jobright.ai/jobs/info/6ab8a356d7fde2c08ec8d783?utm_campaign=1055&utm_source=git)** | Erie, PA, United States | On Site | Sep 26 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2027 Contract Administration Intern - Linthicum MD](https://jobright.ai/jobs/info/6ab6ecc03a2ec87116e24a56?utm_campaign=1055&utm_source=git)** | Linthicum, MD, United States | On Site | Sep 26 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern - Legal Leasing (Law School Students)](https://jobright.ai/jobs/info/6a9ae1d31388387060594796?utm_campaign=1055&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 26 |
-| **[Kroll](http://www.kroll.com)** | **[Intern, Trade and Customs](https://jobright.ai/jobs/info/6a9b28dbfe45b8490f607164?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Sep 26 |
+| **[Kroll](http://www.kroll.com)** | **[Intern, Trade and Customs](https://jobright.ai/jobs/info/6a9b2a7ad5ff1f3f1c39de8d?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Sep 26 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2027 Undergrad Legal & Compliance Rotational Internship – Atlanta](https://jobright.ai/jobs/info/6a8592cad34f700f87fbd466?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 26 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Legal Fellowships – June 2027 Field Office Deployment](https://jobright.ai/jobs/info/6a9b06afd5ff1f3f1c39d434?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | On Site | Sep 26 |
 | **[Union Pacific Railroad](http://www.up.com)** | **[Year Round Intern - Paralegal](https://jobright.ai/jobs/info/6a9b2fd69c24314c35f982fc?utm_campaign=1055&utm_source=git)** | Omaha, NE, United States | Hybrid | Sep 26 |
@@ -132,7 +133,7 @@ For a complete list, click the following sortable link below:
 | **[Southwest Gas Corporation](https://www.swgas.com/)** | **[Enterprise Risk Management Internship - Las Vegas](https://jobright.ai/jobs/info/6ab568dec6fe0dec811a0dd2?utm_campaign=1055&utm_source=git)** | Las Vegas, NV, United States | Hybrid | Sep 24 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Records Management and Compliance](https://jobright.ai/jobs/info/6a9a08538a8b765bc55f7201?utm_campaign=1055&utm_source=git)** | Tempe, AZ, United States | On Site | Sep 24 |
 | ↳ | **[College Intern - Records Management and Compliance Job Details / SRP](https://jobright.ai/jobs/info/6aa3e4a8422289703bd63e85?utm_campaign=1055&utm_source=git)** | Tempe, AZ, United States | Hybrid | Sep 24 |
-| **[Shure](http://www.shure.com)** | **[Global Trade Compliance Intern](https://jobright.ai/jobs/info/6a9a0e0a040e5c3d0759a8bf?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 24 |
+| **[Shure](http://www.shure.com)** | **[Global Trade Compliance Intern](https://jobright.ai/jobs/info/6a989df9c8ed473c5c76521b?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 24 |
 | **[Pierce Manufacturing](http://www.piercemfg.com/)** | **[Contract Administration Intern](https://jobright.ai/jobs/info/6ab561364873fd3fd85293c5?utm_campaign=1055&utm_source=git)** | Oshkosh, WI, United States | On Site | Sep 24 |
 | **[U.S. Nuclear Regulatory Commission](http://www.nrc.gov)** | **[Attorney Honor Law Graduate Program Legal Intern](https://jobright.ai/jobs/info/6ab587f0634ec6aa7c0cf8cb?utm_campaign=1055&utm_source=git)** | Rockville, MD, United States | On Site | Sep 24 |
 | **[Shure](http://www.shure.com)** | **[Information Security Governance, Risk & Compliance Intern](https://jobright.ai/jobs/info/6a9a44e690a313642c654e81?utm_campaign=1055&utm_source=git)** | Niles, IL, United States | On Site | Sep 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2027 Summer Intern - Supervision Group - Graduate](https://jobright.ai/jobs/info/6a9654404c22023a07938e7d?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Sep 23 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Contract Administration Intern](https://jobright.ai/jobs/info/6ab534b5c6fe0dec8119fbf5?utm_campaign=1055&utm_source=git)** | Oshkosh, WI, United States | On Site | Sep 23 |
 | **[Law Offices of Sabrina Li, P.C.](https://www.sabrinali.law)** | **[Bilingual Legal Intern (Mandarin)](https://jobright.ai/jobs/info/6ab5c6074873fd3fd852bc7a?utm_campaign=1055&utm_source=git)** | Dallas, TX, United States | On Site | Sep 23 |
-| **[Pembina Pipeline Corporation](http://www.pembina.com/)** | **[Administration & Contracts Intern](https://jobright.ai/jobs/info/6ab4048a64816213f2d969fc?utm_campaign=1055&utm_source=git)** | Calgary, AB, Canada | Hybrid | Sep 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

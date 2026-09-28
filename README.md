@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Eide Bailly](http://www.eidebailly.com)** | **[Healthcare Regulatory Intern](https://jobright.ai/jobs/info/6a93a65ea27a2d3c9848e163?utm_campaign=1055&utm_source=git)** | Omaha, Nebraska, United States | On Site | Sep 27 |
+| **[Eide Bailly](http://www.eidebailly.com)** | **[Healthcare Regulatory Intern](https://jobright.ai/jobs/info/6a92d6ada27a2d3c9848c302?utm_campaign=1055&utm_source=git)** | Omaha, Nebraska, United States | On Site | Sep 27 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/6a9cf06468f82b403673724a?utm_campaign=1055&utm_source=git)** | Garden Grove, CA, United States | On Site | Sep 27 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a7f8024e2030208f276ed31?utm_campaign=1055&utm_source=git)** | Strongsville, OH, United States | On Site | Sep 27 |
 | **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Intern II (Privacy Compliance) Job Details / Erie Insurance](https://jobright.ai/jobs/info/6ab8a356d7fde2c08ec8d783?utm_campaign=1055&utm_source=git)** | Erie, PA, United States | On Site | Sep 26 |
@@ -137,7 +137,7 @@ For a complete list, click the following sortable link below:
 | **[Shure](http://www.shure.com)** | **[Global Trade Compliance Intern](https://jobright.ai/jobs/info/6a989df9c8ed473c5c76521b?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 24 |
 | **[Pierce Manufacturing](http://www.piercemfg.com/)** | **[Contract Administration Intern](https://jobright.ai/jobs/info/6ab561364873fd3fd85293c5?utm_campaign=1055&utm_source=git)** | Oshkosh, WI, United States | On Site | Sep 24 |
 | **[U.S. Nuclear Regulatory Commission](http://www.nrc.gov)** | **[Attorney Honor Law Graduate Program Legal Intern](https://jobright.ai/jobs/info/6ab587f0634ec6aa7c0cf8cb?utm_campaign=1055&utm_source=git)** | Rockville, MD, United States | On Site | Sep 24 |
-| **[Shure](http://www.shure.com)** | **[Information Security Governance, Risk & Compliance Intern](https://jobright.ai/jobs/info/6a989de983fc633357632931?utm_campaign=1055&utm_source=git)** | Niles, IL, United States | On Site | Sep 24 |
+| **[Shure](http://www.shure.com)** | **[Information Security Governance, Risk & Compliance Intern](https://jobright.ai/jobs/info/6a9a44e690a313642c654e81?utm_campaign=1055&utm_source=git)** | Niles, IL, United States | On Site | Sep 24 |
 | **[Colorado Legal Services](http://www.coloradolegalservices.org/)** | **[Spring Legal Student Internship – Low Income Taxpayer Clinic](https://jobright.ai/jobs/info/6ab5555d9d4843569fe49278?utm_campaign=1055&utm_source=git)** | Denver, CO, United States | On Site | Sep 24 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6ab52d4a9d4843569fe483ff?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA, United States | Hybrid | Sep 24 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Risk Management Intern- Spring 2027](https://jobright.ai/jobs/info/6ab1c43ef9692ca98b04bb8f?utm_campaign=1055&utm_source=git)** | Alabama, United States | Remote | Sep 24 |

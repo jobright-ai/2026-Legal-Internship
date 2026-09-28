@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Eide Bailly](http://www.eidebailly.com)** | **[Healthcare Regulatory Intern](https://jobright.ai/jobs/info/6a92d6ada27a2d3c9848c302?utm_campaign=1055&utm_source=git)** | Omaha, Nebraska, United States | On Site | Sep 27 |
+| **[Eide Bailly](http://www.eidebailly.com)** | **[Healthcare Regulatory Intern](https://jobright.ai/jobs/info/6a832fd6379c304e892f56ca?utm_campaign=1055&utm_source=git)** | Omaha, Nebraska, United States | On Site | Sep 27 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/6a9cf06468f82b403673724a?utm_campaign=1055&utm_source=git)** | Garden Grove, CA, United States | On Site | Sep 27 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a7f8024e2030208f276ed31?utm_campaign=1055&utm_source=git)** | Strongsville, OH, United States | On Site | Sep 27 |
 | **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Intern II (Privacy Compliance) Job Details / Erie Insurance](https://jobright.ai/jobs/info/6ab8a356d7fde2c08ec8d783?utm_campaign=1055&utm_source=git)** | Erie, PA, United States | On Site | Sep 26 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2027 Contract Administration Intern - Linthicum MD](https://jobright.ai/jobs/info/6ab6ecc03a2ec87116e24a56?utm_campaign=1055&utm_source=git)** | Linthicum, MD, United States | On Site | Sep 26 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern - Legal Leasing (Law School Students)](https://jobright.ai/jobs/info/6a9ae1d31388387060594796?utm_campaign=1055&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 26 |
-| **[Kroll](http://www.kroll.com)** | **[Intern, Trade and Customs](https://jobright.ai/jobs/info/6a9b28dbfe45b8490f607164?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Sep 26 |
+| **[Kroll](http://www.kroll.com)** | **[Intern, Trade and Customs](https://jobright.ai/jobs/info/6a9b2a7ad5ff1f3f1c39de8d?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Sep 26 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2027 Undergrad Legal & Compliance Rotational Internship – Atlanta](https://jobright.ai/jobs/info/6a8592cad34f700f87fbd466?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 26 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Legal Fellowships – June 2027 Field Office Deployment](https://jobright.ai/jobs/info/6a9b06afd5ff1f3f1c39d434?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | On Site | Sep 26 |
 | **[Union Pacific Railroad](http://www.up.com)** | **[Year Round Intern - Paralegal](https://jobright.ai/jobs/info/6a9b2fd69c24314c35f982fc?utm_campaign=1055&utm_source=git)** | Omaha, NE, United States | Hybrid | Sep 26 |

@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Contracts Summer Intern](https://jobright.ai/jobs/info/6abaf4f41acb8fc6f09c275c?utm_campaign=1055&utm_source=git)** | Grand Prairie, TX, United States | Hybrid | Sep 29 |
+| **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - Intellectual Property Group - Intern](https://jobright.ai/jobs/info/6a9f5b00a7ba386c5d674e58?utm_campaign=1055&utm_source=git)** | Rahway, NJ, United States | Hybrid | Sep 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Listing Governance Product Compliance Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5ef5c5f3674a0545d2b654?utm_campaign=1055&utm_source=git)** | Seattle, WA, United States | On Site | Sep 29 |
 | ↳ | **[Listing Governance Product Compliance Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a22aa8614de9460dc842d49?utm_campaign=1055&utm_source=git)** | Seattle | On Site | Sep 29 |
 | **[RTX](http://rtx.com/)** | **[Contracts Coop (Spring/Summer 2027)](https://jobright.ai/jobs/info/6abaadc6ad8589219ef7ea21?utm_campaign=1055&utm_source=git)** | Windsor Locks, CT, United States | Hybrid | Sep 29 |
@@ -104,23 +106,23 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 Legal Intern, National Prison Project](https://jobright.ai/jobs/info/6aba8d227220f52e62ae6d24?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Remote | Sep 28 |
 | ↳ | **[Spring 2027 Legal Intern, Immigrants' Rights Project- San Francisco](https://jobright.ai/jobs/info/6aba8d197220f52e62ae6d22?utm_campaign=1055&utm_source=git)** | San Francisco, CA, United States | Remote | Sep 28 |
 | ↳ | **[Summer 2027 Legal Intern, Disability Rights Program](https://jobright.ai/jobs/info/6aba8d17be5f1e9325115fad?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Remote | Sep 28 |
-| ↳ | **[Summer 2027 Legal Intern, Speech, Privacy and Technology Project](https://jobright.ai/jobs/info/6aba8d13be5f1e9325115fac?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Remote | Sep 28 |
 | ↳ | **[Spring 2027 Legal Intern, Center For Liberty](https://jobright.ai/jobs/info/6aba8d131acb8fc6f09c0219?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Remote | Sep 28 |
+| ↳ | **[Summer 2027 Legal Intern, Speech, Privacy and Technology Project](https://jobright.ai/jobs/info/6aba8d13be5f1e9325115fac?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Remote | Sep 28 |
 | ↳ | **[Spring 2027 Undergraduate Intern, SCOTUS Docket](https://jobright.ai/jobs/info/6aba8d12be5f1e9325115faa?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Remote | Sep 28 |
 | ↳ | **[Summer 2027 Legal Intern, Racial Justice Program](https://jobright.ai/jobs/info/6aba8d12be5f1e9325115fab?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Remote | Sep 28 |
 | ↳ | **[Summer 2027 Legal Intern, Abortion Criminal Defense Initiative](https://jobright.ai/jobs/info/6aba8d10d2914e9273eebd98?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Remote | Sep 28 |
-| ↳ | **[Summer 2027 Legal Intern, Women's Rights Project](https://jobright.ai/jobs/info/6aba8d10be5f1e9325115fa9?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Remote | Sep 28 |
-| ↳ | **[Summer 2027 Legal Intern, Criminal Law Reform Project](https://jobright.ai/jobs/info/6aba8d10ad8589219ef7dd0e?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Sep 28 |
 | ↳ | **[Spring 2027 Legal Intern, Disability Rights Program](https://jobright.ai/jobs/info/6aba8d10ad8589219ef7dd0f?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Remote | Sep 28 |
+| ↳ | **[Summer 2027 Legal Intern, Criminal Law Reform Project](https://jobright.ai/jobs/info/6aba8d10ad8589219ef7dd0e?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Sep 28 |
+| ↳ | **[Summer 2027 Legal Intern, Women's Rights Project](https://jobright.ai/jobs/info/6aba8d10be5f1e9325115fa9?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Remote | Sep 28 |
 | ↳ | **[Summer 2027 Legal Intern, State Supreme Court Initiative](https://jobright.ai/jobs/info/6aba8d10be5f1e9325115fa8?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Remote | Sep 28 |
-| ↳ | **[Summer 2027 Legal Intern, Center For Liberty](https://jobright.ai/jobs/info/6aba8d0fad8589219ef7dd0d?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Remote | Sep 28 |
-| ↳ | **[Summer 2027 Legal Intern, Immigrants' Rights Project- New York](https://jobright.ai/jobs/info/6aba8d0f7220f52e62ae6d1c?utm_campaign=1055&utm_source=git)** | New York | Remote | Sep 28 |
 | ↳ | **[Summer 2027 Legal Intern, National Security Project](https://jobright.ai/jobs/info/6aba8d0fad8589219ef7dd0c?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Remote | Sep 28 |
+| ↳ | **[Summer 2027 Legal Intern, Immigrants' Rights Project- New York](https://jobright.ai/jobs/info/6aba8d0f7220f52e62ae6d1c?utm_campaign=1055&utm_source=git)** | New York | Remote | Sep 28 |
+| ↳ | **[Summer 2027 Legal Intern, Center For Liberty](https://jobright.ai/jobs/info/6aba8d0fad8589219ef7dd0d?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Remote | Sep 28 |
 | ↳ | **[Spring 2027 Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6aba8d0ead8589219ef7dd0b?utm_campaign=1055&utm_source=git)** | Durham, NC, United States | Remote | Sep 28 |
 | ↳ | **[Spring 2027 Legal Intern, SCOTUS Docket](https://jobright.ai/jobs/info/6aba8d0ed2914e9273eebd97?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Remote | Sep 28 |
 | ↳ | **[Spring 2027 Legal Intern, Human Rights Program](https://jobright.ai/jobs/info/6aba8d0dad8589219ef7dd09?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Remote | Sep 28 |
-| ↳ | **[Spring 2027 Legal Intern, Racial Justice Program](https://jobright.ai/jobs/info/6aba8d0d7220f52e62ae6d1a?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Remote | Sep 28 |
 | ↳ | **[Spring 2027 Legal Intern, Criminal Law Reform Project](https://jobright.ai/jobs/info/6aba8d0d7220f52e62ae6d1b?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Sep 28 |
+| ↳ | **[Spring 2027 Legal Intern, Racial Justice Program](https://jobright.ai/jobs/info/6aba8d0d7220f52e62ae6d1a?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Remote | Sep 28 |
 | ↳ | **[Summer 2027 Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6aba8d0d1acb8fc6f09c0217?utm_campaign=1055&utm_source=git)** | Durham, NC, United States | Hybrid | Sep 28 |
 | ↳ | **[Summer 2027 Legal Intern, Human Rights Program](https://jobright.ai/jobs/info/6aba8d0c7220f52e62ae6d19?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Sep 28 |
 | ↳ | **[Summer 2026 Legal Intern, Program on Freedom of Religion and Belief](https://jobright.ai/jobs/info/6aba8d0cd2914e9273eebd96?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Remote | Sep 28 |
@@ -134,7 +136,7 @@ For a complete list, click the following sortable link below:
 | **[Fox Corporation](https://www.foxcorporation.com)** | **[Summer 2027 FOX Corporation Internship Program - Business and Legal Affairs](https://jobright.ai/jobs/info/6aba1a1f7e7131f2020d5ab6?utm_campaign=1055&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 28 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2027 Contracts Administration Intern - Elkton MD](https://jobright.ai/jobs/info/6abac0c3d2914e9273eed18f?utm_campaign=1055&utm_source=git)** | Elkton, MD, United States | On Site | Sep 27 |
 | **[CDPHP](https://www.cdphp.com)** | **[College Intern - Summer 2027 - Legal & Regulatory](https://jobright.ai/jobs/info/6aba5a9eee0b348be7299386?utm_campaign=1055&utm_source=git)** | Rochester, New York, United States | On Site | Sep 27 |
-| **[Eide Bailly](http://www.eidebailly.com)** | **[Healthcare Regulatory Intern](https://jobright.ai/jobs/info/6a92d6ada27a2d3c9848c302?utm_campaign=1055&utm_source=git)** | Omaha, Nebraska, United States | On Site | Sep 27 |
+| **[Eide Bailly](http://www.eidebailly.com)** | **[Healthcare Regulatory Intern](https://jobright.ai/jobs/info/6a93a65ea27a2d3c9848e163?utm_campaign=1055&utm_source=git)** | Omaha, Nebraska, United States | On Site | Sep 27 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/6a9cf06468f82b403673724a?utm_campaign=1055&utm_source=git)** | Garden Grove, CA, United States | On Site | Sep 27 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a7f8024e2030208f276ed31?utm_campaign=1055&utm_source=git)** | Strongsville, OH, United States | On Site | Sep 27 |
 | **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Intern II (Privacy Compliance) Job Details / Erie Insurance](https://jobright.ai/jobs/info/6ab8a356d7fde2c08ec8d783?utm_campaign=1055&utm_source=git)** | Erie, PA, United States | On Site | Sep 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Risk Intern](https://jobright.ai/jobs/info/6a7f63f0927c79391ad0884b?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Sep 26 |
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Law Clerk (Privacy & Cybersecurity) - Corporate](https://jobright.ai/jobs/info/6a99d72a90a313642c6531a0?utm_campaign=1055&utm_source=git)** | Stamford, CT, United States | On Site | Sep 26 |
 | ↳ | **[2027 Summer Intern: Law Clerk - Corporate](https://jobright.ai/jobs/info/6aad9dd62e757fcb5c8b97c0?utm_campaign=1055&utm_source=git)** | Stamford, CT, United States | On Site | Sep 26 |
-| **[Weyerhaeuser](https://www.weyerhaeuser.com/)** | **[Income Tax Compliance Internship](https://jobright.ai/jobs/info/6ab76fd63a2ec87116e260e9?utm_campaign=1055&utm_source=git)** | Seattle, WA, United States | Hybrid | Sep 26 |
-| **[Conservation Law Foundation](https://www.clf.org/)** | **[Cavers Summer 2027 Intern - Massachusetts](https://jobright.ai/jobs/info/6aa4dd502ed333b4ea5c45b1?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

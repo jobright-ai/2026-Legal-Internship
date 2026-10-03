@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Kroll](http://www.kroll.com)** | **[Intern, Investigations Diligence & Compliance (Specialist)](https://jobright.ai/jobs/info/6a71426171acd469eeda243c?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | Remote | Oct 03 |
+| **[Kroll](http://www.kroll.com)** | **[Intern, Investigations Diligence & Compliance (Specialist)](https://jobright.ai/jobs/info/6a71434b9a0ca4480c7d3a2d?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | Remote | Oct 03 |
 | ↳ | **[Intern, Investigations Diligence & Compliance (Specialist)](https://jobright.ai/jobs/info/6a7140929a0ca4480c7d39d7?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | Remote | Oct 03 |
 | **[Cisco](http://www.cisco.com)** | **[Legal Summer Intern Rising 2L  (Intern) - United States](https://jobright.ai/jobs/info/6aad9fb7de327d3e210d38cb?utm_campaign=1055&utm_source=git)** | Research Triangle Park, NC, United States | Hybrid | Oct 03 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Risk & Compliance Intern](https://jobright.ai/jobs/info/6ac078370e027c0f3b3a1449?utm_campaign=1055&utm_source=git)** | Omaha, NE, United States | On Site | Oct 03 |
@@ -94,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[KPMG US](https://kpmguniversityconnection.com)** | **[Tax Intern, KPMG Law - JD/LLM / Tempe Winter 2027](https://jobright.ai/jobs/info/6abffc3d8ff3fb9b3bc7a05e?utm_campaign=1055&utm_source=git)** | Tempe, AZ, United States | On Site | Oct 02 |
 | ↳ | **[Tax Intern, KPMG Law - JD/LLM / Tempe Summer 2027](https://jobright.ai/jobs/info/6abffc3d4ac55253f5d66e8f?utm_campaign=1055&utm_source=git)** | Tempe, AZ, United States | On Site | Oct 02 |
 | **[Cohen Milstein Sellers & Toll LLP](http://www.cohenmilstein.com)** | **[Fellowship (2027) - New York, NY](https://jobright.ai/jobs/info/6a6a30850b42f866b61974ca?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Oct 02 |
+| **[Gilead Sciences](http://www.gilead.com)** | **[Intern - PDM - CMC Regulatory Affairs, Strategy and Operations](https://jobright.ai/jobs/info/6aa8a8f563bfd4581d7e9083?utm_campaign=1055&utm_source=git)** | Foster City, CA, United States | Hybrid | Oct 02 |
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, Legal, Innovation Policy](https://jobright.ai/jobs/info/6abfd0c98ff3fb9b3bc78e78?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | On Site | Oct 02 |
 | ↳ | **[Intern, Fraud Risk Management](https://jobright.ai/jobs/info/6abfd0cc372c01f6cd728cf9?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | On Site | Oct 02 |
 | **[Southern Environmental Law Center](https://southernenvironment.org)** | **[2L Summer Legal Intern](https://jobright.ai/jobs/info/6ac0200d372c01f6cd72ac89?utm_campaign=1055&utm_source=git)** | Asheville, NC, United States | Hybrid | Oct 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Legal Services - Services and Support (Aftermarket) (Winter 2027)](https://jobright.ai/jobs/info/6abf01750e027c0f3b39c108?utm_campaign=1055&utm_source=git)** | Dorval, QC, Canada | Hybrid | Oct 01 |
 | **[Novonesis](https://www.novonesis.com)** | **[Human Health Regulatory Affairs Intern](https://jobright.ai/jobs/info/6abefefc4ac55253f5d63d1c?utm_campaign=1055&utm_source=git)** | West Allis, Wisconsin, United States | On Site | Oct 01 |
 | **[Baker McKenzie](http://www.bakermckenzie.com/)** | **[2027 2L Transactional Summer Associate: New York](https://jobright.ai/jobs/info/6abf00e6064da25272e03ffb?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Oct 01 |
-| **[Bertelsmann SE & Co. KGaA](http://www.bertelsmann.com)** | **[Summer 2027, Remote Internship, Legal Job Details / Apply now!](https://jobright.ai/jobs/info/6abefea0d9621c5b2839284b?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -8,6 +8,8 @@
 
 ✔️ While this repository includes a fraction of available intern positions, for a comprehensive list of intern jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_campaign=1055&utm_source=git). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
 
+🇨🇦 Looking specifically for Canadian student roles? [Hanzilla Jobs](https://jobs.hanzilla.co/internships/) is a free daily-updated Canadian internships, co-ops, new-grad, junior, and entry-level job board across legal/compliance-adjacent business, finance, policy/government, tech, engineering, sciences, arts, and related fields.
+
 ---
 
 <div align="center">

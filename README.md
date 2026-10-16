@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Kroll](http://www.kroll.com)** | **[Intern, Investigations Diligence and Compliance (Core)](https://jobright.ai/jobs/info/6ac5b53e4ac55253f5d77f8b?utm_campaign=1055&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 15 |
-| ↳ | **[Intern, Trade and Customs](https://jobright.ai/jobs/info/6a9b28dbfe45b8490f607164?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Oct 15 |
+| **[VoteRiders](https://www.voteriders.org/)** | **[VoteRiders Legal Intern](https://jobright.ai/jobs/info/6a99f318040e5c3d07599d66?utm_campaign=1055&utm_source=git)** | Continental United States, United States | Remote | Oct 15 |
+| **[Kroll](http://www.kroll.com)** | **[Intern, Investigations Diligence and Compliance (Core)](https://jobright.ai/jobs/info/6ac5bbf9372c01f6cd73b09c?utm_campaign=1055&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 15 |
+| ↳ | **[Intern, Trade and Customs](https://jobright.ai/jobs/info/6a9b2a7ad5ff1f3f1c39de8d?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Oct 15 |
 | **[Kobalt Music](http://www.kobaltmusic.com)** | **[Intern, Copyright](https://jobright.ai/jobs/info/6ad1592e3d3a5aa909b39fd2?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Oct 15 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Development - Regulatory Affairs](https://jobright.ai/jobs/info/6a9fe42c36c44a0fd09b8c16?utm_campaign=1055&utm_source=git)** | Foster City, CA, United States | Hybrid | Oct 15 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2027 Safe Water Initiative Legal Intern](https://jobright.ai/jobs/info/6acec2bb680c80c8753be9bd?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 15 |
@@ -139,7 +140,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 Internship - Special Investigations Unit](https://jobright.ai/jobs/info/6ab3f252ef911c35dffa23a6?utm_campaign=1055&utm_source=git)** | West Bend, WI, United States | On Site | Oct 14 |
 | ↳ | **[Summer 2027 Internship - Special Investigations Unit](https://jobright.ai/jobs/info/6ab2ea831508734c1530c84d?utm_campaign=1055&utm_source=git)** | West Bend, WI, United States | On Site | Oct 14 |
 | **[Raytheon](http://www.bbn.com)** | **[Contracts Coop ( Spring/Summer 2027)](https://jobright.ai/jobs/info/6acd9e5fddd23cce28a12f63?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 14 |
-| **[Lockton](https://global.lockton.com)** | **[Risk Solutions Intern - June 2027](https://jobright.ai/jobs/info/6a97e0adc8ed473c5c761731?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Oct 14 |
+| **[Lockton](https://global.lockton.com)** | **[Risk Solutions Intern - June 2027](https://jobright.ai/jobs/info/6a97e1c8d356304a02688550?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Oct 14 |
 | ↳ | **[Risk Solutions Intern - June 2027](https://jobright.ai/jobs/info/6a97e189af954907d6570c60?utm_campaign=1055&utm_source=git)** | Saint Louis, MO, United States | On Site | Oct 14 |
 | **[TC Energy](https://www.tcenergy.com/)** | **[Intern, Corporate Secretarial & Finance Law](https://jobright.ai/jobs/info/6ab26cd230340229a322d9c6?utm_campaign=1055&utm_source=git)** | Calgary, AB, Canada | Hybrid | Oct 14 |
 | **[Meta](https://www.meta.com)** | **[Materials Regulatory Compliance (MRC) Intern](https://jobright.ai/jobs/info/6ace8f134f3229123da3ce80?utm_campaign=1055&utm_source=git)** | Menlo Park, CA, United States | On Site | Oct 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Compliance-Regulatory Affairs Intern- Summer 2027](https://jobright.ai/jobs/info/6acee39270e50ec1b37f2048?utm_campaign=1055&utm_source=git)** | Saint Louis, MO, United States | On Site | Oct 13 |
 | **[Textron](http://textron.com)** | **[2027 Co-Op - Legal (Air Systems)  - Hunt Valley, MD](https://jobright.ai/jobs/info/6ace885bba99f15ef41258fb?utm_campaign=1055&utm_source=git)** | Hunt Valley, MD, United States | On Site | Oct 13 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Rule 9 Licensed Legal Intern / Criminal Division](https://jobright.ai/jobs/info/6aa7c78d930bff471a2a3f92?utm_campaign=1055&utm_source=git)** | Seattle, WA, United States | Hybrid | Oct 13 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, U.S. Business Affairs, Sony Pictures Television, Spring 2027](https://jobright.ai/jobs/info/6acf9cbfc9f40bec907fd2a8?utm_campaign=1055&utm_source=git)** | Culver City, CA, United States | On Site | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

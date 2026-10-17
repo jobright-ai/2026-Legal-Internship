@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rosenblum Law](https://rosenblumlawfirm.com/)** | **[Legal Intern-Estate Planning](https://jobright.ai/jobs/info/6a9b288f90a313642c658d20?utm_campaign=1055&utm_source=git)** | Clifton, NJ, United States | On Site | Oct 17 |
 | **[Ocean Conservancy](https://oceanconservancy.org/about/)** | **[Dana Wolfe Memorial Legal Intern](https://jobright.ai/jobs/info/6ab6d9533a2ec87116e243d7?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Remote | Oct 17 |
 | **[Segal](https://www.segalco.com)** | **[2027 Summer Intern - Compliance](https://jobright.ai/jobs/info/6ab62045b3db59402d0ffee9?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 17 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Risk Management Internship (Summer 2027)](https://jobright.ai/jobs/info/6ab6d8e539fd8792cb73c5a3?utm_campaign=1055&utm_source=git)** | Milwaukee, WI, United States | On Site | Oct 17 |
@@ -87,7 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Spring 2027 - Law Extern, Reshaping Prosecution](https://jobright.ai/jobs/info/6ad27b33c4290cef1412b36b?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 16 |
 | **[Southern Star Central Gas Pipeline](http://sscgp.com)** | **[Intern, Land](https://jobright.ai/jobs/info/6ad2ad24c4290cef1412c682?utm_campaign=1055&utm_source=git)** | Lenexa, KS, United States | On Site | Oct 16 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern - Legal Leasing (Law School Students)](https://jobright.ai/jobs/info/6a9ae1d62cdc5958f53e8c5c?utm_campaign=1055&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 16 |
-| **[Kroll](http://www.kroll.com)** | **[Intern, Investigations Diligence and Compliance (Core)](https://jobright.ai/jobs/info/6ac5b53e4ac55253f5d77f8b?utm_campaign=1055&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 16 |
+| **[Kroll](http://www.kroll.com)** | **[Intern, Investigations Diligence and Compliance (Core)](https://jobright.ai/jobs/info/6ac5bbf9372c01f6cd73b09c?utm_campaign=1055&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 16 |
 | **[Shure](http://www.shure.com)** | **[Global Trade Compliance Intern](https://jobright.ai/jobs/info/6a9a0e0a040e5c3d0759a8bf?utm_campaign=1055&utm_source=git)** | Niles, IL, United States | Remote | Oct 16 |
 | **[CAMBA](https://camba.org/)** | **[Summer 2027 Intern - CAMBA Legal Services - Consumer Law Unit](https://jobright.ai/jobs/info/6ad25c04810010ec72f57974?utm_campaign=1055&utm_source=git)** | Brooklyn, NY, United States | On Site | Oct 16 |
 | **[Alexion Pharmaceuticals, Inc.](https://alexion.com)** | **[Regulatory Innovation & AI Transformation Intern](https://jobright.ai/jobs/info/6ad25ae083ada13a9da055c7?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Oct 16 |
@@ -106,7 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Garmin](https://www.garmin.com/en-US/)** | **[International Trade Compliance Intern](https://jobright.ai/jobs/info/6ab5893fc6fe0dec811a1b67?utm_campaign=1055&utm_source=git)** | Olathe, KS, United States | On Site | Oct 16 |
 | **[National Reconnaissance Office (NRO)](https://www.nro.gov)** | **[GENERAL STUDENT TRAINEE (CONTRACTS).](https://jobright.ai/jobs/info/6ad211b283ada13a9da02fe7?utm_campaign=1055&utm_source=git)** | Chantilly, VA, United States | On Site | Oct 16 |
 | **[Pattern](https://www.patternlife.com)** | **[Legal Internship](https://jobright.ai/jobs/info/6ad306a225289a0b3bf599b1?utm_campaign=1055&utm_source=git)** | Lehi, UT, United States | On Site | Oct 16 |
-| **[Kroll](http://www.kroll.com)** | **[Intern, Trade and Customs](https://jobright.ai/jobs/info/6a9b2a7ad5ff1f3f1c39de8d?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Oct 16 |
+| **[Kroll](http://www.kroll.com)** | **[Intern, Trade and Customs](https://jobright.ai/jobs/info/6a9b1fe91388387060596b6b?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Oct 16 |
 | **[San Ysidro Health](https://www.syhealth.org/)** | **[Contracts Intern - San Ysidro](https://jobright.ai/jobs/info/6ad2737183ada13a9da05f6b?utm_campaign=1055&utm_source=git)** | San Diego, CA, United States | On Site | Oct 16 |
 | **[TruStage](https://www.trustage.com/ventures)** | **[Legal Compliance Intern (Hybrid)](https://jobright.ai/jobs/info/6ab5e4edb3db59402d0ff404?utm_campaign=1055&utm_source=git)** | Wisconsin, United States | Remote | Oct 16 |
 | **[Nationwide](https://www.nationwide.com)** | **[Summer 2027 Surety Underwriting Intern](https://jobright.ai/jobs/info/6ad1ed04097baf4fb049e79b?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Oct 16 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Propio Language Services](http://propio-ls.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6ad034222cc4e9d17e90c6ab?utm_campaign=1055&utm_source=git)** | Overland Park, KS, United States | On Site | Oct 15 |
 | **[Trout Unlimited](https://www.tu.org)** | **[2027 California Summer Legal Intern (Remote)](https://jobright.ai/jobs/info/6ad07de6182a457110264f9c?utm_campaign=1055&utm_source=git)** | California, United States | Remote | Oct 15 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Fraud Strategy Intern](https://jobright.ai/jobs/info/6ad05bbb614121de7d947149?utm_campaign=1055&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 14 |
-| ↳ | **[Risk Specialist intern](https://jobright.ai/jobs/info/6ad05bb9fe4980b99fedc401?utm_campaign=1055&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 14 |
 | ↳ | **[LCR Intern](https://jobright.ai/jobs/info/6ad05bb2614121de7d947143?utm_campaign=1055&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

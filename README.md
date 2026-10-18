@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Fall 2026](https://jobright.ai/jobs/info/6a837db8379c304e892f7c0b?utm_campaign=1055&utm_source=git)** | Cincinnati, OH, United States | On Site | Oct 18 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a7f8024e2030208f276ed31?utm_campaign=1055&utm_source=git)** | Strongsville, OH, United States | On Site | Oct 18 |
 | **[Crowe](https://www.crowe.com)** | **[Risk Intern](https://jobright.ai/jobs/info/6a7f63f0927c79391ad0884b?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Oct 18 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Regulatory Compliance)](https://jobright.ai/jobs/info/6ab6e55bd7fde2c08ec8a095?utm_campaign=1055&utm_source=git)** | Pensacola, FL, United States | On Site | Oct 17 |
@@ -95,14 +96,14 @@ For a complete list, click the following sortable link below:
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Spring 2027 - Law Extern, Reshaping Prosecution](https://jobright.ai/jobs/info/6ad27b33c4290cef1412b36b?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 16 |
 | **[Southern Star Central Gas Pipeline](http://sscgp.com)** | **[Intern, Land](https://jobright.ai/jobs/info/6ad2ad24c4290cef1412c682?utm_campaign=1055&utm_source=git)** | Lenexa, KS, United States | On Site | Oct 16 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern - Legal Leasing (Law School Students)](https://jobright.ai/jobs/info/6a9ae1d62cdc5958f53e8c5c?utm_campaign=1055&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 16 |
-| **[Kroll](http://www.kroll.com)** | **[Intern, Investigations Diligence and Compliance (Core)](https://jobright.ai/jobs/info/6ac5bbf9372c01f6cd73b09c?utm_campaign=1055&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 16 |
+| **[Kroll](http://www.kroll.com)** | **[Intern, Investigations Diligence and Compliance (Core)](https://jobright.ai/jobs/info/6ac5b53e4ac55253f5d77f8b?utm_campaign=1055&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 16 |
 | **[Shure](http://www.shure.com)** | **[Global Trade Compliance Intern](https://jobright.ai/jobs/info/6a9a0e0a040e5c3d0759a8bf?utm_campaign=1055&utm_source=git)** | Niles, IL, United States | Remote | Oct 16 |
 | **[CAMBA](https://camba.org/)** | **[Summer 2027 Intern - CAMBA Legal Services - Consumer Law Unit](https://jobright.ai/jobs/info/6ad25c04810010ec72f57974?utm_campaign=1055&utm_source=git)** | Brooklyn, NY, United States | On Site | Oct 16 |
 | **[Lawyers'​ Committee for Civil Rights Under Law](https://lawyerscommittee.org)** | **[2027 Spring Legal Intern](https://jobright.ai/jobs/info/6abfcfc44ac55253f5d65c7d?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Remote | Oct 16 |
 | **[Panasonic Energy Corporation of North America](https://na.panasonic.com/panasonic-energy)** | **[Intern - Legal](https://jobright.ai/jobs/info/6ad2517a25289a0b3bf55e23?utm_campaign=1055&utm_source=git)** | Bridgeton, MO, United States | On Site | Oct 16 |
 | **[Wabash Valley Power Alliance](https://www.wvpa.com/)** | **[Technology & Compliance Internship - Summer 2027](https://jobright.ai/jobs/info/6aaab9384be87a72913a0e44?utm_campaign=1055&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 16 |
 | **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Law Reform Legal Intern – Spring 2027](https://jobright.ai/jobs/info/6abfbeb0064da25272e05a50?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Oct 16 |
-| **[Shure](http://www.shure.com)** | **[Information Security Governance, Risk & Compliance Intern](https://jobright.ai/jobs/info/6a9a44e690a313642c654e81?utm_campaign=1055&utm_source=git)** | Niles, IL, United States | On Site | Oct 16 |
+| **[Shure](http://www.shure.com)** | **[Information Security Governance, Risk & Compliance Intern](https://jobright.ai/jobs/info/6a989de983fc633357632931?utm_campaign=1055&utm_source=git)** | Niles, IL, United States | On Site | Oct 16 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Intern - Ethics and Compliance (Legal)](https://jobright.ai/jobs/info/6ab57d599d4843569fe49f94?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA, United States | Hybrid | Oct 16 |
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, Fraud Risk Management](https://jobright.ai/jobs/info/6abfd0cc372c01f6cd728cf9?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | On Site | Oct 16 |
 | ↳ | **[Intern, Legal](https://jobright.ai/jobs/info/6ad23a6a25289a0b3bf54e8e?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | On Site | Oct 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/6ac3e7310e027c0f3b3a8168?utm_campaign=1055&utm_source=git)** | St. Louis, MO, United States | On Site | Oct 15 |
 | **[Campaign Legal Center](https://campaignlegal.org)** | **[Legal Internship (2027)](https://jobright.ai/jobs/info/6ad0abf152a37835d5e40571?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | On Site | Oct 15 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a9659e54c22023a07938fd3?utm_campaign=1055&utm_source=git)** | Houston, TX, United States | Hybrid | Oct 15 |
-| **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern – Global Healthcare Compliance](https://jobright.ai/jobs/info/6ab4521d0e0ae54eeea47f2a?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

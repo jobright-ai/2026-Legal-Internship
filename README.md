@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Diversified Energy Company](https://www.div.energy/)** | **[2027 Summer Intern- Legal](https://jobright.ai/jobs/info/6ad2db2883ada13a9da083d8?utm_campaign=1055&utm_source=git)** | Charleston, West Virginia, United States | On Site | Oct 24 |
+| **[MacArthur Justice Center (MJC)](https://www.macarthurjustice.org)** | **[Law Clerk Intern - Summer 2027](https://jobright.ai/jobs/info/6ad91545950ef68d5184dd4a?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 24 |
 | **[Northwestern Memorial Hospital](http://foundation.nmh.org/)** | **[Law Intern Program - Contracts - Summer 2027](https://jobright.ai/jobs/info/6adcc5de0a4cc7090f9782ec?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Oct 24 |
 | **[Richmond National](https://richmondnational.com)** | **[Legal Intern (Summer 2027)](https://jobright.ai/jobs/info/6abfc2d7372c01f6cd7288ef?utm_campaign=1055&utm_source=git)** | Glen Allen, VA, United States | On Site | Oct 24 |
 | **[Eddyfi Technologies](https://www.eddyfi.com/)** | **[Intern, Legal Affairs & Innovation](https://jobright.ai/jobs/info/6ac03ea90e027c0f3b3a0953?utm_campaign=1055&utm_source=git)** | Quebec City, QC, Canada | Hybrid | Oct 24 |
@@ -75,7 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Safeguarding Intern](https://jobright.ai/jobs/info/6ac952b9d4a5a03707411e8d?utm_campaign=1055&utm_source=git)** | Commerce City, CO, United States | On Site | Oct 23 |
 | **[Robynex Automation](robynexautomation.com)** | **[Nutrition Regulatory Analyst Intern](https://jobright.ai/jobs/info/6adbcb7a9e3e874dbfba1e94?utm_campaign=1055&utm_source=git)** | Ada, Michigan, United States | On Site | Oct 23 |
 | **[Reingold, Inc.](http://reingold.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6adbc52b5dc7953215a345ab?utm_campaign=1055&utm_source=git)** | Alexandria, VA, United States | On Site | Oct 23 |
-| **[Ensign-Bickford Aerospace & Defense Company (EBAD)](https://www.ebad.com/)** | **[Contracts Intern](https://jobright.ai/jobs/info/6ac8000044d6e65604a058c9?utm_campaign=1055&utm_source=git)** | Simsbury, CT, United States | On Site | Oct 23 |
+| **[Ensign-Bickford Aerospace & Defense Company (EBAD)](https://www.ebad.com/)** | **[Contracts Intern](https://jobright.ai/jobs/info/6ac7eb8f44d6e65604a05182?utm_campaign=1055&utm_source=git)** | Simsbury, CT, United States | On Site | Oct 23 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2027 - Market Regulation Intern](https://jobright.ai/jobs/info/6adbc215389e06bb41ad3aa3?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Oct 23 |
 | ↳ | **[Summer Internship Program 2027 - Regulatory Products Intern](https://jobright.ai/jobs/info/6adbc208389e06bb41ad3a9c?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Oct 23 |
 | **[Aflac](http://www.aflac.com)** | **[2027 Global Investments (NY) Compliance Intern](https://jobright.ai/jobs/info/6adbb7949e3e874dbfba15f3?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Hybrid | Oct 23 |
@@ -87,7 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Fraud Data Governance)](https://jobright.ai/jobs/info/6aa168b0500b01124c77c7b3?utm_campaign=1055&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 23 |
 | ↳ | **[Summer Associate Internship (Technical Risk Analyst - Security Regulatory Compliance)](https://jobright.ai/jobs/info/6adbacd846a8cabdc1ff4305?utm_campaign=1055&utm_source=git)** | Pensacola, FL, United States | Hybrid | Oct 23 |
 | ↳ | **[Summer Associate Internship (Technical Risk Analyst - Security Regulatory Compliance)](https://jobright.ai/jobs/info/6adba9fa9e3e874dbfba11c5?utm_campaign=1055&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 23 |
-| ↳ | **[Summer Associate Internship (Enterprise Risk - Data Risk Governance)](https://jobright.ai/jobs/info/6aa16315dbc0e60e37e110eb?utm_campaign=1055&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 23 |
+| ↳ | **[Summer Associate Internship (Enterprise Risk - Data Risk Governance)](https://jobright.ai/jobs/info/6aa168332f936e4a53dab834?utm_campaign=1055&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 23 |
 | **[Energy Transfer](http://www.energytransfer.com)** | **[Intern - Contract Admin Natural Gas](https://jobright.ai/jobs/info/6adaa75c4c3adc437cecee63?utm_campaign=1055&utm_source=git)** | Dallas, TX, United States | On Site | Oct 23 |
 | **[First American](http://www.firstam.com)** | **[Graduate Intern- Commercial Title Underwriting (Summer 2027)](https://jobright.ai/jobs/info/6abfdd918ff3fb9b3bc792c1?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Oct 23 |
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2027 1L Summer Associate](https://jobright.ai/jobs/info/6adb98f5389e06bb41ad2dd4?utm_campaign=1055&utm_source=git)** | North Chicago, IL, United States | Hybrid | Oct 23 |
@@ -97,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2027](https://jobright.ai/jobs/info/6a85b4bae459fa3baa8634c5?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT, United States | On Site | Oct 23 |
 | **[Lindt & Sprüngli (North America) Inc.](https://www.chocolate.lindt.com/)** | **[Supply Chain Compliance Intern](https://jobright.ai/jobs/info/6adb827b9e3e874dbfba0336?utm_campaign=1055&utm_source=git)** | Stratham, NH, United States | On Site | Oct 23 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2027](https://jobright.ai/jobs/info/6a84eda2d34f700f87fbb866?utm_campaign=1055&utm_source=git)** | Fort Worth, TX, United States | On Site | Oct 23 |
-| **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a9ae28dd5ff1f3f1c39b965?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Oct 23 |
-| ↳ | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a9ae3af9c24314c35f95b6a?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Oct 23 |
+| **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a9ae39afe45b8490f604bd0?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Oct 23 |
+| ↳ | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a9ae28cd5ff1f3f1c39b963?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Oct 23 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2027](https://jobright.ai/jobs/info/6aa1ff32ef23570cae2473d2?utm_campaign=1055&utm_source=git)** | Jacksonville, FL, United States | On Site | Oct 23 |
 | **[Northwest Bank](https://www.nw.bank)** | **[BSA/Fraud Intern](https://jobright.ai/jobs/info/6adbc25cc5c64fa3d9cb107a?utm_campaign=1055&utm_source=git)** | Altavista, VA, United States | On Site | Oct 23 |
 | **[Shorr Packaging Corp.](http://www.shorr.com/)** | **[Contracts & Risk Management Intern](https://jobright.ai/jobs/info/6adb886b46a8cabdc1ff35ce?utm_campaign=1055&utm_source=git)** | Aurora, IL, United States | Hybrid | Oct 23 |
@@ -136,7 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Expeditors](http://www.expeditors.com)** | **[Customs Brokerage Agent - Post Entry](https://jobright.ai/jobs/info/6ada5c583a69033df22582b6?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ, United States | On Site | Oct 22 |
 | **[BAL](https://www.bal.com)** | **[Legal Fellow - 2027 Summer Fellowship Program](https://jobright.ai/jobs/info/6ada4c0b3a69033df2257925?utm_campaign=1055&utm_source=git)** | Richardson, TX, United States | On Site | Oct 22 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Risk Analyst)](https://jobright.ai/jobs/info/6aa168283272060a8e3ef933?utm_campaign=1055&utm_source=git)** | Vienna, VA, United States | On Site | Oct 22 |
-| ↳ | **[Summer Associate Internship (Legal)](https://jobright.ai/jobs/info/6aa16323dbc0e60e37e110f3?utm_campaign=1055&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 22 |
+| ↳ | **[Summer Associate Internship (Legal)](https://jobright.ai/jobs/info/6aa1684a2f936e4a53dab84b?utm_campaign=1055&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 22 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Risk Advisory Services - Summer 2027 (Boston)](https://jobright.ai/jobs/info/6ada2adf3a69033df225627a?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | On Site | Oct 22 |
 | ↳ | **[Assurance Intern, Third Party Attestation - Summer 2027 (Boston)](https://jobright.ai/jobs/info/6ada2adb3a69033df2256276?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | On Site | Oct 22 |
 | **[MEMX](http://www.memx.com/)** | **[Legal Intern, Summer 2027 (Hybrid, NYC)](https://jobright.ai/jobs/info/6ac7c77bfcdafb60c6a45aa9?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Oct 22 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2027](https://jobright.ai/jobs/info/6a85771a2f4f0014cae24cd1?utm_campaign=1055&utm_source=git)** | Matteson, IL, United States | On Site | Oct 22 |
 | **[Danaher](https://www.danaher.com)** | **[IT Governance, Risk & Compliance Intern](https://jobright.ai/jobs/info/6aa1b1f52f936e4a53dad861?utm_campaign=1055&utm_source=git)** | Coralville, IA, United States | On Site | Oct 22 |
 | **[Red Hat](http://www.redhat.com)** | **[Deal Management Analyst Intern](https://jobright.ai/jobs/info/6aa053655b2d5633ef3bde61?utm_campaign=1055&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 22 |
-| **[HII](https://hii.com)** | **[CORPORATE LEGAL INTERN Job Details / Huntington Ingalls](https://jobright.ai/jobs/info/6aa3be10959a10d7230d3ad4?utm_campaign=1055&utm_source=git)** | Newport News, VA, United States | On Site | Oct 22 |
-| ↳ | **[CORPORATE LEGAL INTERN](https://jobright.ai/jobs/info/6aa03fed5b2d5633ef3bd667?utm_campaign=1055&utm_source=git)** | Newport News, VA, United States | On Site | Oct 22 |
-| ↳ | **[CORPORATE LEGAL INTERN Job Details / Huntington Ingalls](https://jobright.ai/jobs/info/6aa3cb214238ea18d430e4d3?utm_campaign=1055&utm_source=git)** | Arlington, VA, United States | On Site | Oct 22 |
-| ↳ | **[CORPORATE LEGAL INTERN](https://jobright.ai/jobs/info/6aa07845a2266b538d2309cc?utm_campaign=1055&utm_source=git)** | Arlington, VA, United States | On Site | Oct 22 |
+| **[HII](https://hii.com)** | **[CORPORATE LEGAL INTERN](https://jobright.ai/jobs/info/6aa07845a2266b538d2309cc?utm_campaign=1055&utm_source=git)** | Arlington, VA, United States | On Site | Oct 22 |
 | ↳ | **[CORPORATE LEGAL INTERN Job Details / Huntington Ingalls](https://jobright.ai/jobs/info/6aa3c06b959a10d7230d3beb?utm_campaign=1055&utm_source=git)** | Newport News, VA, United States | On Site | Oct 22 |
+| ↳ | **[CORPORATE LEGAL INTERN Job Details / Huntington Ingalls](https://jobright.ai/jobs/info/6aa3be10959a10d7230d3ad4?utm_campaign=1055&utm_source=git)** | Newport News, VA, United States | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[StructaLink Group](structalinkgroup.com)** | **[Nutrition Regulatory Analyst Intern](https://jobright.ai/jobs/info/6ae1831667c31ab3489a3a56?utm_campaign=1055&utm_source=git)** | Ada, Michigan, United States | Remote | Oct 27 |
 | **[New York Legal Assistance Group](https://www.nylag.org)** | **[Fall 2026 + Spring 2027 Legal Intern, Tenants' Rights Unit (Bronx)](https://jobright.ai/jobs/info/6ae175f405a39c3e2c712d4a?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Oct 27 |
 | ↳ | **[Spring 2027 LegalHealth Internship](https://jobright.ai/jobs/info/6ae175f16679108488c43c80?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Oct 27 |
 | ↳ | **[Fall 2026 + Spring 2027 Legal Intern, Consumer Protection Unit](https://jobright.ai/jobs/info/6ae175eede23f466ec8bf0b9?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Oct 27 |
@@ -112,7 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Robinhood](https://www.robinhood.com)** | **[Fraud Operations Intern (Summer 2027)](https://jobright.ai/jobs/info/6ad0c7c1256e49282e650054?utm_campaign=1055&utm_source=git)** | Denver, CO, United States | On Site | Oct 27 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Economic Damages & Valuation Internship - Summer 2027](https://jobright.ai/jobs/info/6ac40ef4d9621c5b2839f714?utm_campaign=1055&utm_source=git)** | Birmingham, AL, United States | Hybrid | Oct 27 |
 | ↳ | **[Economic Damages & Valuation Internship - Summer 2027](https://jobright.ai/jobs/info/6aa8a0e04cb6b0e0b828d8fc?utm_campaign=1055&utm_source=git)** | Alpharetta, GA, United States | Hybrid | Oct 27 |
-| **[HDR](http://www.hdrinc.com)** | **[Stormwater Compliance Intern](https://jobright.ai/jobs/info/6ac3de518ff3fb9b3bc82afe?utm_campaign=1055&utm_source=git)** | Austin, TX, United States | On Site | Oct 27 |
+| **[HDR](http://www.hdrinc.com)** | **[Stormwater Compliance Intern](https://jobright.ai/jobs/info/6ac3d515064da25272e0fa73?utm_campaign=1055&utm_source=git)** | Austin, TX, United States | On Site | Oct 27 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Copyright Specialist Intern](https://jobright.ai/jobs/info/6a70fb22e2b7476e7b20c331?utm_campaign=1055&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Oct 27 |
 | **[BeOne Medicines](https://beonemedicines.com)** | **[Intern - Regulatory Affairs, CMC (year-round)](https://jobright.ai/jobs/info/69fc46856e32960ebbbe8433?utm_campaign=1055&utm_source=git)** | Remote (US), US | Remote | Oct 27 |
 | **[Alliance Laundry Systems LLC](https://alliancelaundry.com/)** | **[Regulatory Compliance Intern](https://jobright.ai/jobs/info/6aa82269654b2a9424cfad97?utm_campaign=1055&utm_source=git)** | Ripon, WI, United States | On Site | Oct 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sands Anderson PC](http://sandsanderson.com)** | **[2027 Summer Associate - Richmond Office](https://jobright.ai/jobs/info/6abc23a5a9a644f96568a7ce?utm_campaign=1055&utm_source=git)** | Richmond, VA, United States | On Site | Oct 26 |
 | **[Children's Law Center](http://www.childrenslawcenter.org)** | **[Paralegal Internship (Summer 2027)](https://jobright.ai/jobs/info/6ae052340a4cc7090f986be5?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Oct 26 |
 | **[Middlesex County, NJ - County Government](https://co.middlesex.nj.us)** | **[Legal Internship - Middlesex County Prosecutor's Office - Summer 2027](https://jobright.ai/jobs/info/6a96f0ea246d697dcee021dc?utm_campaign=1055&utm_source=git)** | New Brunswick, NJ, United States | On Site | Oct 26 |
-| **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Summer 2027 Intern - MA Communications Quality and Vendor Oversight](https://jobright.ai/jobs/info/6ad77e843dc655658d8ecbe5?utm_campaign=1055&utm_source=git)** | Detroit, MI, United States | Hybrid | Oct 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

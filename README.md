@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[State Farm](https://jhannahco.com)** | **[Summer 2027 Intern - Law - Jacksonville, FL CLC](https://jobright.ai/jobs/info/6adb5187c5c64fa3d9caed0f?utm_campaign=1055&utm_source=git)** | Jacksonville, FL, United States | Hybrid | Oct 28 |
+| **[AIG](https://www.aig.com)** | **[2027 Early Careers: Summer Intern, Claims – Juris Doctor – United States, Jersey City & New York City](https://jobright.ai/jobs/info/6a971544f5337b2cf731fe4c?utm_campaign=1055&utm_source=git)** | Jersey City, NJ, United States | On Site | Oct 28 |
+| **[Planned Parenthood of Metropolitan Washington, DC, Inc.](https://ppmw.org)** | **[Legal Intern (Spring)](https://jobright.ai/jobs/info/6ae27c5ade23f466ec8c70c9?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Remote | Oct 28 |
 | **[Avania](https://www.avaniaclinical.com/)** | **[Regulatory & Market Access Intern](https://jobright.ai/jobs/info/6a70c68502d93145bf88c25a?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | On Site | Oct 28 |
+| **[State Farm](https://jhannahco.com)** | **[Summer 2027 Intern - Law - Jacksonville, FL CLC](https://jobright.ai/jobs/info/6adb5187c5c64fa3d9caed0f?utm_campaign=1055&utm_source=git)** | Jacksonville, FL, United States | Hybrid | Oct 28 |
+| **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6ad676fae4b94611ab83eefb?utm_campaign=1055&utm_source=git)** | Sparks, NV, United States | On Site | Oct 28 |
 | **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Intern II (Privacy Compliance) Job Details / Erie Insurance](https://jobright.ai/jobs/info/6ae2649205a39c3e2c719f76?utm_campaign=1055&utm_source=git)** | Erie, PA, United States | On Site | Oct 28 |
 | **[Kobalt Music](http://www.kobaltmusic.com)** | **[Intern, Contract Administration](https://jobright.ai/jobs/info/6ae257cdde23f466ec8c54d8?utm_campaign=1055&utm_source=git)** | Nashville, TN, United States | On Site | Oct 28 |
 | **[Saint Anthony Hospital](https://sahchicago.org/)** | **[Legal Extern - Healthcare - Part Time](https://jobright.ai/jobs/info/6ae2570dde23f466ec8c545c?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Oct 28 |
@@ -112,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Bank Secrecy Act Analyst](https://jobright.ai/jobs/info/6ae1125805a39c3e2c70fcb4?utm_campaign=1055&utm_source=git)** | Metairie, LA, United States | On Site | Oct 27 |
 | **[The Andersons, Inc.](http://www.andersonsinc.com)** | **[Legal Intern (Summer 2027)](https://jobright.ai/jobs/info/6ae256d7829a3bada1603bf2?utm_campaign=1055&utm_source=git)** | Maumee, OH, United States | On Site | Oct 27 |
 | **[Sompo](https://www.sompo-intl.com/)** | **[Commercial Management Liability Underwriting Intern](https://jobright.ai/jobs/info/6ae24b11de23f466ec8c4d31?utm_campaign=1055&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 27 |
-| **[MUFG](http://www.mufg.jp)** | **[2027 Summer Analyst - Global Financial Crimes Division - Irving, TX](https://jobright.ai/jobs/info/6ae267c01f9d9308370b1d05?utm_campaign=1055&utm_source=git)** | Irving, TX, United States | Hybrid | Oct 27 |
 | **[Kobalt Music](http://www.kobaltmusic.com)** | **[Intern, Contract Administration](https://jobright.ai/jobs/info/6ae2625c829a3bada160478b?utm_campaign=1055&utm_source=git)** | Nashville, TN, United States | Hybrid | Oct 27 |
 | **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[Risk & Safety Intern - Summer 2027](https://jobright.ai/jobs/info/6ae24ea06679108488c49d35?utm_campaign=1055&utm_source=git)** | Waukee, IA, United States | On Site | Oct 27 |
 | **[AltaGas Ltd.](http://altagas.ca/)** | **[AltaGas - 2027 Corporate Compliance Intern](https://jobright.ai/jobs/info/6ae2678eeb7e8f715a60dcb2?utm_campaign=1055&utm_source=git)** | Calgary, AB, Canada | On Site | Oct 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Haleon](http://www.haleon.com/)** | **[Regulatory Affairs Intern (12 Month Internship)](https://jobright.ai/jobs/info/6ac4e99f372c01f6cd7369dc?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Oct 27 |
 | **[Moderna](http://www.modernatx.com)** | **[Co-Op, Compliance and Data QC](https://jobright.ai/jobs/info/6ac3a6f1d9621c5b2839d17a?utm_campaign=1055&utm_source=git)** | Norwood, MA, United States | Hybrid | Oct 27 |
 | **[Kroll](http://www.kroll.com)** | **[Intern, Investigations Diligence & Compliance (Specialist)](https://jobright.ai/jobs/info/6ae0a35005a39c3e2c70b194?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | Remote | Oct 27 |
-| **[Community Health Center of Southeast Kansas](https://chcsek.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/6ae0d30f67c31ab34899d41b?utm_campaign=1055&utm_source=git)** | Pittsburg, KS, United States | On Site | Oct 27 |
-| **[Robinhood](https://www.robinhood.com)** | **[Fraud Operations Intern (Summer 2027)](https://jobright.ai/jobs/info/6ad0c7c1256e49282e650054?utm_campaign=1055&utm_source=git)** | Denver, CO, United States | On Site | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

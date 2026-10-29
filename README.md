@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Washington Lawyers'​ Committee for Civil Rights and Urban Affairs](https://www.washlaw.org/)** | **[Workers' Rights Clinic Internship (Spring 2027, Non-legal)](https://jobright.ai/jobs/info/6ae248f1eb7e8f715a60c4c2?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 28 |
 | **[Muon Space](https://www.muonspace.com)** | **[Legal Intern (Summer 2027)](https://jobright.ai/jobs/info/6ae2c059e37c39926d3b399a?utm_campaign=1055&utm_source=git)** | AL | Remote | Oct 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Listing Governance Product Compliance Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5ef5c5f3674a0545d2b654?utm_campaign=1055&utm_source=git)** | Seattle, WA, United States | On Site | Oct 28 |
 | **[Independence Blue Cross](https://www.ibx.com)** | **[Summer Intern: Regulatory Performance Management Analyst](https://jobright.ai/jobs/info/6ae2ac776679108488c4cfc5?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | On Site | Oct 28 |
@@ -72,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Saint Anthony Hospital](https://sahchicago.org/)** | **[Legal Extern - Healthcare - Part Time](https://jobright.ai/jobs/info/6ae2570dde23f466ec8c545c?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Oct 28 |
 | **[Citizens Energy Group](https://www.citizensenergygroup.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6ae1f7ebde23f466ec8c13da?utm_campaign=1055&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 28 |
 | **[ACLU](https://www.aclu.org/)** | **[Spring 2027 Legal Intern, Affiliate Support and Nationwide Initiatives](https://jobright.ai/jobs/info/6ae24ce8829a3bada16035f5?utm_campaign=1055&utm_source=git)** | San Juan, PR, United States | Hybrid | Oct 28 |
-| **[Washington Lawyers'​ Committee for Civil Rights and Urban Affairs](https://www.washlaw.org/)** | **[Workers' Rights Clinic Internship (Spring 2027, Non-legal)](https://jobright.ai/jobs/info/6ae248f1eb7e8f715a60c4c2?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 28 |
 | **[UPL](http://www.upl-ltd.com/)** | **[Regulatory Intern Job Details / upllimited](https://jobright.ai/jobs/info/6ad140b4a4f99fef819431a5?utm_campaign=1055&utm_source=git)** | RTP, NC, United States | On Site | Oct 28 |
 | ↳ | **[Regulatory Intern](https://jobright.ai/jobs/info/6ac59bc1064da25272e17aa7?utm_campaign=1055&utm_source=git)** | RTP, NC, United States | On Site | Oct 28 |
 | **[Sony Electronics](http://www.sony.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6ac55d2b4ac55253f5d76452?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Oct 28 |
@@ -107,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[DESRI](https://www.desri.com)** | **[Legal Intern (Summer 2027)](https://jobright.ai/jobs/info/6a8cb352581f2d7bfdfe558f?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Oct 28 |
 | **[Seyfarth Shaw LLP](http://www.seyfarth.com)** | **[Spelman-Morehouse Intern](https://jobright.ai/jobs/info/6ac745e20e027c0f3b3b5cac?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 28 |
 | **[Freddie Mac](https://www.freddiemac.com/)** | **[Risk Management Graduate Intern – Business Summer 2027](https://jobright.ai/jobs/info/6a8c57c82f736c304f2a5184?utm_campaign=1055&utm_source=git)** | McLean, VA, United States | On Site | Oct 28 |
-| **[Pitney Bowes](https://www.pitneybowes.com)** | **[Intern](https://jobright.ai/jobs/info/6ad925c8950ef68d5184e951?utm_campaign=1055&utm_source=git)** | Tippecanoe County, Indiana, United States | Hybrid | Oct 27 |
 | **[New York Legal Assistance Group](https://www.nylag.org)** | **[Fall 2026 + Spring 2027 Legal Intern, Tenants' Rights Unit (Bronx)](https://jobright.ai/jobs/info/6ae175f405a39c3e2c712d4a?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Oct 27 |
 | ↳ | **[Spring 2027 LegalHealth Internship](https://jobright.ai/jobs/info/6ae175f16679108488c43c80?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Oct 27 |
 | ↳ | **[Fall 2026 + Spring 2027 Legal Intern, Consumer Protection Unit](https://jobright.ai/jobs/info/6ae175eede23f466ec8bf0b9?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Oct 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Parker Hannifin](http://www.parker.com)** | **[Supply Chain Intern, Trade Compliance](https://jobright.ai/jobs/info/6ac424e9064da25272e11676?utm_campaign=1055&utm_source=git)** | M'Field Heights, OH, United States | On Site | Oct 27 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Risk Management and Compliance Intern](https://jobright.ai/jobs/info/6ac44b4f8ff3fb9b3bc85379?utm_campaign=1055&utm_source=git)** | Naples, FL, United States | On Site | Oct 27 |
 | **[axogen](http://www.axogeninc.com)** | **[Intern - Legal (Spring 2027)](https://jobright.ai/jobs/info/6ac3f5040e027c0f3b3a8677?utm_campaign=1055&utm_source=git)** | Tampa, FL, United States | On Site | Oct 27 |
+| **[Haleon](http://www.haleon.com/)** | **[Regulatory Affairs Intern (12 Month Internship)](https://jobright.ai/jobs/info/6ac4e99f372c01f6cd7369dc?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

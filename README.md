@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Strada Education Foundation](https://www.strada.org)** | **[Strada Education Foundation Internship: Legal Intern](https://jobright.ai/jobs/info/6ae4b439fb2cd420ace58d60?utm_campaign=1055&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Oct 30 |
+| **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Intern II (Risk Control)](https://jobright.ai/jobs/info/6ac87992af788e6ad3b5797b?utm_campaign=1055&utm_source=git)** | Erie, PA, United States | On Site | Oct 30 |
 | **[Sussman Law Firm, PLLC](https://www.sussmanlawfirmpllc.com/)** | **[Family Law Intern](https://jobright.ai/jobs/info/6ae4a0d2d45dc30fb7d30b79?utm_campaign=1055&utm_source=git)** | Charlotte, NC, United States | On Site | Oct 30 |
 | **[BrightSpring Health Services](https://www.brightspringhealth.com/)** | **[Intern-Compliance](https://jobright.ai/jobs/info/6ae4951b77c09cb3bd4acf37?utm_campaign=1055&utm_source=git)** | Louisville, KY, United States | On Site | Oct 30 |
 | **[At Home Care Hospice](https://athomecareandhospice.com)** | **[Intern-Compliance](https://jobright.ai/jobs/info/6ae493fbfb2cd420ace57dd5?utm_campaign=1055&utm_source=git)** | Louisville, KY, United States | On Site | Oct 30 |
@@ -69,12 +71,12 @@ For a complete list, click the following sortable link below:
 | **[New York Life](https://www.newyorklife.com/)** | **[New York Life Law Internship- Summer 2027 Job Details / New York Life Insurance Co](https://jobright.ai/jobs/info/6ae42078d45dc30fb7d2ee64?utm_campaign=1055&utm_source=git)** | White Plains, NY, United States | Hybrid | Oct 29 |
 | **[VoteRiders](https://www.voteriders.org/)** | **[VoteRiders Legal Intern](https://jobright.ai/jobs/info/6a99f318040e5c3d07599d66?utm_campaign=1055&utm_source=git)** | Continental United States, United States | Remote | Oct 29 |
 | **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, Risk, Claims Recovery - Summer 2027 (Chicago, Dallas, Grand Rapids)](https://jobright.ai/jobs/info/6ae3c2edfb2cd420ace53e07?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Oct 29 |
-| **[Travelers](https://www.travelers.com/)** | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4a0d077c09cb3bd4ad453?utm_campaign=1055&utm_source=git)** | St. Paul, MN, United States | Hybrid | Oct 29 |
-| ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4961cd45dc30fb7d306b7?utm_campaign=1055&utm_source=git)** | Irvine, CA, United States | Hybrid | Oct 29 |
-| ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4961bfb2cd420ace57ee0?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 29 |
-| ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4961677c09cb3bd4acfb3?utm_campaign=1055&utm_source=git)** | Hartford, CT, United States | Hybrid | Oct 29 |
+| **[Travelers](https://www.travelers.com/)** | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4961677c09cb3bd4acfb3?utm_campaign=1055&utm_source=git)** | Hartford, CT, United States | Hybrid | Oct 29 |
 | ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4a0d577c09cb3bd4ad45b?utm_campaign=1055&utm_source=git)** | Charlotte, NC, United States | Hybrid | Oct 29 |
 | ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4a0c6d45dc30fb7d30b6f?utm_campaign=1055&utm_source=git)** | Richardson, TX, United States | Hybrid | Oct 29 |
+| ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4961bfb2cd420ace57ee0?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 29 |
+| ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4961cd45dc30fb7d306b7?utm_campaign=1055&utm_source=git)** | Irvine, CA, United States | Hybrid | Oct 29 |
+| ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4a0d077c09cb3bd4ad453?utm_campaign=1055&utm_source=git)** | St. Paul, MN, United States | Hybrid | Oct 29 |
 | **[The Standard](https://www.standard.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6ae46d7deab1f9673097a63e?utm_campaign=1055&utm_source=git)** | Continental United States, United States | Remote | Oct 29 |
 | **[CVR Energy, Inc.](http://www.cvrenergy.com/index.html)** | **[Risk Management Intern](https://jobright.ai/jobs/info/6ae3d6a9d7424a2a828e34ee?utm_campaign=1055&utm_source=git)** | Sugar Land, TX, United States | On Site | Oct 29 |
 | **[Ensign-Bickford Aerospace & Defense Company (EBAD)](https://www.ebad.com/)** | **[Contracts Intern](https://jobright.ai/jobs/info/6ac7eb8f44d6e65604a05182?utm_campaign=1055&utm_source=git)** | Simsbury, CT, United States | On Site | Oct 29 |
@@ -141,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[Saint Anthony Hospital](https://sahchicago.org/)** | **[Legal Extern - Healthcare - Part Time](https://jobright.ai/jobs/info/6ae2570dde23f466ec8c545c?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Oct 28 |
 | **[Citizens Energy Group](https://www.citizensenergygroup.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6ae1f7ebde23f466ec8c13da?utm_campaign=1055&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 28 |
 | **[ACLU](https://www.aclu.org/)** | **[Spring 2027 Legal Intern, Affiliate Support and Nationwide Initiatives](https://jobright.ai/jobs/info/6ae24ce8829a3bada16035f5?utm_campaign=1055&utm_source=git)** | San Juan, PR, United States | Hybrid | Oct 28 |
-| **[UPL](http://www.upl-ltd.com/)** | **[Regulatory Intern Job Details / upllimited](https://jobright.ai/jobs/info/6ad140b4a4f99fef819431a5?utm_campaign=1055&utm_source=git)** | RTP, NC, United States | On Site | Oct 28 |
-| ↳ | **[Regulatory Intern](https://jobright.ai/jobs/info/6ac59bc1064da25272e17aa7?utm_campaign=1055&utm_source=git)** | RTP, NC, United States | On Site | Oct 28 |
+| **[UPL](http://www.upl-ltd.com/)** | **[Regulatory Intern](https://jobright.ai/jobs/info/6ac59bc1064da25272e17aa7?utm_campaign=1055&utm_source=git)** | RTP, NC, United States | On Site | Oct 28 |
+| ↳ | **[Regulatory Intern Job Details / upllimited](https://jobright.ai/jobs/info/6ad140b4a4f99fef819431a5?utm_campaign=1055&utm_source=git)** | RTP, NC, United States | On Site | Oct 28 |
 | **[Sony Electronics](http://www.sony.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6ac55d2b4ac55253f5d76452?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Oct 28 |
 | **[New York Life](https://www.newyorklife.com/)** | **[New York Life Law Internship- Summer 2027](https://jobright.ai/jobs/info/6ae21d2d1f9d9308370ae374?utm_campaign=1055&utm_source=git)** | White Plains, NY, United States | Hybrid | Oct 28 |
 | **[World Wide Technology](http://www.wwt.com)** | **[Compliance, Contracts, and Legal Technology Intern - 2027](https://jobright.ai/jobs/info/6ac1d1af8ff3fb9b3bc7dfa8?utm_campaign=1055&utm_source=git)** | Maryland Heights, MO, United States | On Site | Oct 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Chesapeake Utilities Corporation](http://chpk.com)** | **[Regulatory Intern - Summer 2027](https://jobright.ai/jobs/info/6aa82619654b2a9424cfb019?utm_campaign=1055&utm_source=git)** | West Palm Beach, FL, United States | Hybrid | Oct 28 |
 | **[LCS](https://www.lcsnet.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6aa9b6646d0edc2d91b0ad3a?utm_campaign=1055&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 28 |
 | **[AngloGold Ashanti North America](https://www.anglogoldashanti.com/portfolio/americas/united-states-projects/)** | **[Mining Contract Intern](https://jobright.ai/jobs/info/6ac528520e027c0f3b3ad34b?utm_campaign=1055&utm_source=git)** | Las Vegas, NV, United States | On Site | Oct 28 |
-| **[BMW Group](http://www.bmwgroup.com)** | **[Compliance Intern (12 Months)](https://jobright.ai/jobs/info/6ae22cf205a39c3e2c71790c?utm_campaign=1055&utm_source=git)** | Richmond Hill, ON, Canada | On Site | Oct 28 |
-| **[Regeneron](http://www.regeneron.com)** | **[2027 Summer Intern Quality Assurance – Compliance & Quality Systems (IOPS)](https://jobright.ai/jobs/info/6ae21a1ade23f466ec8c2a15?utm_campaign=1055&utm_source=git)** | Rensselaer, Indiana, United States | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

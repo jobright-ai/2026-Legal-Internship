@@ -57,13 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[BioSpace](http://www.biospace.com/)** | **[2027 Summer Intern Quality Assurance  Compliance & Quality Systems (IOPS)](https://jobright.ai/jobs/info/6ae4333c77c09cb3bd4ab9f7?utm_campaign=1055&utm_source=git)** | Rensselaer, NY, United States | On Site | Oct 29 |
 | **[Parkland Corporation](https://www.parkland.ca/)** | **[Environmental Compliance Intern - January 2027 (12 or 16 Month Term)](https://jobright.ai/jobs/info/6ae4312f77c09cb3bd4ab951?utm_campaign=1055&utm_source=git)** | Burnaby, BC, Canada | On Site | Oct 29 |
 | **[New York Life](https://www.newyorklife.com/)** | **[New York Life Law Internship- Summer 2027 Job Details / New York Life Insurance Co](https://jobright.ai/jobs/info/6ae42078d45dc30fb7d2ee64?utm_campaign=1055&utm_source=git)** | White Plains, NY, United States | Hybrid | Oct 29 |
 | **[VoteRiders](https://www.voteriders.org/)** | **[VoteRiders Legal Intern](https://jobright.ai/jobs/info/6a99f318040e5c3d07599d66?utm_campaign=1055&utm_source=git)** | Continental United States, United States | Remote | Oct 29 |
 | **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, Risk, Claims Recovery - Summer 2027 (Chicago, Dallas, Grand Rapids)](https://jobright.ai/jobs/info/6ae3c2edfb2cd420ace53e07?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Oct 29 |
 | **[CVR Energy, Inc.](http://www.cvrenergy.com/index.html)** | **[Risk Management Intern](https://jobright.ai/jobs/info/6ae3d6a9d7424a2a828e34ee?utm_campaign=1055&utm_source=git)** | Sugar Land, TX, United States | On Site | Oct 29 |
-| **[Ensign-Bickford Aerospace & Defense Company (EBAD)](https://www.ebad.com/)** | **[Contracts Intern](https://jobright.ai/jobs/info/6ac8000044d6e65604a058c9?utm_campaign=1055&utm_source=git)** | Simsbury, CT, United States | On Site | Oct 29 |
+| **[Ensign-Bickford Aerospace & Defense Company (EBAD)](https://www.ebad.com/)** | **[Contracts Intern](https://jobright.ai/jobs/info/6ac7eb8f44d6e65604a05182?utm_campaign=1055&utm_source=git)** | Simsbury, CT, United States | On Site | Oct 29 |
 | **[AIG](https://www.aig.com)** | **[2027 Early Careers: Summer Intern, Claims – Juris Doctor – United States, Jersey City & New York City](https://jobright.ai/jobs/info/6a971544f5337b2cf731fe4c?utm_campaign=1055&utm_source=git)** | Jersey City, NJ, United States | On Site | Oct 29 |
 | **[Sompo](https://www.sompo-intl.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6ae39cf0c3139b475b5aeb62?utm_campaign=1055&utm_source=git)** | Purchase, NY, United States | On Site | Oct 29 |
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Legal Intern: Summer 2027](https://jobright.ai/jobs/info/6ae3b7a077c09cb3bd4a87ff?utm_campaign=1055&utm_source=git)** | Albany, NY, United States | Hybrid | Oct 29 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[New York Life](https://www.newyorklife.com/)** | **[2027 Compliance, Audit & Risk Management Summer Internship](https://jobright.ai/jobs/info/6ac6061b0e027c0f3b3b0edb?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Oct 28 |
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Summer 2027 Compliance Advisory Intern](https://jobright.ai/jobs/info/6ac539eb372c01f6cd738563?utm_campaign=1055&utm_source=git)** | Albuquerque, NM, United States | On Site | Oct 28 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[IP, Expert Testimony Internship - Summer 2027 (Ocean Tomo, a part of J.S. Held)](https://jobright.ai/jobs/info/6aa9c9d96d0edc2d91b0b889?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 28 |
+| **[Atradius Trade Credit Insurance, Inc.](https://atradius.us)** | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/6ae1ed796679108488c45b32?utm_campaign=1055&utm_source=git)** | Hunt Valley, MD, United States | Hybrid | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

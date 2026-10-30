@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[At Home Care Hospice](https://athomecareandhospice.com)** | **[Intern-Compliance](https://jobright.ai/jobs/info/6ae493fbfb2cd420ace57dd5?utm_campaign=1055&utm_source=git)** | Louisville, KY, United States | On Site | Oct 30 |
+| **[Harbor Group Management Company](http://harborgroupint.com)** | **[Summer 2027 Legal Intern-New York, NY](https://jobright.ai/jobs/info/6ae04542c5c64fa3d9cc2f31?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
+| ↳ | **[Summer 2027 Legal Intern-Norfolk, VA](https://jobright.ai/jobs/info/6ae045390a4cc7090f9867f5?utm_campaign=1055&utm_source=git)** | Norfolk, VA, United States | On Site | Oct 30 |
+| **[MEMX](http://www.memx.com/)** | **[Legal Intern, Summer 2027 (Hybrid, NYC)](https://jobright.ai/jobs/info/6ac7c77bfcdafb60c6a45aa9?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Oct 30 |
 | **[States United Democracy Center](https://statesuniteddemocracy.org/)** | **[Summer Legal Intern (2027)](https://jobright.ai/jobs/info/6ae398dcc3139b475b5ae95d?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 30 |
 | **[Legal Aid Ontario](https://www.legalaid.on.ca/)** | **[2027/28 Articling Student - Refugee & Immigration (Toronto)](https://jobright.ai/jobs/info/6ae45f86d45dc30fb7d2fa22?utm_campaign=1055&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 30 |
 | **[Parkland Corporation](https://www.parkland.ca/)** | **[Environmental Compliance Intern - January 2027 (12 or 16 Month Term)](https://jobright.ai/jobs/info/6ae4312f77c09cb3bd4ab951?utm_campaign=1055&utm_source=git)** | Burnaby, BC, Canada | On Site | Oct 29 |
@@ -99,7 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Sheetz](https://www.sheetz.com)** | **[Real Estate Legal Intern](https://jobright.ai/jobs/info/6ae35dfbd45dc30fb7d28d37?utm_campaign=1055&utm_source=git)** | Claysburg, PA, United States | On Site | Oct 29 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[CMC Regulatory Affairs Co-Op (Hybrid/On-onsite)](https://jobright.ai/jobs/info/6ac72408744463a18c931041?utm_campaign=1055&utm_source=git)** | Ridgefield, CT, United States | Hybrid | Oct 29 |
 | **[Greystone](https://www.greystone.com)** | **[Compliance Intern - Summer 2027](https://jobright.ai/jobs/info/6aa9618a6d0edc2d91b095fe?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Oct 29 |
-| **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69ba304056973837413faf8b?utm_campaign=1055&utm_source=git)** | Almo Corporation - Philadelphia, PA 19154 | On Site | Oct 29 |
+| **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a54de0031f2d15a8d813b4c?utm_campaign=1055&utm_source=git)** | Almo Corporation - Philadelphia, PA 19154 | On Site | Oct 29 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a5dfbbc67b2850e77deec80?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | On Site | Oct 29 |
 | **[Independence Blue Cross](https://www.ibx.com)** | **[Summer Intern: Regulatory Performance Management Analyst](https://jobright.ai/jobs/info/6ae2ac776679108488c4cfc5?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | On Site | Oct 29 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Intellectual Property, Advisory Internship - Summer 2027 (Ocean Tomo, a part of J.S. Held)](https://jobright.ai/jobs/info/6aa9ca56eff87f571fc9b958?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Contracts Administrator Intern](https://jobright.ai/jobs/info/6ae20eda1f9d9308370ada91?utm_campaign=1055&utm_source=git)** | Bridgeton, MO, United States | Hybrid | Oct 28 |
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2027 Legal Summer Internship Program](https://jobright.ai/jobs/info/6aa802d7a77a53f5a1576b0c?utm_campaign=1055&utm_source=git)** | Pontiac, MI, United States | On Site | Oct 28 |
 | **[Rural King](https://www.ruralking.com)** | **[Internship - Legal](https://jobright.ai/jobs/info/6ac51311064da25272e14987?utm_campaign=1055&utm_source=git)** | Mattoon, IL, United States | On Site | Oct 28 |
-| **[AmTrust Financial Services, Inc.](https://amtrustfinancial.com/)** | **[Legal Intern - Summer 2027](https://jobright.ai/jobs/info/6ae22065829a3bada1601554?utm_campaign=1055&utm_source=git)** | Cleveland, OH, United States | Hybrid | Oct 28 |
-| **[Old Mission](http://oldmissioncapital.com)** | **[Legal Intern - Summer 2027](https://jobright.ai/jobs/info/6adf49a09a8c91d5c358416c?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Oct 28 |
-| **[New York Life](https://www.newyorklife.com/)** | **[2027 Compliance, Audit & Risk Management Summer Internship](https://jobright.ai/jobs/info/6ac6061b0e027c0f3b3b0edb?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Oct 28 |
-| **[Baker Tilly](https://www.bakertilly.global/)** | **[Summer 2027 Compliance Advisory Intern](https://jobright.ai/jobs/info/6ac539eb372c01f6cd738563?utm_campaign=1055&utm_source=git)** | Albuquerque, NM, United States | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

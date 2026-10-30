@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, Risk, Claims Recovery - Summer 2027 (Chicago, Dallas, Grand Rapids)](https://jobright.ai/jobs/info/6ae3b4d2eab1f9673097685a?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Oct 29 |
-| **[State of Florida](http://www.myflorida.com)** | **[PUBLIC DEFENDER'S OFFICE, 20TH CIRCUIT- LEGAL INTERNSHIP - 21620016 Job Details / State of Florida](https://jobright.ai/jobs/info/6ae3b41e77c09cb3bd4a8591?utm_campaign=1055&utm_source=git)** | Fort Myers, FL, United States | On Site | Oct 29 |
+| **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Legal Intern: Summer 2027](https://jobright.ai/jobs/info/6ae3b7a077c09cb3bd4a87ff?utm_campaign=1055&utm_source=git)** | Albany, NY, United States | Hybrid | Oct 29 |
 | **[Optiver](http://www.optiver.com)** | **[Compliance Intern – Regulatory Advisory (2027 Start)](https://jobright.ai/jobs/info/6ae3b31efb2cd420ace53496?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Oct 29 |
+| **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, Risk, Claims Recovery - Summer 2027 (Chicago, Dallas, Grand Rapids)](https://jobright.ai/jobs/info/6ae3c2edfb2cd420ace53e07?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Oct 29 |
+| **[State of Florida](http://www.myflorida.com)** | **[PUBLIC DEFENDER'S OFFICE, 20TH CIRCUIT- LEGAL INTERNSHIP - 21620016 Job Details / State of Florida](https://jobright.ai/jobs/info/6ae3b41e77c09cb3bd4a8591?utm_campaign=1055&utm_source=git)** | Fort Myers, FL, United States | On Site | Oct 29 |
 | **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, Risk, Claims Recovery - Summer 2027 (Chicago, Dallas, Grand Rapids)](https://jobright.ai/jobs/info/6ae3b105d45dc30fb7d2bbce?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Oct 29 |
 | **[Seward Henderson PLLC](http://www.SewardHenderson.com)** | **[Summer Associate Law Clerk](https://jobright.ai/jobs/info/6ae3a9e3d7424a2a828e1cb7?utm_campaign=1055&utm_source=git)** | Royal Oak, MI, United States | On Site | Oct 29 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Surety/Bonding Intern](https://jobright.ai/jobs/info/6ad295395290d4375c453d35?utm_campaign=1055&utm_source=git)** | Woodcliff Lake, NJ, United States | On Site | Oct 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 + Spring 2027 Legal Intern, Employment Law Project](https://jobright.ai/jobs/info/6ae175ec829a3bada15fd6dc?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Oct 27 |
 | ↳ | **[Spring 2027 Legal Intern, LGBTQ Law Unit](https://jobright.ai/jobs/info/6ae175e71f9d9308370aa7c2?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Oct 27 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Leasing Tenant Representation Intern](https://jobright.ai/jobs/info/6ae15aeade23f466ec8be45f?utm_campaign=1055&utm_source=git)** | Ontario, California, United States | On Site | Oct 27 |
-| **[J.S. Held LLC](http://jsheld.com/)** | **[Intellectual Property, Advisory Internship - Summer 2027 (Ocean Tomo, a part of J.S. Held)](https://jobright.ai/jobs/info/6aa9c4d63387a3d9b67d6c70?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

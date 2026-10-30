@@ -57,19 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Migliaccio & Rathod LLP](https://classlawdc.com)** | **[Spring Legal Intern](https://jobright.ai/jobs/info/6ae4d841fb2cd420ace5a5e6?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 30 |
 | **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Law Reform Legal Intern – Spring 2027](https://jobright.ai/jobs/info/6abfbeb0064da25272e05a50?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | ↳ | **[Juvenile Rights Practice Legal Intern – Spring 2027](https://jobright.ai/jobs/info/6abfbeb2372c01f6cd7287d0?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | ↳ | **[Criminal Defense Practice Legal Intern – Spring 2027](https://jobright.ai/jobs/info/6abfbeb04ac55253f5d657c9?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | ↳ | **[Civil Practice Legal Intern – Spring 2027](https://jobright.ai/jobs/info/6abfbeb1d9621c5b28394371?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | **[Strada Education Foundation](https://www.strada.org)** | **[Strada Education Foundation Internship: Legal Intern](https://jobright.ai/jobs/info/6ae4b439fb2cd420ace58d60?utm_campaign=1055&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Oct 30 |
 | **[Travelers](https://www.travelers.com/)** | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4961677c09cb3bd4acfb3?utm_campaign=1055&utm_source=git)** | Hartford, CT, United States | Hybrid | Oct 30 |
-| ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4961cd45dc30fb7d306b7?utm_campaign=1055&utm_source=git)** | Irvine, CA, United States | Hybrid | Oct 30 |
-| ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4a0d077c09cb3bd4ad453?utm_campaign=1055&utm_source=git)** | St. Paul, MN, United States | Hybrid | Oct 30 |
-| ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4a0c6d45dc30fb7d30b6f?utm_campaign=1055&utm_source=git)** | Richardson, TX, United States | Hybrid | Oct 30 |
-| ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4a0d577c09cb3bd4ad45b?utm_campaign=1055&utm_source=git)** | Charlotte, NC, United States | Hybrid | Oct 30 |
 | ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4961bfb2cd420ace57ee0?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 30 |
+| ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4a0c6d45dc30fb7d30b6f?utm_campaign=1055&utm_source=git)** | Richardson, TX, United States | Hybrid | Oct 30 |
+| ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4961cd45dc30fb7d306b7?utm_campaign=1055&utm_source=git)** | Irvine, CA, United States | Hybrid | Oct 30 |
+| ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4a0d577c09cb3bd4ad45b?utm_campaign=1055&utm_source=git)** | Charlotte, NC, United States | Hybrid | Oct 30 |
+| ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4a0d077c09cb3bd4ad453?utm_campaign=1055&utm_source=git)** | St. Paul, MN, United States | Hybrid | Oct 30 |
+| **[At Home Care Hospice](https://athomecareandhospice.com)** | **[Intern-Compliance](https://jobright.ai/jobs/info/6ae493fbfb2cd420ace57dd5?utm_campaign=1055&utm_source=git)** | Louisville, KY, United States | On Site | Oct 30 |
 | **[TikTok](https://www.tiktok.com)** | **[NA Regional & Product Policy Project" - Project Intern (Global Monetization Product and Technology) - 2027 Start](https://jobright.ai/jobs/info/6ae4c6adfb2cd420ace5985f?utm_campaign=1055&utm_source=git)** | Austin, TX, United States | On Site | Oct 30 |
 | **[Builders](https://www.bldrs.com/)** | **[Legal Services Intern](https://jobright.ai/jobs/info/6ae4ccffc3139b475b5b5f68?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 30 |
+| **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[International Trade Compliance Intern (Summer 2027)](https://jobright.ai/jobs/info/6ae4c8a9c3139b475b5b5bdd?utm_campaign=1055&utm_source=git)** | Lone Tree, CO, United States | On Site | Oct 30 |
 | **[Richmond National](https://richmondnational.com)** | **[Legal Intern (Summer 2027)](https://jobright.ai/jobs/info/6abfc2d7372c01f6cd7288ef?utm_campaign=1055&utm_source=git)** | Glen Allen, VA, United States | On Site | Oct 30 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Internship/Law Clerk/Post-Bar Fellow (Fall '27)](https://jobright.ai/jobs/info/6ae4cbbad45dc30fb7d323ca?utm_campaign=1055&utm_source=git)** | Los Angeles, California, United States | On Site | Oct 30 |
 | ↳ | **[Internship/Law Clerk/Post-Bar Fellow (Summer '27)](https://jobright.ai/jobs/info/6ae4cbc677c09cb3bd4aece1?utm_campaign=1055&utm_source=git)** | Los Angeles, California, United States | On Site | Oct 30 |
@@ -79,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Intern II (Risk Control)](https://jobright.ai/jobs/info/6ac87992af788e6ad3b5797b?utm_campaign=1055&utm_source=git)** | Erie, PA, United States | On Site | Oct 30 |
 | **[Sussman Law Firm, PLLC](https://www.sussmanlawfirmpllc.com/)** | **[Family Law Intern](https://jobright.ai/jobs/info/6ae4a0d2d45dc30fb7d30b79?utm_campaign=1055&utm_source=git)** | Charlotte, NC, United States | On Site | Oct 30 |
 | **[BrightSpring Health Services](https://www.brightspringhealth.com/)** | **[Intern-Compliance](https://jobright.ai/jobs/info/6ae4951b77c09cb3bd4acf37?utm_campaign=1055&utm_source=git)** | Louisville, KY, United States | On Site | Oct 30 |
-| **[At Home Care Hospice](https://athomecareandhospice.com)** | **[Intern-Compliance](https://jobright.ai/jobs/info/6ae493fbfb2cd420ace57dd5?utm_campaign=1055&utm_source=git)** | Louisville, KY, United States | On Site | Oct 30 |
 | **[Harbor Group Management Company](http://harborgroupint.com)** | **[Summer 2027 Legal Intern-New York, NY](https://jobright.ai/jobs/info/6ae04542c5c64fa3d9cc2f31?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | ↳ | **[Summer 2027 Legal Intern-Norfolk, VA](https://jobright.ai/jobs/info/6ae045390a4cc7090f9867f5?utm_campaign=1055&utm_source=git)** | Norfolk, VA, United States | On Site | Oct 30 |
 | **[MEMX](http://www.memx.com/)** | **[Legal Intern, Summer 2027 (Hybrid, NYC)](https://jobright.ai/jobs/info/6ac7c77bfcdafb60c6a45aa9?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Oct 30 |
@@ -90,9 +92,8 @@ For a complete list, click the following sortable link below:
 | **[VoteRiders](https://www.voteriders.org/)** | **[VoteRiders Legal Intern](https://jobright.ai/jobs/info/6a99f318040e5c3d07599d66?utm_campaign=1055&utm_source=git)** | Continental United States, United States | Remote | Oct 29 |
 | **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, Risk, Claims Recovery - Summer 2027 (Chicago, Dallas, Grand Rapids)](https://jobright.ai/jobs/info/6ae3c2edfb2cd420ace53e07?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Oct 29 |
 | **[The Standard](https://www.standard.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6ae46d7deab1f9673097a63e?utm_campaign=1055&utm_source=git)** | Continental United States, United States | Remote | Oct 29 |
-| **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[International Trade Compliance Intern (Summer 2027)](https://jobright.ai/jobs/info/6ae4c8a9c3139b475b5b5bdd?utm_campaign=1055&utm_source=git)** | Lone Tree, CO, United States | On Site | Oct 29 |
 | **[CVR Energy, Inc.](http://www.cvrenergy.com/index.html)** | **[Risk Management Intern](https://jobright.ai/jobs/info/6ae3d6a9d7424a2a828e34ee?utm_campaign=1055&utm_source=git)** | Sugar Land, TX, United States | On Site | Oct 29 |
-| **[Ensign-Bickford Aerospace & Defense Company (EBAD)](https://www.ebad.com/)** | **[Contracts Intern](https://jobright.ai/jobs/info/6ac7eb8f44d6e65604a05182?utm_campaign=1055&utm_source=git)** | Simsbury, CT, United States | On Site | Oct 29 |
+| **[Ensign-Bickford Aerospace & Defense Company (EBAD)](https://www.ebad.com/)** | **[Contracts Intern](https://jobright.ai/jobs/info/6ac8000044d6e65604a058c9?utm_campaign=1055&utm_source=git)** | Simsbury, CT, United States | On Site | Oct 29 |
 | **[AIG](https://www.aig.com)** | **[2027 Early Careers: Summer Intern, Claims – Juris Doctor – United States, Jersey City & New York City](https://jobright.ai/jobs/info/6a971544f5337b2cf731fe4c?utm_campaign=1055&utm_source=git)** | Jersey City, NJ, United States | On Site | Oct 29 |
 | **[Sompo](https://www.sompo-intl.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6ae39cf0c3139b475b5aeb62?utm_campaign=1055&utm_source=git)** | Purchase, NY, United States | On Site | Oct 29 |
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Legal Intern: Summer 2027](https://jobright.ai/jobs/info/6ae3b7a077c09cb3bd4a87ff?utm_campaign=1055&utm_source=git)** | Albany, NY, United States | Hybrid | Oct 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ACLU](https://www.aclu.org/)** | **[Spring 2027 Legal Intern, Affiliate Support and Nationwide Initiatives](https://jobright.ai/jobs/info/6ae24ce8829a3bada16035f5?utm_campaign=1055&utm_source=git)** | San Juan, PR, United States | Hybrid | Oct 28 |
 | **[UPL](http://www.upl-ltd.com/)** | **[Regulatory Intern](https://jobright.ai/jobs/info/6ac59bc1064da25272e17aa7?utm_campaign=1055&utm_source=git)** | RTP, NC, United States | On Site | Oct 28 |
 | ↳ | **[Regulatory Intern Job Details / upllimited](https://jobright.ai/jobs/info/6ad140b4a4f99fef819431a5?utm_campaign=1055&utm_source=git)** | RTP, NC, United States | On Site | Oct 28 |
-| **[Sony Electronics](http://www.sony.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6ac55d2b4ac55253f5d76452?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

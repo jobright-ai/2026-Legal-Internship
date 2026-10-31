@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2027 Liberty and National Security Legal Internship - NYC and DC](https://jobright.ai/jobs/info/6ac08536d9621c5b28397ea8?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
-| ↳ | **[Summer 2027 Democracy Legal Internship - NYC and DC](https://jobright.ai/jobs/info/6ac085244ac55253f5d692d6?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
+| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2027 Democracy Legal Internship - NYC and DC](https://jobright.ai/jobs/info/6ac085244ac55253f5d692d6?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
+| ↳ | **[Summer 2027 Liberty and National Security Legal Internship - NYC and DC](https://jobright.ai/jobs/info/6ac08536d9621c5b28397ea8?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | ↳ | **[Spring 2027 Democracy Legal Internship](https://jobright.ai/jobs/info/6ac08518372c01f6cd72c341?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | ↳ | **[Summer 2027 Justice Legal Internship](https://jobright.ai/jobs/info/6ac0851e4ac55253f5d692d3?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | ↳ | **[Spring 2027 Liberty and National Security Legal Internship](https://jobright.ai/jobs/info/6ac08518064da25272e0958f?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
@@ -81,14 +81,14 @@ For a complete list, click the following sortable link below:
 | **[New York Civil Liberties Union](http://www.nyclu.org/)** | **[Summer 2027 Education Policy Center Law Student Internship](https://jobright.ai/jobs/info/6ae4bbc7c3139b475b5b5426?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Oct 30 |
 | **[Globe Life](https://www.globelifeinsurance.com)** | **[Regulatory Compliance Intern - 2027 Summer Internship](https://jobright.ai/jobs/info/6ae4f1c6fb2cd420ace5b664?utm_campaign=1055&utm_source=git)** | McKinney, TX, United States | On Site | Oct 30 |
 | **[Migliaccio & Rathod LLP](https://classlawdc.com)** | **[Spring Legal Intern](https://jobright.ai/jobs/info/6ae4d841fb2cd420ace5a5e6?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 30 |
-| **[Travelers](https://www.travelers.com/)** | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4961bfb2cd420ace57ee0?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 30 |
-| ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4a0d077c09cb3bd4ad453?utm_campaign=1055&utm_source=git)** | St. Paul, MN, United States | Hybrid | Oct 30 |
-| ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4a0d577c09cb3bd4ad45b?utm_campaign=1055&utm_source=git)** | Charlotte, NC, United States | Hybrid | Oct 30 |
-| ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4a0c6d45dc30fb7d30b6f?utm_campaign=1055&utm_source=git)** | Richardson, TX, United States | Hybrid | Oct 30 |
+| **[Travelers](https://www.travelers.com/)** | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4a0d577c09cb3bd4ad45b?utm_campaign=1055&utm_source=git)** | Charlotte, NC, United States | Hybrid | Oct 30 |
 | ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4961cd45dc30fb7d306b7?utm_campaign=1055&utm_source=git)** | Irvine, CA, United States | Hybrid | Oct 30 |
 | ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4961677c09cb3bd4acfb3?utm_campaign=1055&utm_source=git)** | Hartford, CT, United States | Hybrid | Oct 30 |
-| **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Law Reform Legal Intern – Spring 2027](https://jobright.ai/jobs/info/6abfbeb0064da25272e05a50?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
-| ↳ | **[Juvenile Rights Practice Legal Intern – Spring 2027](https://jobright.ai/jobs/info/6abfbeb2372c01f6cd7287d0?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
+| ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4961bfb2cd420ace57ee0?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 30 |
+| ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4a0d077c09cb3bd4ad453?utm_campaign=1055&utm_source=git)** | St. Paul, MN, United States | Hybrid | Oct 30 |
+| ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4a0c6d45dc30fb7d30b6f?utm_campaign=1055&utm_source=git)** | Richardson, TX, United States | Hybrid | Oct 30 |
+| **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Juvenile Rights Practice Legal Intern – Spring 2027](https://jobright.ai/jobs/info/6abfbeb2372c01f6cd7287d0?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
+| ↳ | **[Law Reform Legal Intern – Spring 2027](https://jobright.ai/jobs/info/6abfbeb0064da25272e05a50?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | ↳ | **[Criminal Defense Practice Legal Intern – Spring 2027](https://jobright.ai/jobs/info/6abfbeb04ac55253f5d657c9?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | ↳ | **[Civil Practice Legal Intern – Spring 2027](https://jobright.ai/jobs/info/6abfbeb1d9621c5b28394371?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | **[Strada Education Foundation](https://www.strada.org)** | **[Strada Education Foundation Internship: Legal Intern](https://jobright.ai/jobs/info/6ae4b439fb2cd420ace58d60?utm_campaign=1055&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Oct 30 |
@@ -117,7 +117,7 @@ For a complete list, click the following sortable link below:
 | **[Protiviti](http://www.protiviti.com)** | **[New York City Legal, Risk and Compliance Intern - 2027](https://jobright.ai/jobs/info/6ae4e726fb2cd420ace5b023?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Oct 29 |
 | **[CBRE](https://www.cbre.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6ae53488c3139b475b5b98b3?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Oct 29 |
 | **[CVR Energy, Inc.](http://www.cvrenergy.com/index.html)** | **[Risk Management Intern](https://jobright.ai/jobs/info/6ae3d6a9d7424a2a828e34ee?utm_campaign=1055&utm_source=git)** | Sugar Land, TX, United States | On Site | Oct 29 |
-| **[Ensign-Bickford Aerospace & Defense Company (EBAD)](https://www.ebad.com/)** | **[Contracts Intern](https://jobright.ai/jobs/info/6ac8000044d6e65604a058c9?utm_campaign=1055&utm_source=git)** | Simsbury, CT, United States | On Site | Oct 29 |
+| **[Ensign-Bickford Aerospace & Defense Company (EBAD)](https://www.ebad.com/)** | **[Contracts Intern](https://jobright.ai/jobs/info/6ac7eb8f44d6e65604a05182?utm_campaign=1055&utm_source=git)** | Simsbury, CT, United States | On Site | Oct 29 |
 | **[Sompo](https://www.sompo-intl.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6ae39cf0c3139b475b5aeb62?utm_campaign=1055&utm_source=git)** | Purchase, NY, United States | On Site | Oct 29 |
 | **[Optiver](http://www.optiver.com)** | **[Compliance Intern – Regulatory Advisory (2027 Start)](https://jobright.ai/jobs/info/6ae3b31efb2cd420ace53496?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Oct 29 |
 | **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, Risk, Claims Recovery - Summer 2027 (Chicago, Dallas, Grand Rapids)](https://jobright.ai/jobs/info/6ae3b4d2eab1f9673097685a?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Oct 29 |

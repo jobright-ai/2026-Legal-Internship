@@ -58,6 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Amazon](https://amazon.com)** | **[Risk Specialist Intern – Summer 2027](https://jobright.ai/jobs/info/6ac9665ffe8f33a85d503bc4?utm_campaign=1055&utm_source=git)** | Seattle, WA, United States | On Site | Oct 31 |
+| **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Governance, Risk & Compliance (GRC) Intern](https://jobright.ai/jobs/info/6ae6205efb2cd420ace600ac?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 31 |
+| **[Safran Defense & Space, Inc.](https://www.safran-dsi.com/)** | **[Contract Administration Internship Job Details / Safran DSI](https://jobright.ai/jobs/info/6ac60de44ac55253f5d78b30?utm_campaign=1055&utm_source=git)** | Bedford, NH, United States | On Site | Oct 31 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Legal Intern / Summer 2027 Job Details / Tractor Supply Company](https://jobright.ai/jobs/info/6abd41fa0e027c0f3b394767?utm_campaign=1055&utm_source=git)** | Brentwood, TN, United States | Hybrid | Oct 31 |
 | **[Trideum Corporation](http://trideum.com)** | **[DoW Skillbridge Internship - Contract Administrator](https://jobright.ai/jobs/info/6aac07e32e757fcb5c8b34ce?utm_campaign=1055&utm_source=git)** | Huntsville, AL, United States | Hybrid | Oct 31 |
 | **[Starr](https://starrcompanies.com/)** | **[2027 Starr Summer Intern -  Legal](https://jobright.ai/jobs/info/6ac90ece6355f8776ff1730a?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Oct 31 |
@@ -90,12 +92,12 @@ For a complete list, click the following sortable link below:
 | **[New York Civil Liberties Union](http://www.nyclu.org/)** | **[Summer 2027 Education Policy Center Law Student Internship](https://jobright.ai/jobs/info/6ae4bbc7c3139b475b5b5426?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Oct 30 |
 | **[Globe Life](https://www.globelifeinsurance.com)** | **[Regulatory Compliance Intern - 2027 Summer Internship](https://jobright.ai/jobs/info/6ae4f1c6fb2cd420ace5b664?utm_campaign=1055&utm_source=git)** | McKinney, TX, United States | On Site | Oct 30 |
 | **[Migliaccio & Rathod LLP](https://classlawdc.com)** | **[Spring Legal Intern](https://jobright.ai/jobs/info/6ae4d841fb2cd420ace5a5e6?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 30 |
-| **[Travelers](https://www.travelers.com/)** | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4a0c6d45dc30fb7d30b6f?utm_campaign=1055&utm_source=git)** | Richardson, TX, United States | Hybrid | Oct 30 |
-| ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4961cd45dc30fb7d306b7?utm_campaign=1055&utm_source=git)** | Irvine, CA, United States | Hybrid | Oct 30 |
-| ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4961677c09cb3bd4acfb3?utm_campaign=1055&utm_source=git)** | Hartford, CT, United States | Hybrid | Oct 30 |
+| **[Travelers](https://www.travelers.com/)** | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4a0d577c09cb3bd4ad45b?utm_campaign=1055&utm_source=git)** | Charlotte, NC, United States | Hybrid | Oct 30 |
+| ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4a0c6d45dc30fb7d30b6f?utm_campaign=1055&utm_source=git)** | Richardson, TX, United States | Hybrid | Oct 30 |
 | ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4a0d077c09cb3bd4ad453?utm_campaign=1055&utm_source=git)** | St. Paul, MN, United States | Hybrid | Oct 30 |
+| ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4961677c09cb3bd4acfb3?utm_campaign=1055&utm_source=git)** | Hartford, CT, United States | Hybrid | Oct 30 |
 | ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4961bfb2cd420ace57ee0?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 30 |
-| ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4a0d577c09cb3bd4ad45b?utm_campaign=1055&utm_source=git)** | Charlotte, NC, United States | Hybrid | Oct 30 |
+| ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4961cd45dc30fb7d306b7?utm_campaign=1055&utm_source=git)** | Irvine, CA, United States | Hybrid | Oct 30 |
 | **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Law Reform Legal Intern – Spring 2027](https://jobright.ai/jobs/info/6abfbeb0064da25272e05a50?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | ↳ | **[Juvenile Rights Practice Legal Intern – Spring 2027](https://jobright.ai/jobs/info/6abfbeb2372c01f6cd7287d0?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | ↳ | **[Criminal Defense Practice Legal Intern – Spring 2027](https://jobright.ai/jobs/info/6abfbeb04ac55253f5d657c9?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Denver Water](https://www.denverwater.org/)** | **[Law Clerk - Unpaid Intern Summer 2027](https://jobright.ai/jobs/info/6ad67b2d67bec1d0d9c6f533?utm_campaign=1055&utm_source=git)** | Denver, CO, United States | Hybrid | Oct 29 |
 | **[Innocence Project](http://www.innocenceproject.org)** | **[2027 Post Conviction Litigation Summer Law Student Intern](https://jobright.ai/jobs/info/6ae36054eab1f96730973789?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Oct 29 |
 | **[Sheetz](https://www.sheetz.com)** | **[Real Estate Legal Intern](https://jobright.ai/jobs/info/6ae35dfbd45dc30fb7d28d37?utm_campaign=1055&utm_source=git)** | Claysburg, PA, United States | On Site | Oct 29 |
-| **[1st Source Bank](https://www.1stsource.com/)** | **[Intern, Commercial Insurance, Mishawaka, IN (Summer 2027)](https://jobright.ai/jobs/info/6ae49e63d45dc30fb7d309de?utm_campaign=1055&utm_source=git)** | Mishawaka, IN, United States | On Site | Oct 29 |
-| **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a5dfbbc67b2850e77deec80?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

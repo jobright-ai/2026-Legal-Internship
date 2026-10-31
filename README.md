@@ -74,10 +74,10 @@ For a complete list, click the following sortable link below:
 | **[New York Civil Liberties Union](http://www.nyclu.org/)** | **[Summer 2027 Education Policy Center Law Student Internship](https://jobright.ai/jobs/info/6ae4bbc7c3139b475b5b5426?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Oct 30 |
 | **[Globe Life](https://www.globelifeinsurance.com)** | **[Regulatory Compliance Intern - 2027 Summer Internship](https://jobright.ai/jobs/info/6ae4f1c6fb2cd420ace5b664?utm_campaign=1055&utm_source=git)** | McKinney, TX, United States | On Site | Oct 30 |
 | **[Migliaccio & Rathod LLP](https://classlawdc.com)** | **[Spring Legal Intern](https://jobright.ai/jobs/info/6ae4d841fb2cd420ace5a5e6?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 30 |
-| **[Travelers](https://www.travelers.com/)** | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4a0c6d45dc30fb7d30b6f?utm_campaign=1055&utm_source=git)** | Richardson, TX, United States | Hybrid | Oct 30 |
+| **[Travelers](https://www.travelers.com/)** | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4961bfb2cd420ace57ee0?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 30 |
 | ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4a0d077c09cb3bd4ad453?utm_campaign=1055&utm_source=git)** | St. Paul, MN, United States | Hybrid | Oct 30 |
 | ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4a0d577c09cb3bd4ad45b?utm_campaign=1055&utm_source=git)** | Charlotte, NC, United States | Hybrid | Oct 30 |
-| ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4961bfb2cd420ace57ee0?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 30 |
+| ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4a0c6d45dc30fb7d30b6f?utm_campaign=1055&utm_source=git)** | Richardson, TX, United States | Hybrid | Oct 30 |
 | ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4961677c09cb3bd4acfb3?utm_campaign=1055&utm_source=git)** | Hartford, CT, United States | Hybrid | Oct 30 |
 | ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6ae4961cd45dc30fb7d306b7?utm_campaign=1055&utm_source=git)** | Irvine, CA, United States | Hybrid | Oct 30 |
 | **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Juvenile Rights Practice Legal Intern – Spring 2027](https://jobright.ai/jobs/info/6abfbeb2372c01f6cd7287d0?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |

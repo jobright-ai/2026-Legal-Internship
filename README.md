@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AARP](http://www.aarp.org)** | **[Legal Counsel for the Elderly Intern (Spring 2027)](https://jobright.ai/jobs/info/6ace524e4391691a335abdfb?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 03 |
+| **[KPMG US](https://advisory.kpmg.us/)** | **[Tax Intern, KPMG Law - JD/LLM / Tempe Summer 2027](https://jobright.ai/jobs/info/6ae9f3fc73d24ab055c599f8?utm_campaign=1055&utm_source=git)** | Tempe, AZ, United States | On Site | Nov 03 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[Legal Intern (Summer 2027)](https://jobright.ai/jobs/info/6ae01634c5c64fa3d9cc1fa5?utm_campaign=1055&utm_source=git)** | Dublin, OH, United States | On Site | Nov 03 |
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Tax Intern, KPMG Law - JD/LLM / Tempe Summer 2027](https://jobright.ai/jobs/info/6aea08194f991d64376c96c4?utm_campaign=1055&utm_source=git)** | Tempe, AZ, United States | On Site | Nov 03 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Strategic Sourcing Contracting Operations Intern](https://jobright.ai/jobs/info/6acd5511d113c967e3c7d5cb?utm_campaign=1055&utm_source=git)** | Saint Louis, MO, United States | Remote | Nov 03 |
 | ↳ | **[Contract Design Intern](https://jobright.ai/jobs/info/6acd5519a56e5406e57c0daf?utm_campaign=1055&utm_source=git)** | Saint Louis, MO, United States | Remote | Nov 03 |
-| ↳ | **[Contract Design Intern](https://jobright.ai/jobs/info/6acce716a56e5406e57be968?utm_campaign=1055&utm_source=git)** | St. Louis, MO, United States | Remote | Nov 03 |
+| ↳ | **[Contract Design Intern](https://jobright.ai/jobs/info/6acce712d113c967e3c7b1a9?utm_campaign=1055&utm_source=git)** | St. Louis, MO, United States | Remote | Nov 03 |
 | ↳ | **[Contract Design Intern](https://jobright.ai/jobs/info/6acd552a3c831dc4086c1c63?utm_campaign=1055&utm_source=git)** | Saint Louis, MO, United States | Remote | Nov 03 |
 | ↳ | **[Contract Design Intern](https://jobright.ai/jobs/info/6acd5502e7a1d933321113bc?utm_campaign=1055&utm_source=git)** | Saint Louis, MO, United States | Remote | Nov 03 |
 | **[Merchants Bonding Company](http://merchantsbonding.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6aa0747d500b01124c7792aa?utm_campaign=1055&utm_source=git)** | West Des Moines, IA, United States | On Site | Nov 03 |
@@ -85,8 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Quartz Health Solutions](https://quartzbenefits.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/6ab1add3d2a93d5a97ebc436?utm_campaign=1055&utm_source=git)** | Madison, WI, United States | On Site | Nov 02 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Economic Damages & Valuation Internship - Summer 2027](https://jobright.ai/jobs/info/6ac40ef4d9621c5b2839f714?utm_campaign=1055&utm_source=git)** | Birmingham, AL, United States | Hybrid | Nov 02 |
 | **[Hyperliquid Policy Center](https://hyperliquidpolicy.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/6ae932c8fb2cd420ace6cdef?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | On Site | Nov 02 |
-| **[Dean Street Law](https://deanstreetlaw.com)** | **[Corporate Law Intern](https://jobright.ai/jobs/info/6ae92f9e03f4a1104b25a5bf?utm_campaign=1055&utm_source=git)** | West Chester, PA, United States | Remote | Nov 02 |
-| **[Spirit of America](https://spiritofamerica.org)** | **[Spring Intern- Legal and Compliance](https://jobright.ai/jobs/info/6ae9626c32411b3e5a2e06f7?utm_campaign=1055&utm_source=git)** | Arlington, VA, United States | On Site | Nov 02 |
+| **[Spirit of America](https://spiritofamerica.org)** | **[Spring Intern- Legal and Compliance](https://jobright.ai/jobs/info/6ae949b273d24ab055c5690e?utm_campaign=1055&utm_source=git)** | Arlington, VA, United States | On Site | Nov 02 |
 | **[Law Offices of Sabrina Li, P.C.](https://www.sabrinali.law)** | **[Legal Intern](https://jobright.ai/jobs/info/6ae925fba2a252e21942d264?utm_campaign=1055&utm_source=git)** | Dallas, TX, United States | On Site | Nov 02 |
 | **[Barton Malow](http://www.bartonmalow.com)** | **[Intern](https://jobright.ai/jobs/info/6ae8f88603f4a1104b258733?utm_campaign=1055&utm_source=git)** | Southfield, MI, United States | On Site | Nov 02 |
 | **[Sheppard](https://www.sheppard.com)** | **[Spring 2027 Entertainment, Technology & Advertising Practice Group Internship](https://jobright.ai/jobs/info/6ae9251903f4a1104b25a0b9?utm_campaign=1055&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 02 |
@@ -153,7 +154,6 @@ For a complete list, click the following sortable link below:
 | **[Duchesne County](https://www.duchesne.utah.gov/)** | **[Legal Office Intern](https://jobright.ai/jobs/info/6ae90e7e061d6d7ff3d800b1?utm_campaign=1055&utm_source=git)** | Duchesne, UT, United States | On Site | Nov 01 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[2027 SOX Compliance Intern](https://jobright.ai/jobs/info/6ae8d930061d6d7ff3d7dbbc?utm_campaign=1055&utm_source=git)** | Lone Tree, CO, United States | On Site | Nov 01 |
 | **[MacArthur Justice Center (MJC)](https://www.macarthurjustice.org)** | **[Law Clerk Intern - Summer 2027](https://jobright.ai/jobs/info/6ad91545950ef68d5184dd4a?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 01 |
-| **[KPMG US](https://advisory.kpmg.us/)** | **[Tax Intern, KPMG Law - JD/LLM / Tempe Summer 2027](https://jobright.ai/jobs/info/6ae9f3fc73d24ab055c599f8?utm_campaign=1055&utm_source=git)** | Tempe, AZ, United States | On Site | Nov 01 |
 | **[Colorado Judicial Branch](https://www.coloradojudicial.gov)** | **[Deputy Probation Officer/Intern Volunteer](https://jobright.ai/jobs/info/6a2054c1902d19201c7b1851?utm_campaign=1055&utm_source=git)** | Pueblo, CO, United States | On Site | Nov 01 |
 | **[Encompass Health](http://www.encompasshealth.com/)** | **[Compliance Student Intern -Summer 2027](https://jobright.ai/jobs/info/6aad5ac70ebc8fb2313e8f02?utm_campaign=1055&utm_source=git)** | Birmingham, AL, United States | On Site | Nov 01 |
 | **[Lockton](https://global.lockton.com)** | **[Summer Associate 2027 Risk Solutions - Alabama, Atlanta, Charlotte, Florida](https://jobright.ai/jobs/info/6a74b3ab972ac843c69969f9?utm_campaign=1055&utm_source=git)** | Alabama, United States | On Site | Nov 01 |

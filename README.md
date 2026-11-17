@@ -57,10 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sazerac Company](https://www.sazerac.com)** | **[Intern - Risk Management](https://jobright.ai/jobs/info/6ae01c209e3e874dbfbb2ac7?utm_campaign=1055&utm_source=git)** | Louisville, KY, United States | On Site | Nov 17 |
+| **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Juvenile Rights Practice Legal Intern 2L - Summer 2027](https://jobright.ai/jobs/info/6a9afd0290a313642c65805f?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Nov 17 |
+| ↳ | **[Law Reform Legal Intern – Spring 2027](https://jobright.ai/jobs/info/6abfbeb0064da25272e05a50?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Nov 17 |
+| ↳ | **[Civil Practice Legal Intern, 2L – Summer 2027](https://jobright.ai/jobs/info/6a9afd24d5ff1f3f1c39d11d?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Nov 17 |
+| ↳ | **[Criminal Defense Practice Legal Intern, 2L – Summer 2027](https://jobright.ai/jobs/info/6abff899372c01f6cd729d4c?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Nov 17 |
+| ↳ | **[Civil Practice Legal Intern – Spring 2027](https://jobright.ai/jobs/info/6abfbeb1d9621c5b28394371?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Nov 17 |
+| ↳ | **[Juvenile Rights Practice Legal Intern – Spring 2027](https://jobright.ai/jobs/info/6abfbeb2372c01f6cd7287d0?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Nov 17 |
+| ↳ | **[Law Reform Legal Intern, 2L- Summer 2027](https://jobright.ai/jobs/info/6a9afd12d5ff1f3f1c39d103?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Nov 17 |
 | **[Jabil](https://www.jabil.com)** | **[Legal Operations Summer Intern](https://jobright.ai/jobs/info/6af4cd3dcd7be4db20d88869?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL, United States | On Site | Nov 17 |
 | **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6adfb3d99e3e874dbfbaf40f?utm_campaign=1055&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Nov 17 |
 | **[Lowe's Companies, Inc.](https://www.lowes.com)** | **[Legal Intern – First-Year Law Student (Graduate-Level) - Summer 2027](https://jobright.ai/jobs/info/6adfa96f5dc7953215a41819?utm_campaign=1055&utm_source=git)** | Mooresville, NC, United States | On Site | Nov 17 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern - Risk Management](https://jobright.ai/jobs/info/6adfb360c5c64fa3d9cbe90a?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN, United States | Hybrid | Nov 17 |
+| **[FlightSafety International](https://www.flightsafety.com/)** | **[Trade Compliance Internship - Summer 2027](https://jobright.ai/jobs/info/6afc4cb6755d7cdf657ff891?utm_campaign=1055&utm_source=git)** | Columbus, OH, United States | On Site | Nov 17 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - NA Campaign Advisory & Execution](https://jobright.ai/jobs/info/6afbe90f1c71d952627efed6?utm_campaign=1055&utm_source=git)** | Alpharetta, GA, United States | Hybrid | Nov 16 |
 | **[Chesapeake Utilities Corporation](http://chpk.com)** | **[Enterprise Compliance & Ethics Summer Intern](https://jobright.ai/jobs/info/6afb7960be8589f0b74be3ff?utm_campaign=1055&utm_source=git)** | Delaware, United States | Hybrid | Nov 16 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2027 Summer Internship Program - Legal Intern](https://jobright.ai/jobs/info/6af375aa10c7aed77861aa1a?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 16 |
@@ -74,18 +83,18 @@ For a complete list, click the following sortable link below:
 | **[IDEXX](http://www.idexx.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6afb8c76c2bd7db01b882cda?utm_campaign=1055&utm_source=git)** | Westbrook, ME, United States | Hybrid | Nov 16 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6afb842fc96cba79575bf9e1?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI, United States | On Site | Nov 16 |
 | **[AARP](http://www.aarp.org)** | **[Foundation Litigation Intern (Summer 2027)](https://jobright.ai/jobs/info/6a6ba42532f9300c3a3e00fb?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 16 |
-| **[Travelers](https://www.travelers.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6afb36de7d1820d918c27b02?utm_campaign=1055&utm_source=git)** | Troy, MI, United States | Hybrid | Nov 16 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6af1e2851116f6f0a076330e?utm_campaign=1055&utm_source=git)** | Hartford, CT, United States | Hybrid | Nov 16 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6ac40b5e0e027c0f3b3a8e73?utm_campaign=1055&utm_source=git)** | Diamond Bar, CA, United States | Hybrid | Nov 16 |
+| **[Travelers](https://www.travelers.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6af1e2851116f6f0a076330e?utm_campaign=1055&utm_source=git)** | Hartford, CT, United States | Hybrid | Nov 16 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6ac40b5e372c01f6cd7339b6?utm_campaign=1055&utm_source=git)** | St. Louis, Missouri, United States | Hybrid | Nov 16 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6ac40b5dd9621c5b2839f49c?utm_campaign=1055&utm_source=git)** | Glendale, California, United States | Hybrid | Nov 16 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6ac40b5e4ac55253f5d708a3?utm_campaign=1055&utm_source=git)** | Rancho Cordova, CA, United States | Hybrid | Nov 16 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6ac40b5d8ff3fb9b3bc83b0f?utm_campaign=1055&utm_source=git)** | Hartford, CT, United States | Hybrid | Nov 16 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6ac40b7ad9621c5b2839f4af?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA, United States | Hybrid | Nov 16 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6ac40b73d9621c5b2839f4a8?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 16 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6adf724c9a8c91d5c35855ec?utm_campaign=1055&utm_source=git)** | Chantilly, VA, United States | Hybrid | Nov 16 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6ac40b5dd9621c5b2839f49c?utm_campaign=1055&utm_source=git)** | Glendale, California, United States | Hybrid | Nov 16 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6ac40b7ad9621c5b2839f4af?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA, United States | Hybrid | Nov 16 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6adf7247c5c64fa3d9cbba17?utm_campaign=1055&utm_source=git)** | Orange, CA, United States | Hybrid | Nov 16 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6ac40b5e372c01f6cd7339b6?utm_campaign=1055&utm_source=git)** | St. Louis, Missouri, United States | Hybrid | Nov 16 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6ac40b5e0e027c0f3b3a8e73?utm_campaign=1055&utm_source=git)** | Diamond Bar, CA, United States | Hybrid | Nov 16 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6ae9f603a5966d341d02ba62?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA, United States | Hybrid | Nov 16 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6ac40b5e4ac55253f5d708a3?utm_campaign=1055&utm_source=git)** | Rancho Cordova, CA, United States | Hybrid | Nov 16 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6afb36de7d1820d918c27b02?utm_campaign=1055&utm_source=git)** | Troy, MI, United States | Hybrid | Nov 16 |
 | **[DOXA](https://doxa.com)** | **[Legal Intern (Rising 2L) - Summer 2027](https://jobright.ai/jobs/info/6afb86d5c96cba79575bfe7f?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN, United States | Hybrid | Nov 16 |
 | **[Singleton Schreiber](https://singletonschreiber.com)** | **[Summer Associate - Personal Injury](https://jobright.ai/jobs/info/6afb876dbe8589f0b74bee50?utm_campaign=1055&utm_source=git)** | San Diego, CA, United States | On Site | Nov 16 |
 | **[Spire](https://www.spireenergy.com/)** | **[Intern, Pipeline Safety Compliance](https://jobright.ai/jobs/info/6af85e7586a9b19681af91d5?utm_campaign=1055&utm_source=git)** | Kansas City, MO, United States | On Site | Nov 16 |
@@ -134,11 +143,11 @@ For a complete list, click the following sortable link below:
 | **[MacArthur Justice Center (MJC)](https://www.macarthurjustice.org)** | **[Law Clerk Intern - Summer 2027](https://jobright.ai/jobs/info/6ad91545950ef68d5184dd4a?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 15 |
 | **[Diversified Energy Company](https://www.div.energy/)** | **[2027 Summer Intern- Land (Canton)](https://jobright.ai/jobs/info/6adcdaf15dc7953215a37ff9?utm_campaign=1055&utm_source=git)** | Canton, OH, United States | On Site | Nov 15 |
 | ↳ | **[2027 Summer Intern- Legal](https://jobright.ai/jobs/info/6ad2db2883ada13a9da083d8?utm_campaign=1055&utm_source=git)** | Charleston, West Virginia, United States | On Site | Nov 15 |
-| **[CVR Energy, Inc.](http://www.cvrenergy.com/index.html)** | **[Risk Management Intern](https://jobright.ai/jobs/info/6af64d878cc703bba47b1f1a?utm_campaign=1055&utm_source=git)** | Sugar Land, TX, United States | On Site | Nov 15 |
+| **[CVR Energy, Inc.](http://www.cvrenergy.com/index.html)** | **[Risk Management Intern](https://jobright.ai/jobs/info/6ae3d6a9d7424a2a828e34ee?utm_campaign=1055&utm_source=git)** | Sugar Land, TX, United States | On Site | Nov 15 |
 | **[Great West Casualty Company](https://ssl.gwccnet.com)** | **[Intern / Legal](https://jobright.ai/jobs/info/6aa9676d6d0edc2d91b097f2?utm_campaign=1055&utm_source=git)** | South Sioux City, NE, United States | On Site | Nov 15 |
 | **[WSB](http://wsbeng.com)** | **[Intern, Contract Admin (Summer 2027)](https://jobright.ai/jobs/info/6af3633110c7aed778619dbd?utm_campaign=1055&utm_source=git)** | Minneapolis, MN, United States | On Site | Nov 15 |
-| **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Corporate Law Intern](https://jobright.ai/jobs/info/6abea063064da25272e01cc8?utm_campaign=1055&utm_source=git)** | Woodbridge, New Jersey, United States | On Site | Nov 15 |
-| ↳ | **[Corporate Law Intern](https://jobright.ai/jobs/info/6aac22d63d96632d741a95df?utm_campaign=1055&utm_source=git)** | Woodbridge, NJ, United States | On Site | Nov 15 |
+| **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Corporate Law Intern](https://jobright.ai/jobs/info/6aac22d63d96632d741a95df?utm_campaign=1055&utm_source=git)** | Woodbridge, NJ, United States | On Site | Nov 15 |
+| ↳ | **[Corporate Law Intern](https://jobright.ai/jobs/info/6abea063064da25272e01cc8?utm_campaign=1055&utm_source=git)** | Woodbridge, New Jersey, United States | On Site | Nov 15 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Compliance (Year-Round)](https://jobright.ai/jobs/info/6aa3ab86626f9945308b2482?utm_campaign=1055&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Nov 14 |
 | **[National Immigrant Justice Center](https://immigrantjustice.org/)** | **[Public Interest Law Initiative (PILI)Summer Intern 2027 Detention Team](https://jobright.ai/jobs/info/6aec06fd80cb7b32eb76e06a?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 14 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Technical Risk Analyst - Security Regulatory Compliance)](https://jobright.ai/jobs/info/6adbacd846a8cabdc1ff4305?utm_campaign=1055&utm_source=git)** | Pensacola, FL, United States | Hybrid | Nov 14 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Camping World](https://investor.campingworld.com)** | **[Risk Intern](https://jobright.ai/jobs/info/6af787d68242286400646434?utm_campaign=1055&utm_source=git)** | Lincolnshire, Illinois, United States | Hybrid | Nov 14 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Technical Risk Analyst - Security Regulatory Compliance)](https://jobright.ai/jobs/info/6adba9fa9e3e874dbfba11c5?utm_campaign=1055&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 14 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2027 - Market Regulation Intern](https://jobright.ai/jobs/info/6adbc32a46a8cabdc1ff4984?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Nov 14 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Enterprise Risk - Data Risk Governance)](https://jobright.ai/jobs/info/6aa168332f936e4a53dab834?utm_campaign=1055&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 14 |
-| ↳ | **[Summer Associate Internship (Enterprise Risk - Data Risk Governance)](https://jobright.ai/jobs/info/6abea9e88ff3fb9b3bc74f6a?utm_campaign=1055&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 14 |
-| **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2027](https://jobright.ai/jobs/info/6a84eda2d34f700f87fbb866?utm_campaign=1055&utm_source=git)** | Fort Worth, TX, United States | On Site | Nov 14 |
-| ↳ | **[Loss Prevention Specialist Intern 2027](https://jobright.ai/jobs/info/6a85b4bae459fa3baa8634c5?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT, United States | On Site | Nov 14 |
-| ↳ | **[Loss Prevention Specialist Intern 2027](https://jobright.ai/jobs/info/6aa1ff32ef23570cae2473d2?utm_campaign=1055&utm_source=git)** | Jacksonville, FL, United States | On Site | Nov 14 |
-| **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a9ae3af9c24314c35f95b6a?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Nov 14 |
-| ↳ | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a9ae28cd5ff1f3f1c39b963?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Nov 14 |
-| **[Cisco](http://www.cisco.com)** | **[Legal Rising 3L  (Intern) - United States](https://jobright.ai/jobs/info/6aad9fb63dbb1f8967ceea57?utm_campaign=1055&utm_source=git)** | Research Triangle Park, NC, United States | Hybrid | Nov 14 |
-| **[J.S. Held LLC](http://jsheld.com/)** | **[Economic Damages & Valuation Internship - Summer 2027](https://jobright.ai/jobs/info/6ac01dba4ac55253f5d67b48?utm_campaign=1055&utm_source=git)** | Alpharetta, GA, United States | Hybrid | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

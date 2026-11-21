@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Travelers](https://www.travelers.com/)** | **[Risk Control Intern](https://jobright.ai/jobs/info/6b016e040ae14188d58c4073?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Nov 21 |
-| ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6b016e04df73191d2e6b138d?utm_campaign=1055&utm_source=git)** | Richardson, TX, United States | On Site | Nov 21 |
+| **[Kimball Electronics](http://www.kimballelectronics.com)** | **[Legal Analyst Intern](https://jobright.ai/jobs/info/6acfa55212303667b989f6d9?utm_campaign=1055&utm_source=git)** | Jasper, IN, United States | Remote | Nov 21 |
+| **[Travelers](https://www.travelers.com/)** | **[Risk Control Intern](https://jobright.ai/jobs/info/6b016e04df73191d2e6b138d?utm_campaign=1055&utm_source=git)** | Richardson, TX, United States | On Site | Nov 21 |
+| ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6b016e040ae14188d58c4073?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Nov 21 |
 | ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6b016e03f6ef85c61a50f3cf?utm_campaign=1055&utm_source=git)** | Saint Paul, MN, United States | On Site | Nov 21 |
 | ↳ | **[Risk Control Intern](https://jobright.ai/jobs/info/6b016e00505c87ccb3a2d23c?utm_campaign=1055&utm_source=git)** | Irvine, CA, United States | On Site | Nov 21 |
 | **[TikTok](https://www.tiktok.com)** | **[NA Regional & Product Policy - Project Intern (Global Monetization Product and Technology) - 2027 Start](https://jobright.ai/jobs/info/6ae5375177c09cb3bd4b29a9?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Nov 21 |
@@ -77,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Danaher](https://www.danaher.com)** | **[IT Governance, Risk & Compliance Intern](https://jobright.ai/jobs/info/6aa1b1f52f936e4a53dad861?utm_campaign=1055&utm_source=git)** | Coralville, IA, United States | On Site | Nov 20 |
 | ↳ | **[Regulatory Compliance Intern - Summer 2027](https://jobright.ai/jobs/info/6ac9113fc3a8af9c54a08ed8?utm_campaign=1055&utm_source=git)** | Logan, UT, United States | On Site | Nov 20 |
 | **[Reingold, Inc.](http://reingold.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6adbc52b5dc7953215a345ab?utm_campaign=1055&utm_source=git)** | Alexandria, VA, United States | On Site | Nov 20 |
-| **[Council on American-Islamic Relations (CAIR)](https://www.cair.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6b00b349dfa58e4c244ddb56?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Remote | Nov 20 |
 | **[The Inland Real Estate Group of Companies, Inc.](http://www.inlandgroup.com/)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/6ad03788fe7a9bd5a6b9bfdd?utm_campaign=1055&utm_source=git)** | Downers Grove, IL, United States | On Site | Nov 20 |
 | ↳ | **[Compliance Summer Intern](https://jobright.ai/jobs/info/6af413e1e841cc0145ad73db?utm_campaign=1055&utm_source=git)** | Oak Brook, IL, United States | On Site | Nov 20 |
 | **[First American](http://www.firstam.com)** | **[Graduate Intern- Commercial Title Underwriting (Summer 2027)](https://jobright.ai/jobs/info/6ae1276d67c31ab3489a0f9c?utm_campaign=1055&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 20 |
@@ -135,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[PHINIA](https://phinia.com)** | **[Law Clerk Intern - Year Round](https://jobright.ai/jobs/info/6aaabfc240807b73bd391a72?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI, United States | On Site | Nov 19 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[2027 Summer Internship - Legal Intern, 1st and 2nd Yr Law Students (Various Locations)](https://jobright.ai/jobs/info/6aff0da7aea17e3f50eacce6?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 19 |
 | ↳ | **[2027 Summer Internship - Legal Intern, 1st and 2nd Yr Law Students (Various Locations)](https://jobright.ai/jobs/info/6aff0c3b72b9be368528dd46?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Nov 19 |
-| ↳ | **[2027 Summer Internship - Legal Intern 1st Year Law Students (Oakbrook Terrace, IL)](https://jobright.ai/jobs/info/6aff122a97dcc4fc8dca83b9?utm_campaign=1055&utm_source=git)** | Oakbrook Terrace, IL, United States | Hybrid | Nov 19 |
 | ↳ | **[2027 Summer Internship - Legal Intern 1st Year Law Students (Oakbrook Terrace, IL)](https://jobright.ai/jobs/info/6aff0da7b88323bd981bb0a6?utm_campaign=1055&utm_source=git)** | Oakbrook Terrace, IL, United States | On Site | Nov 19 |
+| ↳ | **[2027 Summer Internship - Legal Intern 1st Year Law Students (Oakbrook Terrace, IL)](https://jobright.ai/jobs/info/6aff122a97dcc4fc8dca83b9?utm_campaign=1055&utm_source=git)** | Oakbrook Terrace, IL, United States | Hybrid | Nov 19 |
 | **[Pepco](www.pepco.com)** | **[2027 Summer Internship - Legal Intern, 1st and 2nd Yr Law Students (Various Locations)](https://jobright.ai/jobs/info/6aff1b78aea17e3f50ead4ce?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 19 |
 | ↳ | **[2027 Summer Internship - Legal Intern 1st Year Law Students (Oakbrook Terrace, IL)](https://jobright.ai/jobs/info/6aff1b0caea17e3f50ead450?utm_campaign=1055&utm_source=git)** | Oakbrook Terrace, IL, United States | Hybrid | Nov 19 |
 | **[Core Specialty Insurance Holdings, Inc.](https://corespecialty.com/)** | **[Contract Binding Intern - Summer 2027](https://jobright.ai/jobs/info/6aa84917654b2a9424cfbd3e?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ, United States | On Site | Nov 19 |

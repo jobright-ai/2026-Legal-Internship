@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lockton](https://global.lockton.com)** | **[Summer Associate 2027 Risk Solutions - Alabama, Atlanta, Charlotte, Florida](https://jobright.ai/jobs/info/6a74b3ab972ac843c69969f9?utm_campaign=1055&utm_source=git)** | Alabama, United States | On Site | Nov 22 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Supply Chain (Customs and Transport) (Winter, 2027)](https://jobright.ai/jobs/info/6b01f252505c87ccb3a2e375?utm_campaign=1055&utm_source=git)** | Dorval, QC, Canada | Hybrid | Nov 21 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Summer Intern - Legal Department](https://jobright.ai/jobs/info/6aac2c1e3d96632d741a9940?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 21 |
 | **[First American](http://www.firstam.com)** | **[Commercial Title Underwriting Graduate Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac9a4a5bf145fbf0e8b9c4c?utm_campaign=1055&utm_source=git)** | Phoenix, AZ, United States | On Site | Nov 21 |
@@ -89,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Danaher](https://www.danaher.com)** | **[IT Governance, Risk & Compliance Intern](https://jobright.ai/jobs/info/6aa1b1f52f936e4a53dad861?utm_campaign=1055&utm_source=git)** | Coralville, IA, United States | On Site | Nov 20 |
 | ↳ | **[Regulatory Compliance Intern - Summer 2027](https://jobright.ai/jobs/info/6ac9113fc3a8af9c54a08ed8?utm_campaign=1055&utm_source=git)** | Logan, UT, United States | On Site | Nov 20 |
 | **[Reingold, Inc.](http://reingold.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6adbc52b5dc7953215a345ab?utm_campaign=1055&utm_source=git)** | Alexandria, VA, United States | On Site | Nov 20 |
-| **[The Inland Real Estate Group of Companies, Inc.](http://www.inlandgroup.com/)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/6af413e1e841cc0145ad73db?utm_campaign=1055&utm_source=git)** | Oak Brook, IL, United States | On Site | Nov 20 |
-| ↳ | **[Compliance Summer Intern](https://jobright.ai/jobs/info/6ad03788fe7a9bd5a6b9bfdd?utm_campaign=1055&utm_source=git)** | Downers Grove, IL, United States | On Site | Nov 20 |
+| **[The Inland Real Estate Group of Companies, Inc.](http://www.inlandgroup.com/)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/6ad03788fe7a9bd5a6b9bfdd?utm_campaign=1055&utm_source=git)** | Downers Grove, IL, United States | On Site | Nov 20 |
+| ↳ | **[Compliance Summer Intern](https://jobright.ai/jobs/info/6af413e1e841cc0145ad73db?utm_campaign=1055&utm_source=git)** | Oak Brook, IL, United States | On Site | Nov 20 |
 | **[First American](http://www.firstam.com)** | **[Graduate Intern- Commercial Title Underwriting (Summer 2027)](https://jobright.ai/jobs/info/6ae1276d67c31ab3489a0f9c?utm_campaign=1055&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 20 |
 | **[Callaway Golf](http://www.callawaygolf.com)** | **[Summer 2027 Internship - Trade Compliance](https://jobright.ai/jobs/info/6b0097f889d8ca1e849579a0?utm_campaign=1055&utm_source=git)** | Carlsbad, CA, United States | On Site | Nov 20 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Justice & Public Safety - Office of Legal Services](https://jobright.ai/jobs/info/6afe04fe758942b6422b68c2?utm_campaign=1055&utm_source=git)** | Frankfort, KY, United States | On Site | Nov 20 |
@@ -112,7 +113,7 @@ For a complete list, click the following sortable link below:
 | **[State Street](https://www.statestreet.com/)** | **[State Street Model Risk Management - Quantitative Analyst - 2027 Summer Internship](https://jobright.ai/jobs/info/6affe46f80dbbb9015392cb8?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | On Site | Nov 19 |
 | **[StructaLink Group](structalinkgroup.com)** | **[Product Compliance Intern](https://jobright.ai/jobs/info/6affdfe36f4ca73dfeb46e21?utm_campaign=1055&utm_source=git)** | Rochester, NY, United States | On Site | Nov 19 |
 | **[PT Indorama Petrochemical](http://www.indoramaventures.com)** | **[Corporate Governance Intern 2027 Job Details / Indorama Ventures](https://jobright.ai/jobs/info/6affd58fdd029d798066eb6e?utm_campaign=1055&utm_source=git)** | Hilton Head Island, SC, United States | On Site | Nov 19 |
-| **[SAS](http://www.sas.com)** | **[Summer 2027 - Cybersecurity Compliance and AI Automation Intern](https://jobright.ai/jobs/info/6aff9a9b1126e09fee091abc?utm_campaign=1055&utm_source=git)** | Cary, NC, United States | Hybrid | Nov 19 |
+| **[SAS](http://www.sas.com)** | **[Summer 2027 - Cybersecurity Compliance and AI Automation Intern](https://jobright.ai/jobs/info/6aff85a4865dbcc3f26fd699?utm_campaign=1055&utm_source=git)** | Cary, NC, United States | Hybrid | Nov 19 |
 | ↳ | **[Summer 2027 - Cybersecurity Compliance and AI Automation Intern](https://jobright.ai/jobs/info/6affa65c6f4ca73dfeb4614b?utm_campaign=1055&utm_source=git)** | Cary, NC, United States | Hybrid | Nov 19 |
 | **[Bread Financial](https://www.breadfinancial.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6aff73f7c1c02a9acd80c02b?utm_campaign=1055&utm_source=git)** | Frisco, TX, United States | Hybrid | Nov 19 |
 | **[Sierra Club](http://sierraclub.org)** | **[Legal Intern](https://jobright.ai/jobs/info/6aa37887b47caa3aec72c24b?utm_campaign=1055&utm_source=git)** | Oakland, CA, United States | On Site | Nov 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rural King](https://www.ruralking.com)** | **[Internship - Legal](https://jobright.ai/jobs/info/6ac51311064da25272e14987?utm_campaign=1055&utm_source=git)** | Mattoon, IL, United States | On Site | Nov 19 |
 | **[New York Life](https://www.newyorklife.com/)** | **[New York Life Law Internship- Summer 2027](https://jobright.ai/jobs/info/6ae21d2d1f9d9308370ae374?utm_campaign=1055&utm_source=git)** | White Plains, NY, United States | Hybrid | Nov 19 |
 | **[Calamos Investments](http://www.calamos.com/)** | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/6aff0bc372b9be368528dd08?utm_campaign=1055&utm_source=git)** | Naperville, IL, United States | On Site | Nov 19 |
-| **[Pepco Holdings](https://www.pepco.com/)** | **[2027 Summer Internship - Legal Intern, 1st and 2nd Yr Law Students (Various Locations)](https://jobright.ai/jobs/info/6aff0ba472b9be368528dcf4?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Singleton Schreiber](https://singletonschreiber.com)** | **[Summer Associate](https://jobright.ai/jobs/info/6b00da92af6fea8c089b4f86?utm_campaign=1055&utm_source=git)** | Albuquerque, NM, United States | On Site | Nov 23 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[2027 Contracts Intern](https://jobright.ai/jobs/info/6b04c29958147eafa2995fe5?utm_campaign=1055&utm_source=git)** | Hanover, MD, United States | Hybrid | Nov 23 |
 | **[Allianz](https://www.allianz.com)** | **[Client Services Contract Intelligence Intern](https://jobright.ai/jobs/info/6b04ca972d88b678f1179cc9?utm_campaign=1055&utm_source=git)** | Richmond, VA, United States | Hybrid | Nov 23 |
 | **[Oatey Company](https://www.oatey.com//)** | **[Compliance  Intern (Quality & EHSS)](https://jobright.ai/jobs/info/6b04959c58147eafa2993ea4?utm_campaign=1055&utm_source=git)** | Omaha, NE, United States | On Site | Nov 23 |
@@ -80,7 +81,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6b044ab84c822a415e66f858?utm_campaign=1055&utm_source=git)** | Berwyn, PA, United States | Hybrid | Nov 23 |
 | **[Public Justice Center](https://www.publicjustice.org)** | **[Future Opening:  2027 Law Clerk Intern](https://jobright.ai/jobs/info/6b046bab4c822a415e67080b?utm_campaign=1055&utm_source=git)** | Baltimore, MD, United States | On Site | Nov 23 |
 | **[TechTonic Justice](www.techtonicjustice.org)** | **[Summer 2027 Legal Internship](https://jobright.ai/jobs/info/6b046a5c526905eb2bcf6b37?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 23 |
-| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern](https://jobright.ai/jobs/info/6b044b2e526905eb2bcf5cce?utm_campaign=1055&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 23 |
+| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern](https://jobright.ai/jobs/info/6b044ae0c8533c23e3c3485a?utm_campaign=1055&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 23 |
 | **[MacArthur Justice Center (MJC)](https://www.macarthurjustice.org)** | **[Law Clerk Intern - Summer 2027](https://jobright.ai/jobs/info/6ad91545950ef68d5184dd4a?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 23 |
 | **[Benesch](https://www.benesch.com)** | **[Civil Internship](https://jobright.ai/jobs/info/6ab0ab39dd960b415641968c?utm_campaign=1055&utm_source=git)** | Denver, CO, United States | On Site | Nov 23 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Law Student Summer Internship Program](https://jobright.ai/jobs/info/6b044e2121f0a1e0c8499c8d?utm_campaign=1055&utm_source=git)** | West Palm Beach, FL, United States | On Site | Nov 23 |
@@ -115,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[Travelers](https://www.travelers.com/)** | **[Risk Control Intern](https://jobright.ai/jobs/info/6b016302af6fea8c089b702f?utm_campaign=1055&utm_source=git)** | Overland Park, KS, United States | Hybrid | Nov 21 |
 | **[TotalEnergies](https://ventures.totalenergies.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6b00f7490ae14188d58c2afc?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | On Site | Nov 20 |
 | **[TAIT](http://www.taittowers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6b00625b0f536e0ba7273691?utm_campaign=1055&utm_source=git)** | Lititz, PA, United States | On Site | Nov 20 |
-| **[Singleton Schreiber](https://singletonschreiber.com)** | **[Summer Associate](https://jobright.ai/jobs/info/6b00da92af6fea8c089b4f86?utm_campaign=1055&utm_source=git)** | Albuquerque, NM, United States | On Site | Nov 20 |
 | **[Mom's Meals | A Purfoods Company](https://www.momsmeals.com)** | **[Compliance & Privacy Intern](https://jobright.ai/jobs/info/6b009b863a9a0230ab028e76?utm_campaign=1055&utm_source=git)** | Ankeny, IA, United States | On Site | Nov 20 |
 | **[EP Wealth Advisors](https://www.epwealth.com)** | **[Estate Planning Intern](https://jobright.ai/jobs/info/6b0093463a9a0230ab028857?utm_campaign=1055&utm_source=git)** | Torrance, CA, United States | On Site | Nov 20 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Children's Legal Intern (Unpaid)](https://jobright.ai/jobs/info/6afcbf9fd86c15318a38dd38?utm_campaign=1055&utm_source=git)** | Elizabeth, NJ, United States | Hybrid | Nov 20 |

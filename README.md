@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/6b06cecf2662686ad8e04e3b?utm_campaign=1055&utm_source=git)** | Yakima, WA, United States | Hybrid | Nov 25 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Summer Intern - Compliance](https://jobright.ai/jobs/info/6af8228142ae65e2c8f3b05a?utm_campaign=1055&utm_source=git)** | Cranberry Township, PA, United States | On Site | Nov 25 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Compliance Data Summer Intern](https://jobright.ai/jobs/info/6b06c0060cb1362925cf0902?utm_campaign=1055&utm_source=git)** | Topeka, KS, United States | On Site | Nov 25 |
 | **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[Law Clerk Intern- Corporation Counsel](https://jobright.ai/jobs/info/6b06994d780d96a5ccba5e27?utm_campaign=1055&utm_source=git)** | Pontiac, MI, United States | On Site | Nov 25 |
 | **[Jabil](https://www.jabil.com)** | **[Global Immigration Intern](https://jobright.ai/jobs/info/6b00819289d8ca1e84956c7f?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL, United States | On Site | Nov 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Supply Chain (Customs and Transport) (Winter, 2027)](https://jobright.ai/jobs/info/6b01f252505c87ccb3a2e375?utm_campaign=1055&utm_source=git)** | Dorval, QC, Canada | Hybrid | Nov 21 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Summer Intern - Legal Department](https://jobright.ai/jobs/info/6aac2c1e3d96632d741a9940?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 21 |
 | **[First American](http://www.firstam.com)** | **[Commercial Title Underwriting Graduate Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac9a4a5bf145fbf0e8b9c4c?utm_campaign=1055&utm_source=git)** | Phoenix, AZ, United States | On Site | Nov 21 |
-| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Legal Intern / Summer 2027 Job Details / Tractor Supply Company](https://jobright.ai/jobs/info/6af859cf34e2d29dcb75415b?utm_campaign=1055&utm_source=git)** | Brentwood, TN, United States | Hybrid | Nov 21 |
-| **[Cboe Global Markets](http://www.cboe.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6ae52bdfeab1f96730980316?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

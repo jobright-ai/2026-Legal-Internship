@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ferrovias](joinferrovias.com)** | **[Licensing & Regulatory Intern](https://jobright.ai/jobs/info/6b06f0ca0cb1362925cf1470?utm_campaign=1055&utm_source=git)** | El Segundo, CA, United States | On Site | Nov 25 |
+| **[General Dynamics Mission Systems–Canada](https://gdmissionsystems.ca/)** | **[Articling Student (In-House Legal Department) August 2027](https://jobright.ai/jobs/info/6b06ef09f29eaaf8773f4067?utm_campaign=1055&utm_source=git)** | Nepean, ON, Canada | Hybrid | Nov 25 |
 | **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/6b06cecf2662686ad8e04e3b?utm_campaign=1055&utm_source=git)** | Yakima, WA, United States | Hybrid | Nov 25 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Summer Intern - Compliance](https://jobright.ai/jobs/info/6af8228142ae65e2c8f3b05a?utm_campaign=1055&utm_source=git)** | Cranberry Township, PA, United States | On Site | Nov 25 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Compliance Data Summer Intern](https://jobright.ai/jobs/info/6b06c0060cb1362925cf0902?utm_campaign=1055&utm_source=git)** | Topeka, KS, United States | On Site | Nov 25 |
@@ -117,9 +119,8 @@ For a complete list, click the following sortable link below:
 | **[Oceaneering](http://www.oceaneering.com/)** | **[2027 Contracts Intern](https://jobright.ai/jobs/info/6b04c29958147eafa2995fe5?utm_campaign=1055&utm_source=git)** | Hanover, MD, United States | Hybrid | Nov 23 |
 | **[Allianz](https://www.allianz.com)** | **[Client Services Contract Intelligence Intern](https://jobright.ai/jobs/info/6b04ca972d88b678f1179cc9?utm_campaign=1055&utm_source=git)** | Richmond, VA, United States | Hybrid | Nov 23 |
 | **[Louisiana Blue](https://lablue.com)** | **[CW Legal Intern - Summer 2027](https://jobright.ai/jobs/info/6b05ed28460ce5352ae3ca27?utm_campaign=1055&utm_source=git)** | Baton Rouge, LA, United States | On Site | Nov 23 |
-| **[Columbus Regional Airport Authority](https://columbusairports.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6b0627dc460ce5352ae3eb8d?utm_campaign=1055&utm_source=git)** | Columbus, OH, United States | On Site | Nov 23 |
-| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Summer Intern Summer - Legal Compliance & Integrity](https://jobright.ai/jobs/info/6b05faa3460ce5352ae3d333?utm_campaign=1055&utm_source=git)** | Ridgefield, CT, United States | Hybrid | Nov 23 |
-| ↳ | **[Summer Legal Law School Intern](https://jobright.ai/jobs/info/6b05faba0e7eacd1ea645054?utm_campaign=1055&utm_source=git)** | Ridgefield, CT, United States | Hybrid | Nov 23 |
+| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Summer Legal Law School Intern](https://jobright.ai/jobs/info/6b05faba0e7eacd1ea645054?utm_campaign=1055&utm_source=git)** | Ridgefield, CT, United States | Hybrid | Nov 23 |
+| ↳ | **[Summer Intern Summer - Legal Compliance & Integrity](https://jobright.ai/jobs/info/6b05faa3460ce5352ae3d333?utm_campaign=1055&utm_source=git)** | Ridgefield, CT, United States | Hybrid | Nov 23 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Contracts Intern, Summer 2027 - New Hampshire](https://jobright.ai/jobs/info/6ae11729829a3bada15fa7c3?utm_campaign=1055&utm_source=git)** | Nashua, NH, United States | Hybrid | Nov 23 |
 | **[Oatey Company](https://www.oatey.com//)** | **[Compliance  Intern (Quality & EHSS)](https://jobright.ai/jobs/info/6b04959c58147eafa2993ea4?utm_campaign=1055&utm_source=git)** | Omaha, NE, United States | On Site | Nov 23 |
 | **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2027 Compliance Intern](https://jobright.ai/jobs/info/6b009af489d8ca1e84957b90?utm_campaign=1055&utm_source=git)** | Kansas City, KS, United States | On Site | Nov 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lockton](https://global.lockton.com)** | **[Summer Associate 2027 Risk Solutions - Alabama, Atlanta, Charlotte, Florida](https://jobright.ai/jobs/info/6a74b3ab972ac843c69969f9?utm_campaign=1055&utm_source=git)** | Alabama, United States | On Site | Nov 22 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Supply Chain (Customs and Transport) (Winter, 2027)](https://jobright.ai/jobs/info/6b01f252505c87ccb3a2e375?utm_campaign=1055&utm_source=git)** | Dorval, QC, Canada | Hybrid | Nov 21 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Summer Intern - Legal Department](https://jobright.ai/jobs/info/6aac2c1e3d96632d741a9940?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 21 |
-| **[First American](http://www.firstam.com)** | **[Commercial Title Underwriting Graduate Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac9a4a5bf145fbf0e8b9c4c?utm_campaign=1055&utm_source=git)** | Phoenix, AZ, United States | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

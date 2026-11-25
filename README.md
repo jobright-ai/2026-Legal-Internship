@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Tourism, Arts, & Heritage - Office of Legal Affairs](https://jobright.ai/jobs/info/6afc7bf407bef169f5001818?utm_campaign=1055&utm_source=git)** | Frankfort, KY, United States | On Site | Nov 24 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[IP, Expert Testimony Internship - Summer 2027 (Ocean Tomo, a part of J.S. Held)](https://jobright.ai/jobs/info/6aa9c4a53387a3d9b67d6c20?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 24 |
 | **[Equitable](https://equitable.com/)** | **[2027 Summer Intern – Legal Compliance & Financial Crime](https://jobright.ai/jobs/info/6b06065e45a65b5da366d9a3?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Nov 24 |
 | **[Type One Energy](https://www.typeoneenergy.com)** | **[Summer Internship - Intellectual Property](https://jobright.ai/jobs/info/6ae3726b77c09cb3bd4a5e87?utm_campaign=1055&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 24 |
@@ -111,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Allianz](https://www.allianz.com)** | **[Client Services Contract Intelligence Intern](https://jobright.ai/jobs/info/6b04ca972d88b678f1179cc9?utm_campaign=1055&utm_source=git)** | Richmond, VA, United States | Hybrid | Nov 23 |
 | **[Louisiana Blue](https://lablue.com)** | **[CW Legal Intern - Summer 2027](https://jobright.ai/jobs/info/6b05ed28460ce5352ae3ca27?utm_campaign=1055&utm_source=git)** | Baton Rouge, LA, United States | On Site | Nov 23 |
 | **[Columbus Regional Airport Authority](https://columbusairports.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6b0627dc460ce5352ae3eb8d?utm_campaign=1055&utm_source=git)** | Columbus, OH, United States | On Site | Nov 23 |
-| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Summer Legal Law School Intern](https://jobright.ai/jobs/info/6b05faba0e7eacd1ea645054?utm_campaign=1055&utm_source=git)** | Ridgefield, CT, United States | Hybrid | Nov 23 |
-| ↳ | **[Summer Intern Summer - Legal Compliance & Integrity](https://jobright.ai/jobs/info/6b05faa3460ce5352ae3d333?utm_campaign=1055&utm_source=git)** | Ridgefield, CT, United States | Hybrid | Nov 23 |
+| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Summer Intern Summer - Legal Compliance & Integrity](https://jobright.ai/jobs/info/6b05faa3460ce5352ae3d333?utm_campaign=1055&utm_source=git)** | Ridgefield, CT, United States | Hybrid | Nov 23 |
+| ↳ | **[Summer Legal Law School Intern](https://jobright.ai/jobs/info/6b05faba0e7eacd1ea645054?utm_campaign=1055&utm_source=git)** | Ridgefield, CT, United States | Hybrid | Nov 23 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Contracts Intern, Summer 2027 - New Hampshire](https://jobright.ai/jobs/info/6ae11729829a3bada15fa7c3?utm_campaign=1055&utm_source=git)** | Nashua, NH, United States | Hybrid | Nov 23 |
 | **[Oatey Company](https://www.oatey.com//)** | **[Compliance  Intern (Quality & EHSS)](https://jobright.ai/jobs/info/6b04959c58147eafa2993ea4?utm_campaign=1055&utm_source=git)** | Omaha, NE, United States | On Site | Nov 23 |
 | **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2027 Compliance Intern](https://jobright.ai/jobs/info/6b009af489d8ca1e84957b90?utm_campaign=1055&utm_source=git)** | Kansas City, KS, United States | On Site | Nov 23 |
@@ -131,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[NABCA](https://www.nabca.org)** | **[Legal Affairs Intern (Spring 2027 Internship)](https://jobright.ai/jobs/info/6b05a36763d280053ef8382f?utm_campaign=1055&utm_source=git)** | Arlington, VA, United States | On Site | Nov 23 |
 | **[DOXA](https://doxa.com)** | **[Legal Intern (Rising 2L) - Summer 2027](https://jobright.ai/jobs/info/6afb86d5c96cba79575bfe7f?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN, United States | Hybrid | Nov 23 |
 | **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Special Event Liability Underwriting Intern](https://jobright.ai/jobs/info/6b0478df526905eb2bcf7588?utm_campaign=1055&utm_source=git)** | Wakefield, MA, United States | On Site | Nov 23 |
-| **[Playfly Sports](https://www.playfly.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6b044ab84c822a415e66f858?utm_campaign=1055&utm_source=git)** | Berwyn, PA, United States | Hybrid | Nov 23 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6b044aba526905eb2bcf5cb7?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Nov 23 |
+| **[Playfly Sports](https://www.playfly.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6b044aba526905eb2bcf5cb7?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Nov 23 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6b044ab84c822a415e66f858?utm_campaign=1055&utm_source=git)** | Berwyn, PA, United States | Hybrid | Nov 23 |
 | **[Public Justice Center](https://www.publicjustice.org)** | **[Future Opening:  2027 Law Clerk Intern](https://jobright.ai/jobs/info/6b046bab4c822a415e67080b?utm_campaign=1055&utm_source=git)** | Baltimore, MD, United States | On Site | Nov 23 |
 | **[TechTonic Justice](www.techtonicjustice.org)** | **[Summer 2027 Legal Internship](https://jobright.ai/jobs/info/6b046a5c526905eb2bcf6b37?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 23 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern](https://jobright.ai/jobs/info/6b044ae0c8533c23e3c3485a?utm_campaign=1055&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Trideum Corporation](http://trideum.com)** | **[DoW Skillbridge Internship - Contract Administrator](https://jobright.ai/jobs/info/6aac07e32e757fcb5c8b34ce?utm_campaign=1055&utm_source=git)** | Huntsville, AL, United States | Hybrid | Nov 21 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Governance, Risk & Compliance (GRC) Intern](https://jobright.ai/jobs/info/6ae6205efb2cd420ace600ac?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 21 |
 | **[Kimball Electronics](http://www.kimballelectronics.com)** | **[Legal Analyst Intern](https://jobright.ai/jobs/info/6acfa55212303667b989f6d9?utm_campaign=1055&utm_source=git)** | Jasper, IN, United States | Remote | Nov 21 |
-| **[Safran Defense & Space, Inc.](https://www.safran-dsi.com/)** | **[Contract Administration Internship Job Details / Safran DSI](https://jobright.ai/jobs/info/6af8cd285c0a9086f361382b?utm_campaign=1055&utm_source=git)** | Bedford, NH, United States | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

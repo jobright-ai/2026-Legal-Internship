@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[J.S. Held LLC](http://jsheld.com/)** | **[IP, Expert Testimony Internship - Summer 2027 (Ocean Tomo, a part of J.S. Held)](https://jobright.ai/jobs/info/6aa9c4a53387a3d9b67d6c20?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 24 |
 | **[Equitable](https://equitable.com/)** | **[2027 Summer Intern – Legal Compliance & Financial Crime](https://jobright.ai/jobs/info/6b06065e45a65b5da366d9a3?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Nov 24 |
 | **[Type One Energy](https://www.typeoneenergy.com)** | **[Summer Internship - Intellectual Property](https://jobright.ai/jobs/info/6ae3726b77c09cb3bd4a5e87?utm_campaign=1055&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 24 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2027 Internship - Juris Banking](https://jobright.ai/jobs/info/6b05f0c50e7eacd1ea644990?utm_campaign=1055&utm_source=git)** | Phoenix, AZ, United States | On Site | Nov 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Governance, Risk & Compliance (GRC) Intern](https://jobright.ai/jobs/info/6ae6205efb2cd420ace600ac?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 21 |
 | **[Kimball Electronics](http://www.kimballelectronics.com)** | **[Legal Analyst Intern](https://jobright.ai/jobs/info/6acfa55212303667b989f6d9?utm_campaign=1055&utm_source=git)** | Jasper, IN, United States | Remote | Nov 21 |
 | **[Safran Defense & Space, Inc.](https://www.safran-dsi.com/)** | **[Contract Administration Internship Job Details / Safran DSI](https://jobright.ai/jobs/info/6af8cd285c0a9086f361382b?utm_campaign=1055&utm_source=git)** | Bedford, NH, United States | On Site | Nov 21 |
-| **[Santander](https://www.santander.com)** | **[2027 Operational Risk Management Summer Intern](https://jobright.ai/jobs/info/6b00d731af6fea8c089b4dff?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

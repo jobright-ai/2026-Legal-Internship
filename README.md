@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Allyn International](http://allynintl.com)** | **[Global Trade Compliance Intern](https://jobright.ai/jobs/info/6b074c33fbcb892eea5e22c8?utm_campaign=1055&utm_source=git)** | Fort Myers, FL, United States | On Site | Nov 25 |
-| ↳ | **[Global Trade Compliance Intern](https://jobright.ai/jobs/info/6b074bc6fbcb892eea5e2296?utm_campaign=1055&utm_source=git)** | Glenville, NY, United States | On Site | Nov 25 |
+| **[Allyn International](http://allynintl.com)** | **[Global Trade Compliance Intern](https://jobright.ai/jobs/info/6b074bc6fbcb892eea5e2296?utm_campaign=1055&utm_source=git)** | Glenville, NY, United States | On Site | Nov 25 |
+| ↳ | **[Global Trade Compliance Intern](https://jobright.ai/jobs/info/6b074c33fbcb892eea5e22c8?utm_campaign=1055&utm_source=git)** | Fort Myers, FL, United States | On Site | Nov 25 |
 | **[Avania](https://www.avaniaclinical.com/)** | **[Regulatory & Market Access Intern](https://jobright.ai/jobs/info/6a70c68502d93145bf88c25a?utm_campaign=1055&utm_source=git)** | United States | On Site | Nov 25 |
 | **[BFL CANADA](https://www.bflcanada.ca)** | **[Student-at-Law](https://jobright.ai/jobs/info/6b075c5a20135524ca72bfa2?utm_campaign=1055&utm_source=git)** | Montreal, QC, Canada | Hybrid | Nov 25 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Legal Internship - Summer 2027](https://jobright.ai/jobs/info/6b0775a908b131a5c657aabb?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 25 |
@@ -83,20 +83,20 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Licensing Intern](https://jobright.ai/jobs/info/6b071e60fbcb892eea5e07e2?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Nov 25 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Regulatory Business (Fall/Winter) Intern - Colorado](https://jobright.ai/jobs/info/6ae8df2b061d6d7ff3d7e00f?utm_campaign=1055&utm_source=git)** | Denver, CO, United States | Hybrid | Nov 25 |
 | **[Froedtert ThedaCare](http://www.froedtert.com)** | **[LEGAL INTERN - Days](https://jobright.ai/jobs/info/6afb18a15305ed998d919c7e?utm_campaign=1055&utm_source=git)** | Menomonee Falls, WI, United States | Hybrid | Nov 25 |
-| **[Regeneron](http://www.regeneron.com)** | **[2027 Summer Intern Corporate Governance & Securities](https://jobright.ai/jobs/info/6b0716866c5083822fdc6b5c?utm_campaign=1055&utm_source=git)** | Sleepy Hollow, New York, United States | Hybrid | Nov 25 |
-| ↳ | **[2027 Summer Intern Transactions Law Group](https://jobright.ai/jobs/info/6b06fd2bfbcb892eea5df5e8?utm_campaign=1055&utm_source=git)** | Sleepy Hollow, New York, United States | Hybrid | Nov 25 |
+| **[Regeneron](http://www.regeneron.com)** | **[2027 Summer Intern Transactions Law Group](https://jobright.ai/jobs/info/6b071765fbcb892eea5e04a2?utm_campaign=1055&utm_source=git)** | Sleepy Hollow, NY, United States | Hybrid | Nov 25 |
+| ↳ | **[2027 Summer Intern Corporate Governance & Securities](https://jobright.ai/jobs/info/6b0716866c5083822fdc6b5c?utm_campaign=1055&utm_source=git)** | Sleepy Hollow, New York, United States | Hybrid | Nov 25 |
 | ↳ | **[2027 Summer Intern R&D, Regulatory & Commercial Law](https://jobright.ai/jobs/info/6b07169f6c5083822fdc6b6f?utm_campaign=1055&utm_source=git)** | Sleepy Hollow, New York, United States | Hybrid | Nov 25 |
-| ↳ | **[2027 Summer Intern Transactions Law Group](https://jobright.ai/jobs/info/6b071765fbcb892eea5e04a2?utm_campaign=1055&utm_source=git)** | Sleepy Hollow, NY, United States | Hybrid | Nov 25 |
-| ↳ | **[2027 Summer Intern Intellectual Property](https://jobright.ai/jobs/info/6b07163620135524ca729ac1?utm_campaign=1055&utm_source=git)** | Tarrytown, New York, United States | Hybrid | Nov 25 |
+| ↳ | **[2027 Summer Intern Transactions Law Group](https://jobright.ai/jobs/info/6b06fd2bfbcb892eea5df5e8?utm_campaign=1055&utm_source=git)** | Sleepy Hollow, New York, United States | Hybrid | Nov 25 |
 | ↳ | **[2027 Summer Intern Intellectual Property](https://jobright.ai/jobs/info/6b06fd3a20135524ca728cfc?utm_campaign=1055&utm_source=git)** | Tarrytown, NY, United States | Hybrid | Nov 25 |
+| ↳ | **[2027 Summer Intern Intellectual Property](https://jobright.ai/jobs/info/6b07163620135524ca729ac1?utm_campaign=1055&utm_source=git)** | Tarrytown, New York, United States | Hybrid | Nov 25 |
 | **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern - Corporate Legal](https://jobright.ai/jobs/info/6aea3066fc85f3a39433144f?utm_campaign=1055&utm_source=git)** | Chesterfield, MO, United States | Hybrid | Nov 25 |
 | **[RWE](https://www.rwe.com)** | **[Legal Intern, Summer 2027 Job Details / RWE](https://jobright.ai/jobs/info/6b07114c6c5083822fdc673e?utm_campaign=1055&utm_source=git)** | Austin, TX, United States | On Site | Nov 25 |
 | ↳ | **[Legal Intern, Summer 2027 Job Details / RWE](https://jobright.ai/jobs/info/6b07105e2c2b1d2eebe11a6c?utm_campaign=1055&utm_source=git)** | Austin, TX, United States | On Site | Nov 25 |
 | **[Children's Rights](https://childrensrights.org)** | **[Summer 2027 Legal Internship](https://jobright.ai/jobs/info/6b070f92fbcb892eea5dfde6?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Nov 25 |
 | **[Denali Therapeutics](https://www.denalitherapeutics.com)** | **[Intern, Regulatory Affairs CMC Data/Digital](https://jobright.ai/jobs/info/6b0713da08b131a5c6577812?utm_campaign=1055&utm_source=git)** | South San Francisco, CA, United States | On Site | Nov 25 |
 | **[First American](http://www.firstam.com)** | **[Commercial Title Underwriting Graduate Intern (Summer 2027)](https://jobright.ai/jobs/info/6acd60e8a56e5406e57c11e7?utm_campaign=1055&utm_source=git)** | Clayton, MO, United States | On Site | Nov 25 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Strategic Sourcing Contracting Operations Intern](https://jobright.ai/jobs/info/6accf08f002e496d4beefa78?utm_campaign=1055&utm_source=git)** | St. Louis, MO, United States | Remote | Nov 25 |
-| ↳ | **[Strategic Sourcing Contracting Operations Intern](https://jobright.ai/jobs/info/6acd5511d113c967e3c7d5cb?utm_campaign=1055&utm_source=git)** | Saint Louis, MO, United States | Remote | Nov 25 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Strategic Sourcing Contracting Operations Intern](https://jobright.ai/jobs/info/6acd5511d113c967e3c7d5cb?utm_campaign=1055&utm_source=git)** | Saint Louis, MO, United States | Remote | Nov 25 |
+| ↳ | **[Strategic Sourcing Contracting Operations Intern](https://jobright.ai/jobs/info/6accf08f002e496d4beefa78?utm_campaign=1055&utm_source=git)** | St. Louis, MO, United States | Remote | Nov 25 |
 | **[Ferrovias](joinferrovias.com)** | **[Licensing & Regulatory Intern](https://jobright.ai/jobs/info/6b06f0ca0cb1362925cf1470?utm_campaign=1055&utm_source=git)** | El Segundo, CA, United States | On Site | Nov 25 |
 | **[General Dynamics Mission Systems–Canada](https://gdmissionsystems.ca/)** | **[Articling Student (In-House Legal Department) August 2027](https://jobright.ai/jobs/info/6b06ef09f29eaaf8773f4067?utm_campaign=1055&utm_source=git)** | Nepean, ON, Canada | Hybrid | Nov 25 |
 | **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/6b06cecf2662686ad8e04e3b?utm_campaign=1055&utm_source=git)** | Yakima, WA, United States | Hybrid | Nov 25 |

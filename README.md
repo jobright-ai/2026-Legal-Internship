@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Avania](https://www.avaniaclinical.com/)** | **[Regulatory & Market Access Intern](https://jobright.ai/jobs/info/6a70c68502d93145bf88c25a?utm_campaign=1055&utm_source=git)** | United States | On Site | Nov 25 |
+| **[BFL CANADA](https://www.bflcanada.ca)** | **[Student-at-Law](https://jobright.ai/jobs/info/6b075c5a20135524ca72bfa2?utm_campaign=1055&utm_source=git)** | Montreal, QC, Canada | Hybrid | Nov 25 |
+| **[El Paso Electric Company](http://epelectric.com)** | **[INTERN-SUMMER - ASSET MGMT & COMPLIANCE](https://jobright.ai/jobs/info/6b075890b624dcc57de797d5?utm_campaign=1055&utm_source=git)** | El Paso, TX, United States | On Site | Nov 25 |
 | **[BAE Systems](http://www.baesystems.com)** | **[NonTechnical Intern 4](https://jobright.ai/jobs/info/6b074d8320135524ca72bb21?utm_campaign=1055&utm_source=git)** | Nashua, NH, United States | Hybrid | Nov 25 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Governance, Risk and Compliance Intern (Summer 2027)](https://jobright.ai/jobs/info/6b07459c2c2b1d2eebe139f5?utm_campaign=1055&utm_source=git)** | Cincinnati, OH, United States | On Site | Nov 25 |
 | ↳ | **[Legal Intern (Summer 2027)](https://jobright.ai/jobs/info/6b07457e20135524ca72b5b5?utm_campaign=1055&utm_source=git)** | Cincinnati, OH, United States | On Site | Nov 25 |
@@ -73,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Regulatory Business (Fall/Winter) Intern - Colorado](https://jobright.ai/jobs/info/6ae8df2b061d6d7ff3d7e00f?utm_campaign=1055&utm_source=git)** | Denver, CO, United States | Hybrid | Nov 25 |
 | **[Froedtert ThedaCare](http://www.froedtert.com)** | **[LEGAL INTERN - Days](https://jobright.ai/jobs/info/6afb18a15305ed998d919c7e?utm_campaign=1055&utm_source=git)** | Menomonee Falls, WI, United States | Hybrid | Nov 25 |
 | **[Regeneron](http://www.regeneron.com)** | **[2027 Summer Intern Corporate Governance & Securities](https://jobright.ai/jobs/info/6b06fcf72c2b1d2eebe1113b?utm_campaign=1055&utm_source=git)** | Sleepy Hollow, New York, United States | Hybrid | Nov 25 |
-| ↳ | **[2027 Summer Intern Transactions Law Group](https://jobright.ai/jobs/info/6b06fd2bfbcb892eea5df5e8?utm_campaign=1055&utm_source=git)** | Sleepy Hollow, New York, United States | Hybrid | Nov 25 |
 | ↳ | **[2027 Summer Intern Transactions Law Group](https://jobright.ai/jobs/info/6b071765fbcb892eea5e04a2?utm_campaign=1055&utm_source=git)** | Sleepy Hollow, NY, United States | Hybrid | Nov 25 |
+| ↳ | **[2027 Summer Intern Transactions Law Group](https://jobright.ai/jobs/info/6b06fd2bfbcb892eea5df5e8?utm_campaign=1055&utm_source=git)** | Sleepy Hollow, New York, United States | Hybrid | Nov 25 |
 | ↳ | **[2027 Summer Intern R&D, Regulatory & Commercial Law](https://jobright.ai/jobs/info/6b07169f6c5083822fdc6b6f?utm_campaign=1055&utm_source=git)** | Sleepy Hollow, New York, United States | Hybrid | Nov 25 |
 | ↳ | **[2027 Summer Intern Intellectual Property](https://jobright.ai/jobs/info/6b06fd3a20135524ca728cfc?utm_campaign=1055&utm_source=git)** | Tarrytown, NY, United States | Hybrid | Nov 25 |
 | ↳ | **[2027 Summer Intern Intellectual Property](https://jobright.ai/jobs/info/6b07163620135524ca729ac1?utm_campaign=1055&utm_source=git)** | Tarrytown, New York, United States | Hybrid | Nov 25 |
@@ -151,10 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Oceaneering](http://www.oceaneering.com/)** | **[2027 Contracts Intern](https://jobright.ai/jobs/info/6b04c29958147eafa2995fe5?utm_campaign=1055&utm_source=git)** | Hanover, MD, United States | Hybrid | Nov 23 |
 | **[Allianz](https://www.allianz.com)** | **[Client Services Contract Intelligence Intern](https://jobright.ai/jobs/info/6b04ca972d88b678f1179cc9?utm_campaign=1055&utm_source=git)** | Richmond, VA, United States | Hybrid | Nov 23 |
 | **[Louisiana Blue](https://lablue.com)** | **[CW Legal Intern - Summer 2027](https://jobright.ai/jobs/info/6b05ed28460ce5352ae3ca27?utm_campaign=1055&utm_source=git)** | Baton Rouge, LA, United States | On Site | Nov 23 |
-| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Summer Intern Summer - Legal Compliance & Integrity](https://jobright.ai/jobs/info/6b05faa3460ce5352ae3d333?utm_campaign=1055&utm_source=git)** | Ridgefield, CT, United States | Hybrid | Nov 23 |
-| ↳ | **[Summer Legal Law School Intern](https://jobright.ai/jobs/info/6b05faba0e7eacd1ea645054?utm_campaign=1055&utm_source=git)** | Ridgefield, CT, United States | Hybrid | Nov 23 |
+| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Summer Legal Law School Intern](https://jobright.ai/jobs/info/6b05faba0e7eacd1ea645054?utm_campaign=1055&utm_source=git)** | Ridgefield, CT, United States | Hybrid | Nov 23 |
+| ↳ | **[Summer Intern Summer - Legal Compliance & Integrity](https://jobright.ai/jobs/info/6b05faa3460ce5352ae3d333?utm_campaign=1055&utm_source=git)** | Ridgefield, CT, United States | Hybrid | Nov 23 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Contracts Intern, Summer 2027 - New Hampshire](https://jobright.ai/jobs/info/6ae11729829a3bada15fa7c3?utm_campaign=1055&utm_source=git)** | Nashua, NH, United States | Hybrid | Nov 23 |
-| **[Oatey Company](https://www.oatey.com//)** | **[Compliance  Intern (Quality & EHSS)](https://jobright.ai/jobs/info/6b04959c58147eafa2993ea4?utm_campaign=1055&utm_source=git)** | Omaha, NE, United States | On Site | Nov 23 |
-| **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2027 Compliance Intern](https://jobright.ai/jobs/info/6b009af489d8ca1e84957b90?utm_campaign=1055&utm_source=git)** | Kansas City, KS, United States | On Site | Nov 23 |
-| **[Singleton Schreiber](https://singletonschreiber.com)** | **[Summer Associate - Personal Injury](https://jobright.ai/jobs/info/6aff9862dd029d798066db77?utm_campaign=1055&utm_source=git)** | San Diego, CA, United States | On Site | Nov 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Church Pension Group](https://www.cpg.org/)** | **[Legal Associate- 2027 Summer Hire](https://jobright.ai/jobs/info/6acfe129c9f40bec907fe916?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Nov 26 |
+| **[Lockton](https://global.lockton.com)** | **[Risk Solutions Intern - June 2027](https://jobright.ai/jobs/info/6a97e1c8d356304a02688550?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Nov 26 |
+| ↳ | **[Risk Solutions Intern - June 2027](https://jobright.ai/jobs/info/6a97e0addef18223c854cd3b?utm_campaign=1055&utm_source=git)** | Saint Louis, MO, United States | On Site | Nov 26 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Security and Compliance Internship - Summer 2027](https://jobright.ai/jobs/info/6b076c4f6c5083822fdc998b?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 25 |
 | ↳ | **[Legal Internship - Summer 2027](https://jobright.ai/jobs/info/6b0775a908b131a5c657aabb?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 25 |
 | **[ABRAMS](http://www.abramsbooks.com)** | **[Subsidiary Rights & Sales Intern](https://jobright.ai/jobs/info/6b076cdcfbcb892eea5e3239?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Nov 25 |
@@ -84,15 +87,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Licensing Intern](https://jobright.ai/jobs/info/6b071e60fbcb892eea5e07e2?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Nov 25 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Regulatory Business (Fall/Winter) Intern - Colorado](https://jobright.ai/jobs/info/6ae8df2b061d6d7ff3d7e00f?utm_campaign=1055&utm_source=git)** | Denver, CO, United States | Hybrid | Nov 25 |
 | **[Froedtert ThedaCare](http://www.froedtert.com)** | **[LEGAL INTERN - Days](https://jobright.ai/jobs/info/6afb18a15305ed998d919c7e?utm_campaign=1055&utm_source=git)** | Menomonee Falls, WI, United States | Hybrid | Nov 25 |
-| **[Regeneron](http://www.regeneron.com)** | **[2027 Summer Intern Corporate Governance & Securities](https://jobright.ai/jobs/info/6b0716866c5083822fdc6b5c?utm_campaign=1055&utm_source=git)** | Sleepy Hollow, New York, United States | Hybrid | Nov 25 |
+| **[Regeneron](http://www.regeneron.com)** | **[2027 Summer Intern Corporate Governance & Securities](https://jobright.ai/jobs/info/6b06fcf72c2b1d2eebe1113b?utm_campaign=1055&utm_source=git)** | Sleepy Hollow, New York, United States | Hybrid | Nov 25 |
 | ↳ | **[2027 Summer Intern R&D, Regulatory & Commercial Law](https://jobright.ai/jobs/info/6b07169f6c5083822fdc6b6f?utm_campaign=1055&utm_source=git)** | Sleepy Hollow, New York, United States | Hybrid | Nov 25 |
 | ↳ | **[2027 Summer Intern Transactions Law Group](https://jobright.ai/jobs/info/6b06fd2bfbcb892eea5df5e8?utm_campaign=1055&utm_source=git)** | Sleepy Hollow, New York, United States | Hybrid | Nov 25 |
 | ↳ | **[2027 Summer Intern Transactions Law Group](https://jobright.ai/jobs/info/6b071765fbcb892eea5e04a2?utm_campaign=1055&utm_source=git)** | Sleepy Hollow, NY, United States | Hybrid | Nov 25 |
 | ↳ | **[2027 Summer Intern Intellectual Property](https://jobright.ai/jobs/info/6b07163620135524ca729ac1?utm_campaign=1055&utm_source=git)** | Tarrytown, New York, United States | Hybrid | Nov 25 |
 | ↳ | **[2027 Summer Intern Intellectual Property](https://jobright.ai/jobs/info/6b06fd3a20135524ca728cfc?utm_campaign=1055&utm_source=git)** | Tarrytown, NY, United States | Hybrid | Nov 25 |
 | **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern - Corporate Legal](https://jobright.ai/jobs/info/6aea3066fc85f3a39433144f?utm_campaign=1055&utm_source=git)** | Chesterfield, MO, United States | Hybrid | Nov 25 |
-| **[RWE](https://www.rwe.com)** | **[Legal Intern, Summer 2027 Job Details / RWE](https://jobright.ai/jobs/info/6b07105e2c2b1d2eebe11a6c?utm_campaign=1055&utm_source=git)** | Austin, TX, United States | On Site | Nov 25 |
-| ↳ | **[Legal Intern, Summer 2027 Job Details / RWE](https://jobright.ai/jobs/info/6b07114c6c5083822fdc673e?utm_campaign=1055&utm_source=git)** | Austin, TX, United States | On Site | Nov 25 |
+| **[RWE](https://www.rwe.com)** | **[Legal Intern, Summer 2027 Job Details / RWE](https://jobright.ai/jobs/info/6b07114c6c5083822fdc673e?utm_campaign=1055&utm_source=git)** | Austin, TX, United States | On Site | Nov 25 |
+| ↳ | **[Legal Intern, Summer 2027 Job Details / RWE](https://jobright.ai/jobs/info/6b07105e2c2b1d2eebe11a6c?utm_campaign=1055&utm_source=git)** | Austin, TX, United States | On Site | Nov 25 |
 | **[Children's Rights](https://childrensrights.org)** | **[Summer 2027 Legal Internship](https://jobright.ai/jobs/info/6b070f92fbcb892eea5dfde6?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Nov 25 |
 | **[Denali Therapeutics](https://www.denalitherapeutics.com)** | **[Intern, Regulatory Affairs CMC Data/Digital](https://jobright.ai/jobs/info/6b0713da08b131a5c6577812?utm_campaign=1055&utm_source=git)** | South San Francisco, CA, United States | On Site | Nov 25 |
 | **[First American](http://www.firstam.com)** | **[Commercial Title Underwriting Graduate Intern (Summer 2027)](https://jobright.ai/jobs/info/6acd60e8a56e5406e57c11e7?utm_campaign=1055&utm_source=git)** | Clayton, MO, United States | On Site | Nov 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New York State Office of Mental Health](https://omh.ny.gov)** | **[Crime Analysis Center Intern - 229532](https://jobright.ai/jobs/info/6b0598e00a025d0ca4ff3cb8?utm_campaign=1055&utm_source=git)** | Albany, NY, United States | On Site | Nov 24 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2027 (Dallas)](https://jobright.ai/jobs/info/6acd3523d113c967e3c7caf8?utm_campaign=1055&utm_source=git)** | Dallas, TX, United States | On Site | Nov 24 |
 | **[Singleton Schreiber](https://singletonschreiber.com)** | **[Summer Associate](https://jobright.ai/jobs/info/6b00da92af6fea8c089b4f86?utm_campaign=1055&utm_source=git)** | Albuquerque, NM, United States | On Site | Nov 23 |
-| **[Oceaneering](http://www.oceaneering.com/)** | **[2027 Contracts Intern](https://jobright.ai/jobs/info/6b04c29958147eafa2995fe5?utm_campaign=1055&utm_source=git)** | Hanover, MD, United States | Hybrid | Nov 23 |
-| **[Allianz](https://www.allianz.com)** | **[Client Services Contract Intelligence Intern](https://jobright.ai/jobs/info/6b04ca972d88b678f1179cc9?utm_campaign=1055&utm_source=git)** | Richmond, VA, United States | Hybrid | Nov 23 |
-| **[Louisiana Blue](https://lablue.com)** | **[CW Legal Intern - Summer 2027](https://jobright.ai/jobs/info/6b05ed28460ce5352ae3ca27?utm_campaign=1055&utm_source=git)** | Baton Rouge, LA, United States | On Site | Nov 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
